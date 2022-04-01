@@ -1,0 +1,50 @@
+﻿tag,content,label,depth
+html body div a  ,跳到主要內容區,0,4
+html body div div div div div div div div div div div div div div div div ul li a  ,回首頁 Home,0,21
+html body div div div div div div div div div div div div div div div div ul li a  ,國立清華大學 NTHU,0,21
+html body div div div div div div div div div div div div div div div div ul li a  ,中心簡介,0,21
+html body div div div div div div div div div div div div div div div div ul li a  ,中心成員,0,21
+html body div div div div div div div div div div div div div div div div ul li ul li a  ,本中心主任,0,23
+html body div div div div div div div div div div div div div div div div ul li ul li a  ,合聘研究員,0,23
+html body div div div div div div div div div div div div div div div div ul li a  ,學術研究,0,21
+html body div div div div div div div div div div div div div div div div ul li ul li a  ,研究方向,0,23
+html body div div div div div div div div div div div div div div div div ul li ul li a  ,出版成果,0,23
+html body div div div div div div div div div div div div div div div div ul li ul li a  ,相關網站,0,23
+html body div div div div div div div div div div div div div div div div ul li a  ,活動資訊,0,21
+html body div div div div div div div div div div div div div div div div ul li ul li a  ,演講資訊,0,23
+html body div div div div div div div div div div div div div div div div ul li ul li a  ,研討會資訊,0,23
+html body div div div div div div div div div div div div div div div div ul li ul li a  ,其他活動消息,0,23
+html body div div div div div div div div div div div div div div div div ul li a  ,媒體報導,0,21
+html body div div div div div div div div div div div div div div div div ul li a  ,中心觀點,0,21
+html body div div div div div div div div div div div div div div div div ul li a  ,聯絡我們,0,21
+html body div div div div div div div div div div section ol li a  ,首頁,0,16
+html body div div div div div div div div div div section ol li a  ,演講資訊,0,16
+html body div div div div div div div div div div section div h2  ,「川普的台灣政策：對台灣的挑戰與機會」專題演講,1,15
+html body div div div div div div div div div div section div div div h1 span font span  ,川普的台灣政策：對台灣的挑戰與機會,1,20
+html body div div div div div div div div div div section div div div h1 span span  ,Trump's Policy toward Taiwan: Challenges and Opportunities,1,19
+html body div div div div div div div div div div section div div div p span span span strong  ,日期/,1,21
+html body div div div div div div div div div div section div div div p span span span strong span  ,Date,1,22
+html body div div div div div div div div div div section div div div p span span span  ,2017年03月14日 1:20~3:10PM,1,20
+html body div div div div div div div div div div section div div div p span span span  ,"March 14, 2017 (Tuesday)",1,20
+html body div div div div div div div div div div section div div div p span span span strong  ,地點/,1,21
+html body div div div div div div div div div div section div div div p span span span strong span  ,Venue,1,22
+html body div div div div div div div div div div section div div div p span span strong  ,清華大學台達館105教室,1,20
+html body div div div div div div div div div div section div div div p span span span  ,"Auditorium 105, Delta Building",1,20
+html body div div div div div div div div div div section div div div p span strong font  ,演講者/,1,20
+html body div div div div div div div div div div section div div div p span strong font  ,Speaker,1,20
+html body div div div div div div div div div div section div div div p font span b  ,司徒文博士/亞洲政策中心主任,1,20
+html body div div div div div div div div div div section div div div p span  ,Dr. William A. Stanton,1,18
+html body div div div div div div div div div div section div div em  ,瀏覽數:,0,16
+html body div div div div div div div div div div section div div em i  ,1673,0,17
+html body div div div div div div div div div div section div div a  ,友善列印,0,16
+html body div div div div div div div div div div section div div em  ,分享,0,16
+html body div div div div div div p  ,Copyright © 2020 National Tsing Hua University All rights reserved,0,9
+html body div div header div  ,登入,0,6
+html body div div div div div form div label  ,帳號,0,10
+html body div div div div div form div label  ,密碼,0,10
+html body div div div div div form div label abbr  ,*,0,11
+html body div div div div div form div label  ,驗證碼,0,10
+html body div div div div div form div div div div authimgreplacetag span a span  ,驗證碼語音播放器,0,16
+html body div div div div div form div a  ,忘記密碼,0,10
+html body div div  ,登入成功,0,4
+html body div div  ,Loading...,0,4

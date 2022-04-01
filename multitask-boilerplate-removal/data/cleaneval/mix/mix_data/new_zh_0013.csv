@@ -1,0 +1,167 @@
+﻿tag,content,label,depth
+html body div header div h1 a  ,文創PLUS 臺南創意中心,0,7
+html body div header div nav h2  ,Menu Navigation,0,7
+html body div header div nav div a  ,中文,0,8
+html body div header div nav div a  ,English,0,8
+html body div header div nav a span  ,全站搜尋,0,8
+html body div header div nav ul li a  ,中心簡介,0,9
+html body div header div nav ul li a em  ,About Us,0,10
+html body div header div nav ul li ul li a  ,文創PLUS,0,11
+html body div header div nav ul li ul li a em  ,About Creative Tainan,0,12
+html body div header div nav ul li ul li a  ,場館歷史,0,11
+html body div header div nav ul li ul li a em  ,History Of The Building,0,12
+html body div header div nav ul li ul li a  ,文創PLUS志工隊,0,11
+html body div header div nav ul li ul li a  ,相關問題,0,11
+html body div header div nav ul li ul li a em  ,Q & A,0,12
+html body div header div nav ul li ul li a  ,場地申請,0,11
+html body div header div nav ul li ul li a em  ,Venue application,0,12
+html body div header div nav ul li a  ,最新消息,0,9
+html body div header div nav ul li a em  ,News,0,10
+html body div header div nav ul li ul li a  ,最新消息,0,11
+html body div header div nav ul li ul li a em  ,News,0,12
+html body div header div nav ul li ul li a  ,文創補助訊息,0,11
+html body div header div nav ul li ul li a em  ,Subsidy,0,12
+html body div header div nav ul li ul li a  ,文創政策法令,0,11
+html body div header div nav ul li ul li a em  ,Policy Regulations,0,12
+html body div header div nav ul li a  ,活動總覽,0,9
+html body div header div nav ul li a em  ,Events,0,10
+html body div header div nav ul li ul li a  ,講座/課程,0,11
+html body div header div nav ul li ul li a  ,市集,0,11
+html body div header div nav ul li ul li a  ,課程,0,11
+html body div header div nav ul li ul li a  ,展演,0,11
+html body div header div nav ul li ul li a  ,講座,0,11
+html body div header div nav ul li a  ,文創刊物,0,9
+html body div header div nav ul li a em  ,Curtural Innovation,0,10
+html body div header div nav ul li a  ,文創資源,0,9
+html body div header div nav ul li a em  ,Creative Industries Database,0,10
+html body div header div nav ul li ul li a  ,政策法令,0,11
+html body div header div nav ul li ul li a em  ,Policy & Decree,0,12
+html body div header div nav ul li ul li a  ,輔導申請,0,11
+html body div header div nav ul li ul li a em  ,Counseling Application,0,12
+html body div header div nav ul li ul li a  ,臺南市文創政策資源輔導手冊下載,0,11
+html body div header div nav ul li ul li a em  ,Tainan City Cultural Innovation Policy Resource Guide,0,12
+html body div header div nav ul li ul li a  ,產業資源問題,0,11
+html body div header div nav ul li ul li a em  ,Q & A About Industrial Resource Problem,0,12
+html body div header div nav ul li ul li a  ,相關連結,0,11
+html body div header div nav ul li ul li a em  ,Related links,0,12
+html body div header div nav ul li ul li a  ,空間資源,0,11
+html body div header div nav ul li ul li a em  ,Resources,0,12
+html body div header div nav ul li ul li a  ,資金融通,0,11
+html body div header div nav ul li ul li a em  ,Funds,0,12
+html body div header div nav ul li ul li a  ,調查研究,0,11
+html body div header div nav ul li ul li a em  ,Research,0,12
+html body div header div nav ul li a  ,產業資料庫,0,9
+html body div header div nav ul li a em  ,Industries Database,0,10
+html body div header div nav ul li ul li a  ,申請加入產業資料庫,0,11
+html body div header div nav ul li ul li a em  ,Plus Creative Tainan,0,12
+html body div header div nav ul li ul li a  ,台南影視產業,0,11
+html body div header div nav ul li ul li a em  ,Tainan Film and Television,0,12
+html body div header div nav ul li ul li a  ,插畫設計,0,11
+html body div header div nav ul li ul li a em  ,Illustration design,0,12
+html body div header div nav ul li ul li a  ,創意食堂,0,11
+html body div header div nav ul li ul li a em  ,Creative canteen,0,12
+html body div header div nav ul li ul li a  ,文化資產應用及展演設施產業,0,11
+html body div header div nav ul li ul li a em  ,Cultural asset application and exhibition facilities,0,12
+html body div header div nav ul li ul li a  ,工藝產業,0,11
+html body div header div nav ul li ul li a em  ,Craft industry,0,12
+html body div header div nav ul li ul li a  ,電影產業,0,11
+html body div header div nav ul li ul li a em  ,Movie industry,0,12
+html body div header div nav ul li ul li a  ,廣播電視產業,0,11
+html body div header div nav ul li ul li a em  ,Broadcasting,0,12
+html body div header div nav ul li ul li a  ,出版產業,0,11
+html body div header div nav ul li ul li a em  ,Publishing industry,0,12
+html body div header div nav ul li ul li a  ,廣告產業,0,11
+html body div header div nav ul li ul li a em  ,Advertising industry,0,12
+html body div header div nav ul li ul li a  ,產品設計產業,0,11
+html body div header div nav ul li ul li a em  ,product design,0,12
+html body div header div nav ul li ul li a  ,視覺傳達設計產業,0,11
+html body div header div nav ul li ul li a em  ,Visual communication design,0,12
+html body div header div nav ul li ul li a  ,設計品牌時尚產業,0,11
+html body div header div nav ul li ul li a em  ,Design brand fashion,0,12
+html body div header div nav ul li ul li a  ,建築設計產業,0,11
+html body div header div nav ul li ul li a em  ,Architectural design,0,12
+html body div header div nav ul li ul li a  ,數位內容產業,0,11
+html body div header div nav ul li ul li a em  ,Digital content,0,12
+html body div header div nav ul li ul li a  ,創意生活產業,0,11
+html body div header div nav ul li ul li a em  ,creative life,0,12
+html body div header div nav ul li ul li a  ,流行音樂及文化內容產業,0,11
+html body div header div nav ul li ul li a em  ,Pop music and cultural content,0,12
+html body div header div nav ul li ul li a  ,視覺藝術產業,0,11
+html body div header div nav ul li ul li a em  ,Visual art,0,12
+html body div header div nav ul li ul li a  ,音樂及表演藝術產業,0,11
+html body div header div nav ul li ul li a em  ,Music and performing arts,0,12
+html body div header div nav ul li a  ,台南好設計,0,9
+html body div header div nav ul li a em  ,Creative Product,0,10
+html body div header div nav ul li ul li a  ,臺南設計獎,0,11
+html body div header div nav ul li ul li a em  ,Tainan Design Award,0,12
+html body div header div nav ul li ul li a  ,臺南十大創意商品,0,11
+html body div header div nav ul li ul li a em  ,Tainan's top ten creative products,0,12
+html body div header div nav ul li ul li a  ,蘭花文創設計,0,11
+html body div header div nav ul li ul li a em  ,Orchid Wenchuang Design,0,12
+html body div header div nav ul li ul li a  ,臺南織品設計,0,11
+html body div header div nav ul li ul li a em  ,Tainan fabric design,0,12
+html body div header div nav ul li a  ,"																			加入/登入文創PLUS",0,9
+html body div header div nav ul li a em  ,PLUS Join / log in to Wenchuang PLUS,0,10
+html body div header div nav ul li a  ,Facebook,0,9
+html body div header div nav ul li a  ,Line@,0,9
+html body div div div div ol a  ,回首頁,0,8
+html body div div div div ol  ,>,0,7
+html body div div div div ol a  ,活動總覽,0,8
+html body div div div div ol  ,>,0,7
+html body div div div div ol a  ,講座/課程,0,8
+html body div div div div ol  ,"(已額滿)文創PLUS志工講座：補冬好時節，千年流傳的生命科學Āyurveda 						",1,7
+html body div div div div div div div  ,2021/12/1,1,9
+html body div div div div div div div  ,(已額滿)文創PLUS志工講座：補冬好時節，千年流傳的生命科學Āyurveda,1,9
+html body div div div div div div p strong  ,.講座時間,1,10
+html body div div div div div div p  ,：2021年12月19日(日)14：30-17：00,1,9
+html body div div div div div div p strong  ,.講座地點,1,10
+html body div div div div div div p  ,：愛國婦人會館1F(臺南市中西區府前路一段197號),1,9
+html body div div div div div div p strong  ,.講座內容,1,10
+html body div div div div div div p  ,： “You are what you eat.”（你吃什麼就是什麼）——這句英文俗諺直接地說明飲食與料理的核心。在經歷了新冠肺炎襲擊後的冬天，該如何調養自己的身心?,1,9
+html body div div div div div div p  ,天氣越來越冷，該如何「補冬」？,1,9
+html body div div div div div div p  ,薑母鴨、燒酒雞真的有補到身體嗎？,1,9
+html body div div div div div div p  ,針對不同體質，有哪些方式來調理？,1,9
+html body div div div div div div p  ,你是否有過在寒冬吃完大補湯後，整個身體暖呼呼，像是得到救贖，但隔天口乾舌燥、心情不順暢的感受呢?食物能夠滋養身心，同時也可能成為毒素，這正是「醫食同源」的概念。Ayurveda意味著「生命的科學」。不只是一門醫療知識，更是一種生活方式與自我療愈的科學，強調個人的身體、心靈與環境的互動關係，鼓勵人們透過自我的覺察，選擇合適的生活樣態，調養好自己的身心，進而能夠以更完滿的方式服務他人。,1,9
+html body div div div div div div p strong  ,.講座現場由講師帶領品嘗阿育吠陀補冬料理及茶飲。,1,10
+html body div div div div div div p strong  ,.講師介紹:,1,10
+html body div div div div div div p  ,王肇芬是位土火型體質的人，職場專業是植物的醫生，畢業於中興大學及美國佛羅里達大學的植物病理學系；因緣分於2015年開始瑜珈及阿育吠的學習路程，深深著迷於阿育吠陀這既古老又實用的科學，帶著歡喜的心開始推廣這門學問，目前在成大通識課每學期介紹阿育吠陀 (六小時)，不定期舉辦阿育吠陀餐會及講座，每季推出料理課，希望更多人瞭解並應用阿育吠陀飲食管理。,1,9
+html body div div div div div div p strong  ,.報名連結：,1,10
+html body div div div div div div p strong a  ,https://reurl.cc/em2RDx,1,11
+html body div div div div div div div  ,【報名申請】,0,9
+html body div div div div div div div ul li p  ,人數,0,12
+html body div div div div div div div ul li p  ,50,0,12
+html body div div div div div div div ul li p  ,活動費用,0,12
+html body div div div div div div div ul li p  ,免費,0,12
+html body div div div div div div div ul li p  ,活動類型,0,12
+html body div div div div div div div ul li p  ,活動對象,0,12
+html body div div div div div div div ul li p  ,活動時間,0,12
+html body div div div div div div div ul li p  ,2021-12-19 ～,0,12
+html body div div div div div div div ul li p  ,地點名稱,0,12
+html body div div div div div div div ul li p  ,辦理單位,0,12
+html body div div div div div div div ul li p  ,臺南市政府文化局,0,12
+html body div div div div div div div ul li p  ,活動網址/活動資訊,0,12
+html body div div div div div div div ul li p a  ,連結,0,13
+html body div div div div div div a  ,回上一頁,0,9
+html body div div div div div div  ,"																	活動總覽",0,8
+html body div div div div div div span  ,Events,0,9
+html body div div div div div div ul li a  ,講座/課程,0,11
+html body div div div div div div ul li a  ,市集,0,11
+html body div div div div div div ul li a  ,課程,0,11
+html body div div div div div div ul li a  ,展演,0,11
+html body div div div div div div ul li a  ,講座,0,11
+html body div div div div div div form label  ,日期範圍搜尋,0,10
+html body div div div div div div form div span  ,到,0,11
+html body div footer div div div h2  ,文創PLUS 臺南創意中心,0,8
+html body div footer div div div p  ,台南市中西區府前路一段197號,0,8
+html body div footer div div div p  ,TEL: 06-214-9510,0,8
+html body div footer div div div p  ,FAX: 06-214-5760,0,8
+html body div footer div div div p  ,開館時間,0,8
+html body div footer div div div p span  ,09:00-17:00,0,9
+html body div footer div div div p  ,休館日：,0,8
+html body div footer div div div p span  ,小年夜、除夕休館二天,0,9
+html body div footer div div div p  ,本中心免費參觀,0,8
+html body div footer div div ul li a  ,Facebook,0,9
+html body div footer div div ul li a  ,Line@,0,9
+html body div footer div div div  ,2855093,0,7
+html body div footer div div div  ,Copyright © 臺南市政府文化局. Designed by,0,7
+html body div footer div div div a  ,E-SHOW,0,8

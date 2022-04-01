@@ -1,0 +1,5748 @@
+1 Physical GPUs, 1 Logical GPU
+Bert loaded
+Start Training.
+Calculate class weights...
+Class weights tf.Tensor([[0.47302673 0.52697327]], shape=(1, 2), dtype=float64)
+Fill up train and val buffer.
+==========
+Epoch 1/20
+train loss:	81.1798
+val loss:	0.5277*
+val_macro_f1:	0.3624*
+val_micro_f1:	0.3677
+-----
+train loss:	78.5357
+val loss:	0.6911
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	77.3932
+val loss:	0.4512*
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	75.2438
+val loss:	0.3122*
+val_macro_f1:	0.4966*
+val_micro_f1:	0.6468
+-----
+train loss:	73.0998
+val loss:	0.3236
+val_macro_f1:	0.5457*
+val_micro_f1:	0.6327
+-----
+train loss:	70.9447
+val loss:	0.3485
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	27.2933
+val loss:	0.3375
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	112.3374
+val loss:	0.3804
+val_macro_f1:	0.2663
+val_micro_f1:	0.3009
+-----
+train loss:	298.4070
+val loss:	0.4920
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	51.3356
+val loss:	0.7248
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	20.0958
+val loss:	0.8607
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	19.2377
+val loss:	1.0438
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	117.0546
+val loss:	1.0193
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	112.3060
+val loss:	0.8624
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	22.2316
+val loss:	0.6266
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	34.4547
+val loss:	0.4207
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	88.2949
+val loss:	0.3422
+val_macro_f1:	0.3676
+val_micro_f1:	0.3721
+-----
+train loss:	35.4570
+val loss:	0.3680
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	13.8763
+val loss:	0.3602
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	57.4679
+val loss:	0.3578
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	62.6167
+val loss:	0.3573
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	34.4516
+val loss:	0.3440
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	14.4641
+val loss:	0.3296
+val_macro_f1:	0.3628
+val_micro_f1:	0.3689
+-----
+train loss:	60.2752
+val loss:	0.3416
+val_macro_f1:	0.3333
+val_micro_f1:	0.4763
+-----
+train loss:	23.7787
+val loss:	0.3829
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	12.9298
+val loss:	0.4738
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	23.2467
+val loss:	0.5996
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	20.5207
+val loss:	0.6373
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	20.1056
+val loss:	0.6291
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	50.8352
+val loss:	0.5984
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	36.6920
+val loss:	0.5854
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	54.8624
+val loss:	0.5457
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	32.4561
+val loss:	0.5153
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	18.3457
+val loss:	0.4718
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	12.8089
+val loss:	0.4246
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	25.2906
+val loss:	0.3825
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	38.5358
+val loss:	0.3584
+val_macro_f1:	0.2743
+val_micro_f1:	0.3067
+-----
+train loss:	24.6091
+val loss:	0.3450
+val_macro_f1:	0.4131
+val_micro_f1:	0.4344
+-----
+train loss:	5.3217
+val loss:	0.3407
+val_macro_f1:	0.3660
+val_micro_f1:	0.3570
+-----
+train loss:	31.8074
+val loss:	0.3347
+val_macro_f1:	0.3622
+val_micro_f1:	0.3689
+-----
+train loss:	1.8853
+val loss:	0.3496
+val_macro_f1:	0.2873
+val_micro_f1:	0.3166
+-----
+train loss:	11.4298
+val loss:	0.3594
+val_macro_f1:	0.2671
+val_micro_f1:	0.3009
+-----
+train loss:	5.4271
+val loss:	0.3891
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	2.7444
+val loss:	0.4247
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	9.1270
+val loss:	0.4431
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	13.3771
+val loss:	0.4525
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	9.7889
+val loss:	0.4611
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	15.0626
+val loss:	0.4556
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	5.8523
+val loss:	0.4353
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	4.3498
+val loss:	0.4075
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	4.3842
+val loss:	0.3755
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	4.7597
+val loss:	0.3526
+val_macro_f1:	0.2666
+val_micro_f1:	0.2998
+-----
+train loss:	3.5174
+val loss:	0.3410
+val_macro_f1:	0.3169
+val_micro_f1:	0.4237
+-----
+train loss:	5.3514
+val loss:	0.3320
+val_macro_f1:	0.5010
+val_micro_f1:	0.6934
+-----
+train loss:	1.7396
+val loss:	0.3290
+val_macro_f1:	0.3616
+val_micro_f1:	0.3670
+-----
+train loss:	8.8039
+val loss:	0.3281
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	1.4953
+val loss:	0.3314
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.7706
+val loss:	0.3301
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+==========
+Epoch 2/20
+train loss:	0.4476
+val loss:	0.3326
+val_macro_f1:	0.4703
+val_micro_f1:	0.6217
+-----
+train loss:	0.4533
+val loss:	0.3408
+val_macro_f1:	0.3164
+val_micro_f1:	0.4628
+-----
+train loss:	0.3007
+val loss:	0.3642
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	0.6165
+val loss:	0.3890
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	0.4480
+val loss:	0.3882
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	0.3369
+val loss:	0.3797
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	0.3854
+val loss:	0.3738
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	0.6922
+val loss:	0.3722
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	0.3669
+val loss:	0.3665
+val_macro_f1:	0.2599
+val_micro_f1:	0.2950
+-----
+train loss:	1.3528
+val loss:	0.3575
+val_macro_f1:	0.2668
+val_micro_f1:	0.2982
+-----
+train loss:	0.6605
+val loss:	0.3396
+val_macro_f1:	0.3371
+val_micro_f1:	0.4579
+-----
+train loss:	0.5051
+val loss:	0.3400
+val_macro_f1:	0.3505
+val_micro_f1:	0.5394
+-----
+train loss:	0.8989
+val loss:	0.3286
+val_macro_f1:	0.3983
+val_micro_f1:	0.6540
+-----
+train loss:	0.6775
+val loss:	0.3229
+val_macro_f1:	0.5803*
+val_micro_f1:	0.7390
+-----
+train loss:	0.6051
+val loss:	0.3165
+val_macro_f1:	0.4348
+val_micro_f1:	0.5246
+-----
+train loss:	0.6483
+val loss:	0.3209
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.3109
+val loss:	0.3241
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.3969
+val loss:	0.3242
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.5019
+val loss:	0.3216
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.5323
+val loss:	0.3153
+val_macro_f1:	0.4742
+val_micro_f1:	0.5252
+-----
+train loss:	0.7984
+val loss:	0.3185
+val_macro_f1:	0.5533
+val_micro_f1:	0.6688
+-----
+train loss:	0.3295
+val loss:	0.3309
+val_macro_f1:	0.4688
+val_micro_f1:	0.6068
+-----
+train loss:	1.3742
+val loss:	0.3379
+val_macro_f1:	0.3885
+val_micro_f1:	0.5185
+-----
+train loss:	0.2607
+val loss:	0.3393
+val_macro_f1:	0.3648
+val_micro_f1:	0.4869
+-----
+train loss:	0.7614
+val loss:	0.3337
+val_macro_f1:	0.4231
+val_micro_f1:	0.5669
+-----
+train loss:	0.2363
+val loss:	0.3381
+val_macro_f1:	0.3916
+val_micro_f1:	0.4936
+-----
+train loss:	1.6200
+val loss:	0.3410
+val_macro_f1:	0.3626
+val_micro_f1:	0.4575
+-----
+train loss:	0.2647
+val loss:	0.3336
+val_macro_f1:	0.4146
+val_micro_f1:	0.5391
+-----
+train loss:	0.4201
+val loss:	0.3257
+val_macro_f1:	0.4902
+val_micro_f1:	0.6487
+-----
+train loss:	0.2526
+val loss:	0.3285
+val_macro_f1:	0.4801
+val_micro_f1:	0.6243
+-----
+train loss:	0.2404
+val loss:	0.3323
+val_macro_f1:	0.4489
+val_micro_f1:	0.5636
+-----
+train loss:	0.2117
+val loss:	0.3399
+val_macro_f1:	0.3698
+val_micro_f1:	0.4483
+-----
+train loss:	0.3038
+val loss:	0.3407
+val_macro_f1:	0.3545
+val_micro_f1:	0.4211
+-----
+train loss:	0.3529
+val loss:	0.3465
+val_macro_f1:	0.3391
+val_micro_f1:	0.4090
+-----
+train loss:	0.3230
+val loss:	0.3457
+val_macro_f1:	0.3505
+val_micro_f1:	0.4112
+-----
+train loss:	0.3404
+val loss:	0.3428
+val_macro_f1:	0.3495
+val_micro_f1:	0.4077
+-----
+train loss:	0.2136
+val loss:	0.3376
+val_macro_f1:	0.3892
+val_micro_f1:	0.4772
+-----
+train loss:	0.2204
+val loss:	0.3328
+val_macro_f1:	0.4372
+val_micro_f1:	0.5323
+-----
+train loss:	0.2472
+val loss:	0.3269
+val_macro_f1:	0.4926
+val_micro_f1:	0.5933
+-----
+train loss:	0.2601
+val loss:	0.3212
+val_macro_f1:	0.5431
+val_micro_f1:	0.6403
+-----
+train loss:	0.2686
+val loss:	0.3213
+val_macro_f1:	0.5257
+val_micro_f1:	0.6316
+-----
+train loss:	0.2889
+val loss:	0.3201
+val_macro_f1:	0.5203
+val_micro_f1:	0.6241
+-----
+train loss:	0.2425
+val loss:	0.3099*
+val_macro_f1:	0.5855*
+val_micro_f1:	0.7041
+-----
+train loss:	0.2207
+val loss:	0.3015*
+val_macro_f1:	0.5370
+val_micro_f1:	0.6234
+-----
+train loss:	0.1822
+val loss:	0.3186
+val_macro_f1:	0.3638
+val_micro_f1:	0.3699
+-----
+train loss:	0.1609
+val loss:	0.4091
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.3879
+val loss:	0.3876
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.3898
+val loss:	0.3223
+val_macro_f1:	0.3638
+val_micro_f1:	0.3699
+-----
+train loss:	0.2574
+val loss:	0.2909*
+val_macro_f1:	0.4077
+val_micro_f1:	0.4579
+-----
+train loss:	0.2027
+val loss:	0.2906*
+val_macro_f1:	0.6133*
+val_micro_f1:	0.7733
+-----
+train loss:	0.1774
+val loss:	0.3071
+val_macro_f1:	0.4953
+val_micro_f1:	0.6745
+-----
+train loss:	0.2844
+val loss:	0.3411
+val_macro_f1:	0.3446
+val_micro_f1:	0.4582
+-----
+train loss:	0.1728
+val loss:	0.3867
+val_macro_f1:	0.2834
+val_micro_f1:	0.3215
+-----
+train loss:	0.2397
+val loss:	0.4177
+val_macro_f1:	0.2798
+val_micro_f1:	0.3153
+-----
+train loss:	0.1222
+val loss:	0.4544
+val_macro_f1:	0.2722
+val_micro_f1:	0.3076
+-----
+train loss:	0.4514
+val loss:	0.4764
+val_macro_f1:	0.2706
+val_micro_f1:	0.3060
+-----
+train loss:	0.0837
+val loss:	0.5081
+val_macro_f1:	0.2706
+val_micro_f1:	0.3060
+-----
+train loss:	0.3352
+val loss:	0.5067
+val_macro_f1:	0.2706
+val_micro_f1:	0.3060
+-----
+train loss:	0.8325
+val loss:	0.4907
+val_macro_f1:	0.2706
+val_micro_f1:	0.3060
+-----
+==========
+Epoch 3/20
+train loss:	0.3623
+val loss:	0.4606
+val_macro_f1:	0.2706
+val_micro_f1:	0.3060
+-----
+train loss:	0.2844
+val loss:	0.4277
+val_macro_f1:	0.2753
+val_micro_f1:	0.3107
+-----
+train loss:	0.2157
+val loss:	0.4078
+val_macro_f1:	0.2813
+val_micro_f1:	0.3169
+-----
+train loss:	0.1575
+val loss:	0.3949
+val_macro_f1:	0.2813
+val_micro_f1:	0.3169
+-----
+train loss:	0.2812
+val loss:	0.3786
+val_macro_f1:	0.2799
+val_micro_f1:	0.3164
+-----
+train loss:	0.2669
+val loss:	0.3664
+val_macro_f1:	0.2814
+val_micro_f1:	0.3201
+-----
+train loss:	0.3037
+val loss:	0.3555
+val_macro_f1:	0.2828
+val_micro_f1:	0.3257
+-----
+train loss:	0.2189
+val loss:	0.3435
+val_macro_f1:	0.3051
+val_micro_f1:	0.3550
+-----
+train loss:	0.1930
+val loss:	0.3381
+val_macro_f1:	0.3363
+val_micro_f1:	0.4116
+-----
+train loss:	0.3773
+val loss:	0.3328
+val_macro_f1:	0.4385
+val_micro_f1:	0.6289
+-----
+train loss:	0.1432
+val loss:	0.3313
+val_macro_f1:	0.3890
+val_micro_f1:	0.4134
+-----
+train loss:	0.1912
+val loss:	0.3285
+val_macro_f1:	0.3653
+val_micro_f1:	0.3738
+-----
+train loss:	0.1844
+val loss:	0.3276
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.2314
+val loss:	0.3288
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.2243
+val loss:	0.3283
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.1433
+val loss:	0.3292
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.2853
+val loss:	0.3310
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.5159
+val loss:	0.3365
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.1693
+val loss:	0.3434
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.0688
+val loss:	0.3573
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.4135
+val loss:	0.3471
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.1896
+val loss:	0.3448
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.3873
+val loss:	0.3344
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.2524
+val loss:	0.3263
+val_macro_f1:	0.3624
+val_micro_f1:	0.3677
+-----
+train loss:	0.3261
+val loss:	0.3243
+val_macro_f1:	0.3638
+val_micro_f1:	0.3699
+-----
+train loss:	0.1729
+val loss:	0.3226
+val_macro_f1:	0.3741
+val_micro_f1:	0.3784
+-----
+train loss:	0.1887
+val loss:	0.3240
+val_macro_f1:	0.4411
+val_micro_f1:	0.4381
+-----
+train loss:	0.2386
+val loss:	0.3255
+val_macro_f1:	0.6011
+val_micro_f1:	0.6862
+-----
+train loss:	0.2052
+val loss:	0.3298
+val_macro_f1:	0.5758
+val_micro_f1:	0.6754
+-----
+train loss:	0.2089
+val loss:	0.3312
+val_macro_f1:	0.5248
+val_micro_f1:	0.6433
+-----
+train loss:	0.7690
+val loss:	0.3327
+val_macro_f1:	0.4394
+val_micro_f1:	0.5604
+-----
+train loss:	0.1979
+val loss:	0.3356
+val_macro_f1:	0.3953
+val_micro_f1:	0.4974
+-----
+train loss:	0.1850
+val loss:	0.3403
+val_macro_f1:	0.3285
+val_micro_f1:	0.4015
+-----
+train loss:	0.2005
+val loss:	0.3443
+val_macro_f1:	0.2905
+val_micro_f1:	0.3301
+-----
+train loss:	0.2133
+val loss:	0.3480
+val_macro_f1:	0.2856
+val_micro_f1:	0.3256
+-----
+train loss:	0.2688
+val loss:	0.3525
+val_macro_f1:	0.2828
+val_micro_f1:	0.3195
+-----
+train loss:	0.3444
+val loss:	0.3582
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1575
+val loss:	0.3666
+val_macro_f1:	0.2827
+val_micro_f1:	0.3184
+-----
+train loss:	0.2243
+val loss:	0.3701
+val_macro_f1:	0.2813
+val_micro_f1:	0.3169
+-----
+train loss:	0.2013
+val loss:	0.3669
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1449
+val loss:	0.3696
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1185
+val loss:	0.3756
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1840
+val loss:	0.3802
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.5852
+val loss:	0.3861
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.2054
+val loss:	0.3852
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1834
+val loss:	0.3878
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1858
+val loss:	0.3869
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1659
+val loss:	0.3858
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.2060
+val loss:	0.3826
+val_macro_f1:	0.2849
+val_micro_f1:	0.3215
+-----
+train loss:	0.1817
+val loss:	0.3804
+val_macro_f1:	0.2849
+val_micro_f1:	0.3215
+-----
+train loss:	0.1161
+val loss:	0.3802
+val_macro_f1:	0.2849
+val_micro_f1:	0.3215
+-----
+train loss:	0.1298
+val loss:	0.3837
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.0958
+val loss:	0.3865
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.2803
+val loss:	0.3830
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+==========
+Epoch 4/20
+train loss:	0.1025
+val loss:	0.3832
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1383
+val loss:	0.3891
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.2263
+val loss:	0.3825
+val_macro_f1:	0.2849
+val_micro_f1:	0.3215
+-----
+train loss:	0.1908
+val loss:	0.3825
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.0813
+val loss:	0.3815
+val_macro_f1:	0.2849
+val_micro_f1:	0.3215
+-----
+train loss:	0.2288
+val loss:	0.3752
+val_macro_f1:	0.2849
+val_micro_f1:	0.3215
+-----
+train loss:	0.1432
+val loss:	0.3783
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1253
+val loss:	0.3765
+val_macro_f1:	0.2849
+val_micro_f1:	0.3215
+-----
+train loss:	0.1241
+val loss:	0.3919
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.1450
+val loss:	0.4083
+val_macro_f1:	0.2842
+val_micro_f1:	0.3199
+-----
+train loss:	0.2262
+val loss:	0.3736
+val_macro_f1:	0.2870
+val_micro_f1:	0.3260
+-----
+train loss:	0.1754
+val loss:	0.3450
+val_macro_f1:	0.2877
+val_micro_f1:	0.3275
+-----
+train loss:	0.2148
+val loss:	0.3377
+val_macro_f1:	0.2919
+val_micro_f1:	0.3341
+-----
+train loss:	0.1198
+val loss:	0.3324
+val_macro_f1:	0.3374
+val_micro_f1:	0.4114
+-----
+train loss:	0.1974
+val loss:	0.3254
+val_macro_f1:	0.3743
+val_micro_f1:	0.4695
+-----
+train loss:	0.1269
+val loss:	0.3186
+val_macro_f1:	0.4692
+val_micro_f1:	0.6132
+-----
+train loss:	0.1550
+val loss:	0.3170
+val_macro_f1:	0.5093
+val_micro_f1:	0.6376
+-----
+train loss:	0.1643
+val loss:	0.3183
+val_macro_f1:	0.4983
+val_micro_f1:	0.6218
+-----
+train loss:	0.1700
+val loss:	0.3166
+val_macro_f1:	0.4771
+val_micro_f1:	0.6420
+-----
+train loss:	0.1609
+val loss:	0.3189
+val_macro_f1:	0.4423
+val_micro_f1:	0.5997
+-----
+train loss:	0.1191
+val loss:	0.3217
+val_macro_f1:	0.3906
+val_micro_f1:	0.5291
+-----
+train loss:	0.1367
+val loss:	0.3224
+val_macro_f1:	0.3767
+val_micro_f1:	0.4883
+-----
+train loss:	0.1717
+val loss:	0.3234
+val_macro_f1:	0.3701
+val_micro_f1:	0.4654
+-----
+train loss:	0.1406
+val loss:	0.3229
+val_macro_f1:	0.3720
+val_micro_f1:	0.4690
+-----
+train loss:	0.1324
+val loss:	0.3235
+val_macro_f1:	0.3809
+val_micro_f1:	0.4914
+-----
+train loss:	0.1512
+val loss:	0.3402
+val_macro_f1:	0.3472
+val_micro_f1:	0.4324
+-----
+train loss:	0.1925
+val loss:	0.3233
+val_macro_f1:	0.3881
+val_micro_f1:	0.5049
+-----
+train loss:	0.2005
+val loss:	0.3151
+val_macro_f1:	0.4200
+val_micro_f1:	0.5559
+-----
+train loss:	0.2701
+val loss:	0.3120
+val_macro_f1:	0.4250
+val_micro_f1:	0.5483
+-----
+train loss:	0.2372
+val loss:	0.2926
+val_macro_f1:	0.5090
+val_micro_f1:	0.6506
+-----
+train loss:	0.1637
+val loss:	0.2825*
+val_macro_f1:	0.6283*
+val_micro_f1:	0.7709
+-----
+train loss:	0.1514
+val loss:	0.2781*
+val_macro_f1:	0.6672*
+val_micro_f1:	0.7832
+-----
+train loss:	0.1400
+val loss:	0.2781*
+val_macro_f1:	0.6640
+val_micro_f1:	0.7280
+-----
+train loss:	0.1315
+val loss:	0.2785
+val_macro_f1:	0.6263
+val_micro_f1:	0.6657
+-----
+train loss:	0.1539
+val loss:	0.2833
+val_macro_f1:	0.5818
+val_micro_f1:	0.5833
+-----
+train loss:	0.2043
+val loss:	0.2834
+val_macro_f1:	0.5806
+val_micro_f1:	0.5727
+-----
+train loss:	0.0859
+val loss:	0.2795
+val_macro_f1:	0.5860
+val_micro_f1:	0.5818
+-----
+train loss:	0.1365
+val loss:	0.2612*
+val_macro_f1:	0.6336
+val_micro_f1:	0.6487
+-----
+train loss:	0.1270
+val loss:	0.2279*
+val_macro_f1:	0.7006*
+val_micro_f1:	0.7709
+-----
+train loss:	0.0993
+val loss:	0.2864
+val_macro_f1:	0.6120
+val_micro_f1:	0.7248
+-----
+train loss:	0.0963
+val loss:	0.3314
+val_macro_f1:	0.5364
+val_micro_f1:	0.6450
+-----
+train loss:	0.1414
+val loss:	0.5226
+val_macro_f1:	0.3754
+val_micro_f1:	0.4982
+-----
+train loss:	0.2773
+val loss:	0.4288
+val_macro_f1:	0.4221
+val_micro_f1:	0.5505
+-----
+train loss:	0.2979
+val loss:	0.2639
+val_macro_f1:	0.6274
+val_micro_f1:	0.7329
+-----
+train loss:	0.1690
+val loss:	0.2344
+val_macro_f1:	0.6869
+val_micro_f1:	0.7618
+-----
+train loss:	0.1233
+val loss:	0.2947
+val_macro_f1:	0.5766
+val_micro_f1:	0.5996
+-----
+train loss:	0.1457
+val loss:	0.3566
+val_macro_f1:	0.4327
+val_micro_f1:	0.4175
+-----
+train loss:	0.3402
+val loss:	0.3631
+val_macro_f1:	0.4225
+val_micro_f1:	0.4135
+-----
+train loss:	0.2030
+val loss:	0.3578
+val_macro_f1:	0.4314
+val_micro_f1:	0.4155
+-----
+train loss:	0.2760
+val loss:	0.3313
+val_macro_f1:	0.4461
+val_micro_f1:	0.4293
+-----
+train loss:	0.1696
+val loss:	0.3025
+val_macro_f1:	0.5373
+val_micro_f1:	0.5314
+-----
+train loss:	0.1995
+val loss:	0.2726
+val_macro_f1:	0.6282
+val_micro_f1:	0.6467
+-----
+train loss:	0.1317
+val loss:	0.2517
+val_macro_f1:	0.6818
+val_micro_f1:	0.7265
+-----
+train loss:	0.1275
+val loss:	0.2488
+val_macro_f1:	0.6809
+val_micro_f1:	0.7572
+-----
+train loss:	0.3647
+val loss:	0.2629
+val_macro_f1:	0.6644
+val_micro_f1:	0.7516
+-----
+train loss:	0.1503
+val loss:	0.2705
+val_macro_f1:	0.6321
+val_micro_f1:	0.7231
+-----
+train loss:	0.1369
+val loss:	0.2789
+val_macro_f1:	0.6087
+val_micro_f1:	0.7112
+-----
+train loss:	0.1385
+val loss:	0.2753
+val_macro_f1:	0.6152
+val_micro_f1:	0.7183
+-----
+train loss:	0.1698
+val loss:	0.2747
+val_macro_f1:	0.6203
+val_micro_f1:	0.7233
+-----
+==========
+Epoch 5/20
+train loss:	0.1634
+val loss:	0.2846
+val_macro_f1:	0.5775
+val_micro_f1:	0.6852
+-----
+train loss:	0.1064
+val loss:	0.3008
+val_macro_f1:	0.5447
+val_micro_f1:	0.6529
+-----
+train loss:	0.1511
+val loss:	0.3010
+val_macro_f1:	0.5525
+val_micro_f1:	0.6596
+-----
+train loss:	0.0862
+val loss:	0.3057
+val_macro_f1:	0.5445
+val_micro_f1:	0.6529
+-----
+train loss:	0.1032
+val loss:	0.3019
+val_macro_f1:	0.5566
+val_micro_f1:	0.6646
+-----
+train loss:	0.1886
+val loss:	0.2760
+val_macro_f1:	0.6020
+val_micro_f1:	0.7109
+-----
+train loss:	0.1831
+val loss:	0.2538
+val_macro_f1:	0.6763
+val_micro_f1:	0.7585
+-----
+train loss:	0.0735
+val loss:	0.2443
+val_macro_f1:	0.6979
+val_micro_f1:	0.7832
+-----
+train loss:	0.0994
+val loss:	0.2406
+val_macro_f1:	0.7016*
+val_micro_f1:	0.7734
+-----
+train loss:	0.1017
+val loss:	0.2402
+val_macro_f1:	0.7053*
+val_micro_f1:	0.7711
+-----
+train loss:	0.1032
+val loss:	0.2382
+val_macro_f1:	0.7188*
+val_micro_f1:	0.7769
+-----
+train loss:	0.1030
+val loss:	0.2377
+val_macro_f1:	0.7143
+val_micro_f1:	0.7712
+-----
+train loss:	0.1651
+val loss:	0.2353
+val_macro_f1:	0.7104
+val_micro_f1:	0.7732
+-----
+train loss:	0.1171
+val loss:	0.2316
+val_macro_f1:	0.7199*
+val_micro_f1:	0.7802
+-----
+train loss:	0.1166
+val loss:	0.2309
+val_macro_f1:	0.7118
+val_micro_f1:	0.7719
+-----
+train loss:	0.1442
+val loss:	0.2288
+val_macro_f1:	0.7085
+val_micro_f1:	0.7699
+-----
+train loss:	0.1268
+val loss:	0.2265*
+val_macro_f1:	0.7143
+val_micro_f1:	0.7738
+-----
+train loss:	0.1251
+val loss:	0.2228*
+val_macro_f1:	0.7161
+val_micro_f1:	0.7804
+-----
+train loss:	0.1194
+val loss:	0.2211*
+val_macro_f1:	0.7094
+val_micro_f1:	0.7812
+-----
+train loss:	0.1130
+val loss:	0.2211
+val_macro_f1:	0.6993
+val_micro_f1:	0.7860
+-----
+train loss:	0.1961
+val loss:	0.2343
+val_macro_f1:	0.7009
+val_micro_f1:	0.7899
+-----
+train loss:	0.0900
+val loss:	0.2515
+val_macro_f1:	0.6735
+val_micro_f1:	0.7657
+-----
+train loss:	0.1182
+val loss:	0.2546
+val_macro_f1:	0.6583
+val_micro_f1:	0.7522
+-----
+train loss:	0.0651
+val loss:	0.2584
+val_macro_f1:	0.6597
+val_micro_f1:	0.7534
+-----
+train loss:	0.3899
+val loss:	0.2266
+val_macro_f1:	0.7175
+val_micro_f1:	0.8101
+-----
+train loss:	0.0863
+val loss:	0.2197*
+val_macro_f1:	0.7330*
+val_micro_f1:	0.7966
+-----
+train loss:	0.0690
+val loss:	0.2310
+val_macro_f1:	0.6981
+val_micro_f1:	0.7423
+-----
+train loss:	0.1244
+val loss:	0.2468
+val_macro_f1:	0.6512
+val_micro_f1:	0.6828
+-----
+train loss:	0.0793
+val loss:	0.2587
+val_macro_f1:	0.6267
+val_micro_f1:	0.6427
+-----
+train loss:	0.1455
+val loss:	0.2730
+val_macro_f1:	0.6019
+val_micro_f1:	0.6040
+-----
+train loss:	0.1022
+val loss:	0.2828
+val_macro_f1:	0.5790
+val_micro_f1:	0.5665
+-----
+train loss:	0.2012
+val loss:	0.2799
+val_macro_f1:	0.5807
+val_micro_f1:	0.5696
+-----
+train loss:	0.1226
+val loss:	0.2756
+val_macro_f1:	0.5847
+val_micro_f1:	0.5772
+-----
+train loss:	0.1788
+val loss:	0.2645
+val_macro_f1:	0.6152
+val_micro_f1:	0.6275
+-----
+train loss:	0.0752
+val loss:	0.2540
+val_macro_f1:	0.6314
+val_micro_f1:	0.6508
+-----
+train loss:	0.1298
+val loss:	0.2413
+val_macro_f1:	0.6797
+val_micro_f1:	0.7118
+-----
+train loss:	0.0926
+val loss:	0.2315
+val_macro_f1:	0.6958
+val_micro_f1:	0.7394
+-----
+train loss:	0.1098
+val loss:	0.2211
+val_macro_f1:	0.7065
+val_micro_f1:	0.7539
+-----
+train loss:	0.0829
+val loss:	0.2127*
+val_macro_f1:	0.7191
+val_micro_f1:	0.7745
+-----
+train loss:	0.0730
+val loss:	0.2025*
+val_macro_f1:	0.7335*
+val_micro_f1:	0.7934
+-----
+train loss:	0.0613
+val loss:	0.1948*
+val_macro_f1:	0.7435*
+val_micro_f1:	0.8052
+-----
+train loss:	0.0534
+val loss:	0.1894*
+val_macro_f1:	0.7464*
+val_micro_f1:	0.8124
+-----
+train loss:	0.0499
+val loss:	0.1861*
+val_macro_f1:	0.7424
+val_micro_f1:	0.8111
+-----
+train loss:	0.0458
+val loss:	0.1860*
+val_macro_f1:	0.7353
+val_micro_f1:	0.8078
+-----
+train loss:	0.0380
+val loss:	0.1875
+val_macro_f1:	0.7309
+val_micro_f1:	0.8083
+-----
+train loss:	0.4197
+val loss:	0.1940
+val_macro_f1:	0.6989
+val_micro_f1:	0.7894
+-----
+train loss:	0.0775
+val loss:	0.2997
+val_macro_f1:	0.5576
+val_micro_f1:	0.6819
+-----
+train loss:	0.1041
+val loss:	0.4255
+val_macro_f1:	0.4410
+val_micro_f1:	0.5664
+-----
+train loss:	0.0891
+val loss:	0.5224
+val_macro_f1:	0.3457
+val_micro_f1:	0.4525
+-----
+train loss:	0.2107
+val loss:	0.5532
+val_macro_f1:	0.3345
+val_micro_f1:	0.4354
+-----
+train loss:	0.2154
+val loss:	0.5037
+val_macro_f1:	0.3569
+val_micro_f1:	0.4685
+-----
+train loss:	0.3213
+val loss:	0.4012
+val_macro_f1:	0.4461
+val_micro_f1:	0.5681
+-----
+train loss:	0.4284
+val loss:	0.2978
+val_macro_f1:	0.5574
+val_micro_f1:	0.6696
+-----
+train loss:	0.0624
+val loss:	0.2441
+val_macro_f1:	0.6717
+val_micro_f1:	0.7540
+-----
+train loss:	0.1213
+val loss:	0.2212
+val_macro_f1:	0.7105
+val_micro_f1:	0.7843
+-----
+train loss:	0.1160
+val loss:	0.2151
+val_macro_f1:	0.7206
+val_micro_f1:	0.7950
+-----
+train loss:	0.1019
+val loss:	0.2162
+val_macro_f1:	0.7232
+val_micro_f1:	0.7860
+-----
+train loss:	0.1560
+val loss:	0.2199
+val_macro_f1:	0.7218
+val_micro_f1:	0.7785
+-----
+train loss:	0.1048
+val loss:	0.2240
+val_macro_f1:	0.7118
+val_micro_f1:	0.7654
+-----
+train loss:	0.1047
+val loss:	0.2264
+val_macro_f1:	0.7141
+val_micro_f1:	0.7639
+-----
+train loss:	0.2674
+val loss:	0.2274
+val_macro_f1:	0.7114
+val_micro_f1:	0.7643
+-----
+train loss:	0.1589
+val loss:	0.2267
+val_macro_f1:	0.7201
+val_micro_f1:	0.7837
+-----
+train loss:	0.0978
+val loss:	0.2301
+val_macro_f1:	0.7232
+val_micro_f1:	0.7977
+-----
+train loss:	0.1785
+val loss:	0.2384
+val_macro_f1:	0.7161
+val_micro_f1:	0.8020
+-----
+train loss:	0.1096
+val loss:	0.2504
+val_macro_f1:	0.6866
+val_micro_f1:	0.7702
+-----
+train loss:	0.1112
+val loss:	0.2549
+val_macro_f1:	0.6771
+val_micro_f1:	0.7578
+-----
+train loss:	0.1008
+val loss:	0.2610
+val_macro_f1:	0.6480
+val_micro_f1:	0.7380
+-----
+train loss:	0.0983
+val loss:	0.2622
+val_macro_f1:	0.6462
+val_micro_f1:	0.7364
+-----
+==========
+Epoch 6/20
+train loss:	0.1297
+val loss:	0.2586
+val_macro_f1:	0.6561
+val_micro_f1:	0.7471
+-----
+train loss:	0.1021
+val loss:	0.2571
+val_macro_f1:	0.6557
+val_micro_f1:	0.7463
+-----
+train loss:	0.1486
+val loss:	0.2505
+val_macro_f1:	0.6883
+val_micro_f1:	0.7682
+-----
+train loss:	0.1182
+val loss:	0.2404
+val_macro_f1:	0.6986
+val_micro_f1:	0.7806
+-----
+train loss:	0.0918
+val loss:	0.2275
+val_macro_f1:	0.7218
+val_micro_f1:	0.7956
+-----
+train loss:	0.1043
+val loss:	0.2179
+val_macro_f1:	0.7352
+val_micro_f1:	0.8103
+-----
+train loss:	0.1510
+val loss:	0.2112
+val_macro_f1:	0.7405
+val_micro_f1:	0.8081
+-----
+train loss:	0.0700
+val loss:	0.2089
+val_macro_f1:	0.7439
+val_micro_f1:	0.8000
+-----
+train loss:	0.0669
+val loss:	0.2074
+val_macro_f1:	0.7347
+val_micro_f1:	0.7869
+-----
+train loss:	0.0483
+val loss:	0.2090
+val_macro_f1:	0.7303
+val_micro_f1:	0.7761
+-----
+train loss:	0.1198
+val loss:	0.2114
+val_macro_f1:	0.7235
+val_micro_f1:	0.7669
+-----
+train loss:	0.0954
+val loss:	0.2115
+val_macro_f1:	0.7224
+val_micro_f1:	0.7647
+-----
+train loss:	0.1129
+val loss:	0.2094
+val_macro_f1:	0.7230
+val_micro_f1:	0.7671
+-----
+train loss:	0.1377
+val loss:	0.2049
+val_macro_f1:	0.7297
+val_micro_f1:	0.7743
+-----
+train loss:	0.0709
+val loss:	0.2016
+val_macro_f1:	0.7323
+val_micro_f1:	0.7787
+-----
+train loss:	0.2539
+val loss:	0.1952
+val_macro_f1:	0.7449
+val_micro_f1:	0.7964
+-----
+train loss:	0.1058
+val loss:	0.2006
+val_macro_f1:	0.7206
+val_micro_f1:	0.7786
+-----
+train loss:	0.1226
+val loss:	0.2077
+val_macro_f1:	0.7145
+val_micro_f1:	0.7841
+-----
+train loss:	0.0914
+val loss:	0.2135
+val_macro_f1:	0.7198
+val_micro_f1:	0.7901
+-----
+train loss:	0.1707
+val loss:	0.2301
+val_macro_f1:	0.6968
+val_micro_f1:	0.7844
+-----
+train loss:	0.1474
+val loss:	0.2526
+val_macro_f1:	0.6662
+val_micro_f1:	0.7560
+-----
+train loss:	0.3556
+val loss:	0.2329
+val_macro_f1:	0.6936
+val_micro_f1:	0.7769
+-----
+train loss:	0.0927
+val loss:	0.2146
+val_macro_f1:	0.7177
+val_micro_f1:	0.7949
+-----
+train loss:	0.0771
+val loss:	0.2003
+val_macro_f1:	0.7267
+val_micro_f1:	0.7998
+-----
+train loss:	0.1070
+val loss:	0.1923
+val_macro_f1:	0.7375
+val_micro_f1:	0.8048
+-----
+train loss:	0.1086
+val loss:	0.1879
+val_macro_f1:	0.7568*
+val_micro_f1:	0.8165
+-----
+train loss:	0.1091
+val loss:	0.1897
+val_macro_f1:	0.7503
+val_micro_f1:	0.8078
+-----
+train loss:	0.1072
+val loss:	0.1907
+val_macro_f1:	0.7485
+val_micro_f1:	0.8033
+-----
+train loss:	0.1698
+val loss:	0.1894
+val_macro_f1:	0.7499
+val_micro_f1:	0.8098
+-----
+train loss:	0.1418
+val loss:	0.1869
+val_macro_f1:	0.7512
+val_micro_f1:	0.8153
+-----
+train loss:	0.1303
+val loss:	0.1869
+val_macro_f1:	0.7606*
+val_micro_f1:	0.8267
+-----
+train loss:	0.1234
+val loss:	0.1891
+val_macro_f1:	0.7630*
+val_micro_f1:	0.8289
+-----
+train loss:	0.1189
+val loss:	0.1947
+val_macro_f1:	0.7392
+val_micro_f1:	0.7994
+-----
+train loss:	0.1377
+val loss:	0.1988
+val_macro_f1:	0.7320
+val_micro_f1:	0.7920
+-----
+train loss:	0.0734
+val loss:	0.2011
+val_macro_f1:	0.7286
+val_micro_f1:	0.7883
+-----
+train loss:	0.1674
+val loss:	0.2086
+val_macro_f1:	0.7146
+val_micro_f1:	0.7773
+-----
+train loss:	0.1376
+val loss:	0.2317
+val_macro_f1:	0.6918
+val_micro_f1:	0.7655
+-----
+train loss:	0.0985
+val loss:	0.2568
+val_macro_f1:	0.6416
+val_micro_f1:	0.7206
+-----
+train loss:	0.0998
+val loss:	0.2827
+val_macro_f1:	0.5744
+val_micro_f1:	0.6611
+-----
+train loss:	0.2449
+val loss:	0.2720
+val_macro_f1:	0.5897
+val_micro_f1:	0.6733
+-----
+train loss:	0.0743
+val loss:	0.2590
+val_macro_f1:	0.6314
+val_micro_f1:	0.7134
+-----
+train loss:	0.0694
+val loss:	0.2470
+val_macro_f1:	0.6721
+val_micro_f1:	0.7451
+-----
+train loss:	0.1784
+val loss:	0.2230
+val_macro_f1:	0.7062
+val_micro_f1:	0.7731
+-----
+train loss:	0.1414
+val loss:	0.2122
+val_macro_f1:	0.7418
+val_micro_f1:	0.7956
+-----
+train loss:	0.0750
+val loss:	0.2062
+val_macro_f1:	0.7379
+val_micro_f1:	0.7944
+-----
+train loss:	0.1195
+val loss:	0.2033
+val_macro_f1:	0.7532
+val_micro_f1:	0.8038
+-----
+train loss:	0.1630
+val loss:	0.1986
+val_macro_f1:	0.7533
+val_micro_f1:	0.8126
+-----
+train loss:	0.0980
+val loss:	0.1984
+val_macro_f1:	0.7560
+val_micro_f1:	0.8109
+-----
+train loss:	0.0992
+val loss:	0.1991
+val_macro_f1:	0.7558
+val_micro_f1:	0.8075
+-----
+train loss:	0.0673
+val loss:	0.2002
+val_macro_f1:	0.7444
+val_micro_f1:	0.7947
+-----
+train loss:	0.1066
+val loss:	0.2010
+val_macro_f1:	0.7440
+val_micro_f1:	0.7924
+-----
+train loss:	0.0893
+val loss:	0.2022
+val_macro_f1:	0.7329
+val_micro_f1:	0.7815
+-----
+train loss:	0.0953
+val loss:	0.2007
+val_macro_f1:	0.7409
+val_micro_f1:	0.7843
+-----
+train loss:	0.0650
+val loss:	0.1968
+val_macro_f1:	0.7458
+val_micro_f1:	0.7905
+-----
+train loss:	0.1563
+val loss:	0.1898
+val_macro_f1:	0.7477
+val_micro_f1:	0.7958
+-----
+train loss:	0.0418
+val loss:	0.1836*
+val_macro_f1:	0.7606
+val_micro_f1:	0.8069
+-----
+train loss:	0.0405
+val loss:	0.1784*
+val_macro_f1:	0.7599
+val_micro_f1:	0.8141
+-----
+train loss:	0.0392
+val loss:	0.1763*
+val_macro_f1:	0.7650*
+val_micro_f1:	0.8179
+-----
+train loss:	0.0385
+val loss:	0.1756*
+val_macro_f1:	0.7561
+val_micro_f1:	0.8098
+-----
+train loss:	0.0376
+val loss:	0.1774
+val_macro_f1:	0.7589
+val_micro_f1:	0.8101
+-----
+train loss:	0.1031
+val loss:	0.1856
+val_macro_f1:	0.7485
+val_micro_f1:	0.8017
+-----
+==========
+Epoch 7/20
+train loss:	0.1248
+val loss:	0.1985
+val_macro_f1:	0.7376
+val_micro_f1:	0.7932
+-----
+train loss:	0.0510
+val loss:	0.2158
+val_macro_f1:	0.7218
+val_micro_f1:	0.7782
+-----
+train loss:	0.0449
+val loss:	0.2286
+val_macro_f1:	0.7086
+val_micro_f1:	0.7680
+-----
+train loss:	0.0355
+val loss:	0.2489
+val_macro_f1:	0.6754
+val_micro_f1:	0.7430
+-----
+train loss:	0.0796
+val loss:	0.2599
+val_macro_f1:	0.6508
+val_micro_f1:	0.7265
+-----
+train loss:	0.0360
+val loss:	0.2757
+val_macro_f1:	0.6299
+val_micro_f1:	0.7112
+-----
+train loss:	0.0673
+val loss:	0.2705
+val_macro_f1:	0.6378
+val_micro_f1:	0.7158
+-----
+train loss:	0.0807
+val loss:	0.2616
+val_macro_f1:	0.6678
+val_micro_f1:	0.7378
+-----
+train loss:	0.0989
+val loss:	0.2220
+val_macro_f1:	0.7130
+val_micro_f1:	0.7766
+-----
+train loss:	0.1576
+val loss:	0.1837
+val_macro_f1:	0.7471
+val_micro_f1:	0.7985
+-----
+train loss:	0.0678
+val loss:	0.1657*
+val_macro_f1:	0.7500
+val_micro_f1:	0.8101
+-----
+train loss:	0.0642
+val loss:	0.1626*
+val_macro_f1:	0.7583
+val_micro_f1:	0.8140
+-----
+train loss:	0.0706
+val loss:	0.1655
+val_macro_f1:	0.7569
+val_micro_f1:	0.8068
+-----
+train loss:	0.0349
+val loss:	0.1675
+val_macro_f1:	0.7638
+val_micro_f1:	0.8125
+-----
+train loss:	0.0594
+val loss:	0.1724
+val_macro_f1:	0.7669*
+val_micro_f1:	0.8150
+-----
+train loss:	0.0558
+val loss:	0.1783
+val_macro_f1:	0.7619
+val_micro_f1:	0.8122
+-----
+train loss:	0.0948
+val loss:	0.1780
+val_macro_f1:	0.7565
+val_micro_f1:	0.8071
+-----
+train loss:	0.0232
+val loss:	0.1783
+val_macro_f1:	0.7533
+val_micro_f1:	0.8082
+-----
+train loss:	0.1220
+val loss:	0.1722
+val_macro_f1:	0.7483
+val_micro_f1:	0.8055
+-----
+train loss:	0.0916
+val loss:	0.1663
+val_macro_f1:	0.7445
+val_micro_f1:	0.8079
+-----
+train loss:	0.2696
+val loss:	0.1715
+val_macro_f1:	0.7420
+val_micro_f1:	0.8017
+-----
+train loss:	0.0580
+val loss:	0.2109
+val_macro_f1:	0.7192
+val_micro_f1:	0.7758
+-----
+train loss:	0.0979
+val loss:	0.2627
+val_macro_f1:	0.6497
+val_micro_f1:	0.7245
+-----
+train loss:	0.4424
+val loss:	0.2194
+val_macro_f1:	0.7081
+val_micro_f1:	0.7680
+-----
+train loss:	0.0978
+val loss:	0.1843
+val_macro_f1:	0.7424
+val_micro_f1:	0.7945
+-----
+train loss:	0.1198
+val loss:	0.1801
+val_macro_f1:	0.7436
+val_micro_f1:	0.7969
+-----
+train loss:	0.1642
+val loss:	0.1855
+val_macro_f1:	0.7374
+val_micro_f1:	0.7898
+-----
+train loss:	0.1108
+val loss:	0.1958
+val_macro_f1:	0.7458
+val_micro_f1:	0.7944
+-----
+train loss:	0.1157
+val loss:	0.1991
+val_macro_f1:	0.7360
+val_micro_f1:	0.7893
+-----
+train loss:	0.1084
+val loss:	0.1953
+val_macro_f1:	0.7405
+val_micro_f1:	0.7988
+-----
+train loss:	0.0561
+val loss:	0.1922
+val_macro_f1:	0.7442
+val_micro_f1:	0.8063
+-----
+train loss:	0.1205
+val loss:	0.1878
+val_macro_f1:	0.7433
+val_micro_f1:	0.8070
+-----
+train loss:	0.0875
+val loss:	0.1867
+val_macro_f1:	0.7478
+val_micro_f1:	0.8059
+-----
+train loss:	0.0933
+val loss:	0.1891
+val_macro_f1:	0.7510
+val_micro_f1:	0.8005
+-----
+train loss:	0.0967
+val loss:	0.1911
+val_macro_f1:	0.7441
+val_micro_f1:	0.7985
+-----
+train loss:	0.0582
+val loss:	0.1960
+val_macro_f1:	0.7395
+val_micro_f1:	0.7922
+-----
+train loss:	0.2214
+val loss:	0.1894
+val_macro_f1:	0.7467
+val_micro_f1:	0.7992
+-----
+train loss:	0.0638
+val loss:	0.1851
+val_macro_f1:	0.7579
+val_micro_f1:	0.8081
+-----
+train loss:	0.0984
+val loss:	0.1825
+val_macro_f1:	0.7574
+val_micro_f1:	0.8126
+-----
+train loss:	0.0265
+val loss:	0.1831
+val_macro_f1:	0.7520
+val_micro_f1:	0.8134
+-----
+train loss:	0.0787
+val loss:	0.1866
+val_macro_f1:	0.7467
+val_micro_f1:	0.8063
+-----
+train loss:	0.0688
+val loss:	0.1972
+val_macro_f1:	0.7332
+val_micro_f1:	0.7916
+-----
+train loss:	0.1310
+val loss:	0.1992
+val_macro_f1:	0.7306
+val_micro_f1:	0.7886
+-----
+train loss:	0.0716
+val loss:	0.2003
+val_macro_f1:	0.7278
+val_micro_f1:	0.7898
+-----
+train loss:	0.0991
+val loss:	0.1938
+val_macro_f1:	0.7365
+val_micro_f1:	0.7922
+-----
+train loss:	0.0743
+val loss:	0.1924
+val_macro_f1:	0.7406
+val_micro_f1:	0.7923
+-----
+train loss:	0.0746
+val loss:	0.1862
+val_macro_f1:	0.7536
+val_micro_f1:	0.7962
+-----
+train loss:	0.0711
+val loss:	0.1733
+val_macro_f1:	0.7561
+val_micro_f1:	0.8012
+-----
+train loss:	0.1768
+val loss:	0.1622*
+val_macro_f1:	0.7638
+val_micro_f1:	0.8097
+-----
+train loss:	0.1570
+val loss:	0.1583*
+val_macro_f1:	0.7673*
+val_micro_f1:	0.8132
+-----
+train loss:	0.1428
+val loss:	0.1700
+val_macro_f1:	0.7738*
+val_micro_f1:	0.8111
+-----
+train loss:	0.1377
+val loss:	0.1922
+val_macro_f1:	0.7473
+val_micro_f1:	0.7854
+-----
+train loss:	0.2651
+val loss:	0.1954
+val_macro_f1:	0.7471
+val_micro_f1:	0.7811
+-----
+train loss:	0.0565
+val loss:	0.1901
+val_macro_f1:	0.7444
+val_micro_f1:	0.7841
+-----
+train loss:	0.0697
+val loss:	0.1931
+val_macro_f1:	0.7443
+val_micro_f1:	0.7800
+-----
+train loss:	0.1627
+val loss:	0.1846
+val_macro_f1:	0.7519
+val_micro_f1:	0.7884
+-----
+train loss:	0.0928
+val loss:	0.1718
+val_macro_f1:	0.7717
+val_micro_f1:	0.8098
+-----
+train loss:	0.0766
+val loss:	0.1599
+val_macro_f1:	0.7801*
+val_micro_f1:	0.8140
+-----
+train loss:	0.0684
+val loss:	0.1538*
+val_macro_f1:	0.7747
+val_micro_f1:	0.8184
+-----
+train loss:	0.0624
+val loss:	0.1565
+val_macro_f1:	0.7631
+val_micro_f1:	0.8147
+-----
+train loss:	0.1089
+val loss:	0.1622
+val_macro_f1:	0.7709
+val_micro_f1:	0.8195
+-----
+train loss:	0.0524
+val loss:	0.1670
+val_macro_f1:	0.7625
+val_micro_f1:	0.8150
+-----
+==========
+Epoch 8/20
+train loss:	0.1211
+val loss:	0.1713
+val_macro_f1:	0.7585
+val_micro_f1:	0.8096
+-----
+train loss:	0.0457
+val loss:	0.1726
+val_macro_f1:	0.7515
+val_micro_f1:	0.8032
+-----
+train loss:	0.1194
+val loss:	0.1722
+val_macro_f1:	0.7561
+val_micro_f1:	0.8048
+-----
+train loss:	0.0792
+val loss:	0.1731
+val_macro_f1:	0.7524
+val_micro_f1:	0.8040
+-----
+train loss:	0.0674
+val loss:	0.1704
+val_macro_f1:	0.7570
+val_micro_f1:	0.8087
+-----
+train loss:	0.1156
+val loss:	0.1652
+val_macro_f1:	0.7646
+val_micro_f1:	0.8140
+-----
+train loss:	0.0570
+val loss:	0.1649
+val_macro_f1:	0.7609
+val_micro_f1:	0.8123
+-----
+train loss:	0.0769
+val loss:	0.1643
+val_macro_f1:	0.7614
+val_micro_f1:	0.8129
+-----
+train loss:	0.0555
+val loss:	0.1602
+val_macro_f1:	0.7643
+val_micro_f1:	0.8183
+-----
+train loss:	0.0453
+val loss:	0.1554
+val_macro_f1:	0.7607
+val_micro_f1:	0.8160
+-----
+train loss:	0.0904
+val loss:	0.1533*
+val_macro_f1:	0.7648
+val_micro_f1:	0.8163
+-----
+train loss:	0.0910
+val loss:	0.1537
+val_macro_f1:	0.7664
+val_micro_f1:	0.8180
+-----
+train loss:	0.1445
+val loss:	0.1524*
+val_macro_f1:	0.7688
+val_micro_f1:	0.8173
+-----
+train loss:	0.1420
+val loss:	0.1524*
+val_macro_f1:	0.7704
+val_micro_f1:	0.8154
+-----
+train loss:	0.1399
+val loss:	0.1538
+val_macro_f1:	0.7742
+val_micro_f1:	0.8140
+-----
+train loss:	0.0545
+val loss:	0.1551
+val_macro_f1:	0.7727
+val_micro_f1:	0.8121
+-----
+train loss:	0.0515
+val loss:	0.1640
+val_macro_f1:	0.7734
+val_micro_f1:	0.8059
+-----
+train loss:	0.0838
+val loss:	0.1821
+val_macro_f1:	0.7598
+val_micro_f1:	0.7972
+-----
+train loss:	0.0387
+val loss:	0.1995
+val_macro_f1:	0.7525
+val_micro_f1:	0.7821
+-----
+train loss:	0.0477
+val loss:	0.2140
+val_macro_f1:	0.7376
+val_micro_f1:	0.7725
+-----
+train loss:	0.1357
+val loss:	0.2220
+val_macro_f1:	0.7349
+val_micro_f1:	0.7666
+-----
+train loss:	0.0735
+val loss:	0.2283
+val_macro_f1:	0.7274
+val_micro_f1:	0.7589
+-----
+train loss:	0.0277
+val loss:	0.2336
+val_macro_f1:	0.7241
+val_micro_f1:	0.7534
+-----
+train loss:	0.1281
+val loss:	0.2239
+val_macro_f1:	0.7341
+val_micro_f1:	0.7627
+-----
+train loss:	0.1031
+val loss:	0.2076
+val_macro_f1:	0.7373
+val_micro_f1:	0.7688
+-----
+train loss:	0.0498
+val loss:	0.1953
+val_macro_f1:	0.7478
+val_micro_f1:	0.7805
+-----
+train loss:	0.0404
+val loss:	0.1837
+val_macro_f1:	0.7409
+val_micro_f1:	0.7806
+-----
+train loss:	0.1108
+val loss:	0.1650
+val_macro_f1:	0.7634
+val_micro_f1:	0.8009
+-----
+train loss:	0.1248
+val loss:	0.1612
+val_macro_f1:	0.7763
+val_micro_f1:	0.8211
+-----
+train loss:	0.0579
+val loss:	0.1928
+val_macro_f1:	0.7403
+val_micro_f1:	0.7866
+-----
+train loss:	0.0498
+val loss:	0.2485
+val_macro_f1:	0.6769
+val_micro_f1:	0.7408
+-----
+train loss:	0.1672
+val loss:	0.2665
+val_macro_f1:	0.6552
+val_micro_f1:	0.7179
+-----
+train loss:	0.1018
+val loss:	0.2856
+val_macro_f1:	0.6450
+val_micro_f1:	0.7071
+-----
+train loss:	0.1789
+val loss:	0.2620
+val_macro_f1:	0.6621
+val_micro_f1:	0.7277
+-----
+train loss:	0.1034
+val loss:	0.2405
+val_macro_f1:	0.6817
+val_micro_f1:	0.7495
+-----
+train loss:	0.0707
+val loss:	0.2273
+val_macro_f1:	0.6900
+val_micro_f1:	0.7598
+-----
+train loss:	0.0653
+val loss:	0.2121
+val_macro_f1:	0.7117
+val_micro_f1:	0.7779
+-----
+train loss:	0.0535
+val loss:	0.1982
+val_macro_f1:	0.7307
+val_micro_f1:	0.7898
+-----
+train loss:	0.1158
+val loss:	0.1816
+val_macro_f1:	0.7497
+val_micro_f1:	0.7995
+-----
+train loss:	0.0563
+val loss:	0.1684
+val_macro_f1:	0.7604
+val_micro_f1:	0.8151
+-----
+train loss:	0.0378
+val loss:	0.1625
+val_macro_f1:	0.7601
+val_micro_f1:	0.8204
+-----
+train loss:	0.0950
+val loss:	0.1621
+val_macro_f1:	0.7674
+val_micro_f1:	0.8165
+-----
+train loss:	0.0369
+val loss:	0.1687
+val_macro_f1:	0.7598
+val_micro_f1:	0.8034
+-----
+train loss:	0.1912
+val loss:	0.1735
+val_macro_f1:	0.7553
+val_micro_f1:	0.7991
+-----
+train loss:	0.2032
+val loss:	0.1658
+val_macro_f1:	0.7658
+val_micro_f1:	0.8072
+-----
+train loss:	0.0588
+val loss:	0.1607
+val_macro_f1:	0.7671
+val_micro_f1:	0.8129
+-----
+train loss:	0.0586
+val loss:	0.1557
+val_macro_f1:	0.7708
+val_micro_f1:	0.8197
+-----
+train loss:	0.1927
+val loss:	0.1592
+val_macro_f1:	0.7714
+val_micro_f1:	0.8268
+-----
+train loss:	0.1897
+val loss:	0.1806
+val_macro_f1:	0.7436
+val_micro_f1:	0.7922
+-----
+train loss:	0.0520
+val loss:	0.2092
+val_macro_f1:	0.7218
+val_micro_f1:	0.7781
+-----
+train loss:	0.0241
+val loss:	0.2381
+val_macro_f1:	0.7029
+val_micro_f1:	0.7643
+-----
+train loss:	0.1156
+val loss:	0.2680
+val_macro_f1:	0.6511
+val_micro_f1:	0.7249
+-----
+train loss:	0.1327
+val loss:	0.2521
+val_macro_f1:	0.6749
+val_micro_f1:	0.7399
+-----
+train loss:	0.0484
+val loss:	0.2342
+val_macro_f1:	0.7101
+val_micro_f1:	0.7709
+-----
+train loss:	0.2290
+val loss:	0.2060
+val_macro_f1:	0.7224
+val_micro_f1:	0.7830
+-----
+train loss:	0.0637
+val loss:	0.1886
+val_macro_f1:	0.7444
+val_micro_f1:	0.7941
+-----
+train loss:	0.1052
+val loss:	0.1708
+val_macro_f1:	0.7560
+val_micro_f1:	0.8090
+-----
+==========
+Epoch 9/20
+train loss:	0.0910
+val loss:	0.1615
+val_macro_f1:	0.7777
+val_micro_f1:	0.8294
+-----
+train loss:	0.0673
+val loss:	0.1586
+val_macro_f1:	0.7762
+val_micro_f1:	0.8290
+-----
+train loss:	0.0442
+val loss:	0.1593
+val_macro_f1:	0.7726
+val_micro_f1:	0.8175
+-----
+train loss:	0.0855
+val loss:	0.1640
+val_macro_f1:	0.7667
+val_micro_f1:	0.8094
+-----
+train loss:	0.1921
+val loss:	0.1646
+val_macro_f1:	0.7678
+val_micro_f1:	0.8110
+-----
+train loss:	0.0699
+val loss:	0.1662
+val_macro_f1:	0.7662
+val_micro_f1:	0.8082
+-----
+train loss:	0.0142
+val loss:	0.1666
+val_macro_f1:	0.7626
+val_micro_f1:	0.8053
+-----
+train loss:	0.1122
+val loss:	0.1643
+val_macro_f1:	0.7680
+val_micro_f1:	0.8111
+-----
+train loss:	0.1387
+val loss:	0.1603
+val_macro_f1:	0.7761
+val_micro_f1:	0.8240
+-----
+train loss:	0.0536
+val loss:	0.1599
+val_macro_f1:	0.7765
+val_micro_f1:	0.8288
+-----
+train loss:	0.0367
+val loss:	0.1630
+val_macro_f1:	0.7788
+val_micro_f1:	0.8222
+-----
+train loss:	0.0484
+val loss:	0.1692
+val_macro_f1:	0.7605
+val_micro_f1:	0.8027
+-----
+train loss:	0.0888
+val loss:	0.1766
+val_macro_f1:	0.7565
+val_micro_f1:	0.7982
+-----
+train loss:	0.0789
+val loss:	0.1855
+val_macro_f1:	0.7434
+val_micro_f1:	0.7898
+-----
+train loss:	0.1141
+val loss:	0.1900
+val_macro_f1:	0.7401
+val_micro_f1:	0.7890
+-----
+train loss:	0.0419
+val loss:	0.1886
+val_macro_f1:	0.7426
+val_micro_f1:	0.7890
+-----
+train loss:	0.2561
+val loss:	0.1602
+val_macro_f1:	0.7838*
+val_micro_f1:	0.8210
+-----
+train loss:	0.1015
+val loss:	0.1717
+val_macro_f1:	0.7540
+val_micro_f1:	0.7984
+-----
+train loss:	0.0955
+val loss:	0.2070
+val_macro_f1:	0.7281
+val_micro_f1:	0.7636
+-----
+train loss:	0.0961
+val loss:	0.2474
+val_macro_f1:	0.7133
+val_micro_f1:	0.7375
+-----
+train loss:	0.1752
+val loss:	0.2867
+val_macro_f1:	0.6778
+val_micro_f1:	0.6845
+-----
+train loss:	0.1450
+val loss:	0.3044
+val_macro_f1:	0.6466
+val_micro_f1:	0.6331
+-----
+train loss:	0.1379
+val loss:	0.3054
+val_macro_f1:	0.6362
+val_micro_f1:	0.6136
+-----
+train loss:	0.1647
+val loss:	0.2916
+val_macro_f1:	0.6567
+val_micro_f1:	0.6378
+-----
+train loss:	0.1010
+val loss:	0.2711
+val_macro_f1:	0.6806
+val_micro_f1:	0.6820
+-----
+train loss:	0.2727
+val loss:	0.2520
+val_macro_f1:	0.7006
+val_micro_f1:	0.7143
+-----
+train loss:	0.0470
+val loss:	0.2369
+val_macro_f1:	0.7111
+val_micro_f1:	0.7290
+-----
+train loss:	0.0462
+val loss:	0.2280
+val_macro_f1:	0.7129
+val_micro_f1:	0.7375
+-----
+train loss:	0.0820
+val loss:	0.2243
+val_macro_f1:	0.7209
+val_micro_f1:	0.7479
+-----
+train loss:	0.1076
+val loss:	0.2203
+val_macro_f1:	0.7239
+val_micro_f1:	0.7538
+-----
+train loss:	0.2442
+val loss:	0.2186
+val_macro_f1:	0.7238
+val_micro_f1:	0.7727
+-----
+train loss:	0.0856
+val loss:	0.2189
+val_macro_f1:	0.7205
+val_micro_f1:	0.7851
+-----
+train loss:	0.0815
+val loss:	0.2259
+val_macro_f1:	0.7163
+val_micro_f1:	0.7859
+-----
+train loss:	0.0447
+val loss:	0.2379
+val_macro_f1:	0.7142
+val_micro_f1:	0.7746
+-----
+train loss:	0.0714
+val loss:	0.2529
+val_macro_f1:	0.6277
+val_micro_f1:	0.7192
+-----
+train loss:	0.0277
+val loss:	0.2673
+val_macro_f1:	0.5466
+val_micro_f1:	0.6632
+-----
+train loss:	0.0869
+val loss:	0.2860
+val_macro_f1:	0.5101
+val_micro_f1:	0.6290
+-----
+train loss:	0.1717
+val loss:	0.2879
+val_macro_f1:	0.5053
+val_micro_f1:	0.6238
+-----
+train loss:	0.0388
+val loss:	0.2919
+val_macro_f1:	0.4964
+val_micro_f1:	0.6119
+-----
+train loss:	0.0893
+val loss:	0.2869
+val_macro_f1:	0.5000
+val_micro_f1:	0.6119
+-----
+train loss:	0.1422
+val loss:	0.2769
+val_macro_f1:	0.5294
+val_micro_f1:	0.6307
+-----
+train loss:	0.0678
+val loss:	0.2657
+val_macro_f1:	0.5751
+val_micro_f1:	0.6585
+-----
+train loss:	0.1312
+val loss:	0.2587
+val_macro_f1:	0.6059
+val_micro_f1:	0.6865
+-----
+train loss:	0.1052
+val loss:	0.2553
+val_macro_f1:	0.6152
+val_micro_f1:	0.7056
+-----
+train loss:	0.0949
+val loss:	0.2496
+val_macro_f1:	0.6230
+val_micro_f1:	0.7169
+-----
+train loss:	0.0616
+val loss:	0.2417
+val_macro_f1:	0.6753
+val_micro_f1:	0.7510
+-----
+train loss:	0.0804
+val loss:	0.2319
+val_macro_f1:	0.6922
+val_micro_f1:	0.7698
+-----
+train loss:	0.1137
+val loss:	0.2180
+val_macro_f1:	0.7231
+val_micro_f1:	0.7949
+-----
+train loss:	0.0644
+val loss:	0.2083
+val_macro_f1:	0.7440
+val_micro_f1:	0.8083
+-----
+train loss:	0.1538
+val loss:	0.1955
+val_macro_f1:	0.7632
+val_micro_f1:	0.8035
+-----
+train loss:	0.0833
+val loss:	0.1865
+val_macro_f1:	0.7624
+val_micro_f1:	0.8078
+-----
+train loss:	0.0604
+val loss:	0.1860
+val_macro_f1:	0.7479
+val_micro_f1:	0.7862
+-----
+train loss:	0.0856
+val loss:	0.1880
+val_macro_f1:	0.7421
+val_micro_f1:	0.7733
+-----
+train loss:	0.0789
+val loss:	0.1926
+val_macro_f1:	0.7401
+val_micro_f1:	0.7675
+-----
+train loss:	0.1423
+val loss:	0.1942
+val_macro_f1:	0.7416
+val_micro_f1:	0.7685
+-----
+==========
+Epoch 10/20
+train loss:	0.2067
+val loss:	0.1867
+val_macro_f1:	0.7418
+val_micro_f1:	0.7710
+-----
+train loss:	0.0735
+val loss:	0.1804
+val_macro_f1:	0.7541
+val_micro_f1:	0.7875
+-----
+train loss:	0.0427
+val loss:	0.1741
+val_macro_f1:	0.7571
+val_micro_f1:	0.7942
+-----
+train loss:	0.1971
+val loss:	0.1670
+val_macro_f1:	0.7691
+val_micro_f1:	0.8057
+-----
+train loss:	0.0925
+val loss:	0.1640
+val_macro_f1:	0.7782
+val_micro_f1:	0.8160
+-----
+train loss:	0.1142
+val loss:	0.1685
+val_macro_f1:	0.7835
+val_micro_f1:	0.8187
+-----
+train loss:	0.0494
+val loss:	0.1815
+val_macro_f1:	0.7664
+val_micro_f1:	0.8005
+-----
+train loss:	0.0774
+val loss:	0.2013
+val_macro_f1:	0.7409
+val_micro_f1:	0.7807
+-----
+train loss:	0.0804
+val loss:	0.2024
+val_macro_f1:	0.7387
+val_micro_f1:	0.7807
+-----
+train loss:	0.0370
+val loss:	0.2060
+val_macro_f1:	0.7399
+val_micro_f1:	0.7798
+-----
+train loss:	0.1405
+val loss:	0.2161
+val_macro_f1:	0.7222
+val_micro_f1:	0.7664
+-----
+train loss:	0.1134
+val loss:	0.2175
+val_macro_f1:	0.7222
+val_micro_f1:	0.7664
+-----
+train loss:	0.0720
+val loss:	0.2078
+val_macro_f1:	0.7328
+val_micro_f1:	0.7748
+-----
+train loss:	0.0571
+val loss:	0.2028
+val_macro_f1:	0.7362
+val_micro_f1:	0.7766
+-----
+train loss:	0.0399
+val loss:	0.1945
+val_macro_f1:	0.7469
+val_micro_f1:	0.7849
+-----
+train loss:	0.0910
+val loss:	0.1867
+val_macro_f1:	0.7597
+val_micro_f1:	0.7949
+-----
+train loss:	0.1896
+val loss:	0.1724
+val_macro_f1:	0.7771
+val_micro_f1:	0.8044
+-----
+train loss:	0.0449
+val loss:	0.1615
+val_macro_f1:	0.7904*
+val_micro_f1:	0.8158
+-----
+train loss:	0.0405
+val loss:	0.1568
+val_macro_f1:	0.7939*
+val_micro_f1:	0.8203
+-----
+train loss:	0.0379
+val loss:	0.1559
+val_macro_f1:	0.7896
+val_micro_f1:	0.8172
+-----
+train loss:	0.1169
+val loss:	0.1569
+val_macro_f1:	0.7817
+val_micro_f1:	0.8109
+-----
+train loss:	0.2002
+val loss:	0.1611
+val_macro_f1:	0.7824
+val_micro_f1:	0.8101
+-----
+train loss:	0.0143
+val loss:	0.1617
+val_macro_f1:	0.7806
+val_micro_f1:	0.8094
+-----
+train loss:	0.0462
+val loss:	0.1627
+val_macro_f1:	0.7784
+val_micro_f1:	0.8073
+-----
+train loss:	0.0613
+val loss:	0.1633
+val_macro_f1:	0.7795
+val_micro_f1:	0.8078
+-----
+train loss:	0.0950
+val loss:	0.1674
+val_macro_f1:	0.7751
+val_micro_f1:	0.8055
+-----
+train loss:	0.0788
+val loss:	0.1687
+val_macro_f1:	0.7705
+val_micro_f1:	0.8026
+-----
+train loss:	0.0392
+val loss:	0.1708
+val_macro_f1:	0.7697
+val_micro_f1:	0.8015
+-----
+train loss:	0.0359
+val loss:	0.1721
+val_macro_f1:	0.7714
+val_micro_f1:	0.8016
+-----
+train loss:	0.0445
+val loss:	0.1733
+val_macro_f1:	0.7692
+val_micro_f1:	0.8006
+-----
+train loss:	0.1302
+val loss:	0.1724
+val_macro_f1:	0.7705
+val_micro_f1:	0.8042
+-----
+train loss:	0.0909
+val loss:	0.1711
+val_macro_f1:	0.7716
+val_micro_f1:	0.8050
+-----
+train loss:	0.1013
+val loss:	0.1724
+val_macro_f1:	0.7771
+val_micro_f1:	0.8043
+-----
+train loss:	0.0322
+val loss:	0.1750
+val_macro_f1:	0.7859
+val_micro_f1:	0.8067
+-----
+train loss:	0.0643
+val loss:	0.1824
+val_macro_f1:	0.7894
+val_micro_f1:	0.8078
+-----
+train loss:	0.1105
+val loss:	0.1866
+val_macro_f1:	0.7722
+val_micro_f1:	0.7932
+-----
+train loss:	0.1560
+val loss:	0.1855
+val_macro_f1:	0.7734
+val_micro_f1:	0.7974
+-----
+train loss:	0.0610
+val loss:	0.1858
+val_macro_f1:	0.7731
+val_micro_f1:	0.7982
+-----
+train loss:	0.1088
+val loss:	0.1791
+val_macro_f1:	0.7825
+val_micro_f1:	0.8104
+-----
+train loss:	0.0930
+val loss:	0.1725
+val_macro_f1:	0.7795
+val_micro_f1:	0.8103
+-----
+train loss:	0.0620
+val loss:	0.1679
+val_macro_f1:	0.7753
+val_micro_f1:	0.8083
+-----
+train loss:	0.0428
+val loss:	0.1643
+val_macro_f1:	0.7721
+val_micro_f1:	0.8105
+-----
+train loss:	0.0528
+val loss:	0.1615
+val_macro_f1:	0.7749
+val_micro_f1:	0.8122
+-----
+train loss:	0.0893
+val loss:	0.1609
+val_macro_f1:	0.7693
+val_micro_f1:	0.8097
+-----
+train loss:	0.0372
+val loss:	0.1633
+val_macro_f1:	0.7682
+val_micro_f1:	0.8074
+-----
+train loss:	0.0579
+val loss:	0.1676
+val_macro_f1:	0.7713
+val_micro_f1:	0.8074
+-----
+train loss:	0.0749
+val loss:	0.1766
+val_macro_f1:	0.7697
+val_micro_f1:	0.8059
+-----
+train loss:	0.0665
+val loss:	0.1874
+val_macro_f1:	0.7646
+val_micro_f1:	0.8018
+-----
+train loss:	0.0602
+val loss:	0.1957
+val_macro_f1:	0.7616
+val_micro_f1:	0.7966
+-----
+train loss:	0.2345
+val loss:	0.1723
+val_macro_f1:	0.7680
+val_micro_f1:	0.8060
+-----
+train loss:	0.1111
+val loss:	0.1581
+val_macro_f1:	0.7714
+val_micro_f1:	0.8132
+-----
+train loss:	0.0755
+val loss:	0.1525
+val_macro_f1:	0.7835
+val_micro_f1:	0.8221
+-----
+train loss:	0.0321
+val loss:	0.1647
+val_macro_f1:	0.7599
+val_micro_f1:	0.8017
+-----
+train loss:	0.0494
+val loss:	0.1900
+val_macro_f1:	0.7459
+val_micro_f1:	0.7883
+-----
+train loss:	0.1583
+val loss:	0.2124
+val_macro_f1:	0.7169
+val_micro_f1:	0.7705
+-----
+train loss:	0.0495
+val loss:	0.2326
+val_macro_f1:	0.6996
+val_micro_f1:	0.7559
+-----
+==========
+Epoch 11/20
+train loss:	0.0297
+val loss:	0.2540
+val_macro_f1:	0.6725
+val_micro_f1:	0.7333
+-----
+train loss:	0.0614
+val loss:	0.2538
+val_macro_f1:	0.6714
+val_micro_f1:	0.7341
+-----
+train loss:	0.0620
+val loss:	0.2549
+val_macro_f1:	0.6691
+val_micro_f1:	0.7298
+-----
+train loss:	0.0774
+val loss:	0.2339
+val_macro_f1:	0.6970
+val_micro_f1:	0.7549
+-----
+train loss:	0.1029
+val loss:	0.2067
+val_macro_f1:	0.7232
+val_micro_f1:	0.7780
+-----
+train loss:	0.0874
+val loss:	0.1812
+val_macro_f1:	0.7487
+val_micro_f1:	0.7899
+-----
+train loss:	0.0506
+val loss:	0.1667
+val_macro_f1:	0.7650
+val_micro_f1:	0.8007
+-----
+train loss:	0.1194
+val loss:	0.1507*
+val_macro_f1:	0.7826
+val_micro_f1:	0.8113
+-----
+train loss:	0.1131
+val loss:	0.1414*
+val_macro_f1:	0.7932
+val_micro_f1:	0.8312
+-----
+train loss:	0.0964
+val loss:	0.1479
+val_macro_f1:	0.7705
+val_micro_f1:	0.8108
+-----
+train loss:	0.0771
+val loss:	0.1609
+val_macro_f1:	0.7633
+val_micro_f1:	0.8045
+-----
+train loss:	0.1163
+val loss:	0.1686
+val_macro_f1:	0.7539
+val_micro_f1:	0.7993
+-----
+train loss:	0.1095
+val loss:	0.1735
+val_macro_f1:	0.7508
+val_micro_f1:	0.7952
+-----
+train loss:	0.1230
+val loss:	0.1786
+val_macro_f1:	0.7499
+val_micro_f1:	0.7916
+-----
+train loss:	0.0352
+val loss:	0.1842
+val_macro_f1:	0.7470
+val_micro_f1:	0.7882
+-----
+train loss:	0.0978
+val loss:	0.1850
+val_macro_f1:	0.7423
+val_micro_f1:	0.7865
+-----
+train loss:	0.0832
+val loss:	0.1780
+val_macro_f1:	0.7466
+val_micro_f1:	0.7898
+-----
+train loss:	0.0433
+val loss:	0.1683
+val_macro_f1:	0.7476
+val_micro_f1:	0.7936
+-----
+train loss:	0.0980
+val loss:	0.1567
+val_macro_f1:	0.7632
+val_micro_f1:	0.8063
+-----
+train loss:	0.0661
+val loss:	0.1507
+val_macro_f1:	0.7728
+val_micro_f1:	0.8143
+-----
+train loss:	0.0719
+val loss:	0.1457
+val_macro_f1:	0.7755
+val_micro_f1:	0.8203
+-----
+train loss:	0.0827
+val loss:	0.1448
+val_macro_f1:	0.7947*
+val_micro_f1:	0.8351
+-----
+train loss:	0.0712
+val loss:	0.1509
+val_macro_f1:	0.7823
+val_micro_f1:	0.8198
+-----
+train loss:	0.0915
+val loss:	0.1507
+val_macro_f1:	0.7884
+val_micro_f1:	0.8271
+-----
+train loss:	0.1631
+val loss:	0.1512
+val_macro_f1:	0.7698
+val_micro_f1:	0.8204
+-----
+train loss:	0.0725
+val loss:	0.1554
+val_macro_f1:	0.7697
+val_micro_f1:	0.8170
+-----
+train loss:	0.0604
+val loss:	0.1616
+val_macro_f1:	0.7647
+val_micro_f1:	0.8090
+-----
+train loss:	0.0293
+val loss:	0.1652
+val_macro_f1:	0.7620
+val_micro_f1:	0.8082
+-----
+train loss:	0.0671
+val loss:	0.1699
+val_macro_f1:	0.7574
+val_micro_f1:	0.8036
+-----
+train loss:	0.1013
+val loss:	0.1739
+val_macro_f1:	0.7557
+val_micro_f1:	0.8015
+-----
+train loss:	0.1913
+val loss:	0.1719
+val_macro_f1:	0.7553
+val_micro_f1:	0.8020
+-----
+train loss:	0.1347
+val loss:	0.1676
+val_macro_f1:	0.7537
+val_micro_f1:	0.8031
+-----
+train loss:	0.0309
+val loss:	0.1695
+val_macro_f1:	0.7570
+val_micro_f1:	0.8103
+-----
+train loss:	0.1356
+val loss:	0.1727
+val_macro_f1:	0.7560
+val_micro_f1:	0.8156
+-----
+train loss:	0.1211
+val loss:	0.1746
+val_macro_f1:	0.7580
+val_micro_f1:	0.8175
+-----
+train loss:	0.1039
+val loss:	0.1756
+val_macro_f1:	0.7553
+val_micro_f1:	0.8160
+-----
+train loss:	0.2070
+val loss:	0.1774
+val_macro_f1:	0.7503
+val_micro_f1:	0.8172
+-----
+train loss:	0.0393
+val loss:	0.1799
+val_macro_f1:	0.7555
+val_micro_f1:	0.8207
+-----
+train loss:	0.0595
+val loss:	0.1863
+val_macro_f1:	0.7544
+val_micro_f1:	0.8227
+-----
+train loss:	0.0986
+val loss:	0.1816
+val_macro_f1:	0.7558
+val_micro_f1:	0.8165
+-----
+train loss:	0.1023
+val loss:	0.1776
+val_macro_f1:	0.7641
+val_micro_f1:	0.8163
+-----
+train loss:	0.0574
+val loss:	0.1701
+val_macro_f1:	0.7678
+val_micro_f1:	0.8259
+-----
+train loss:	0.0373
+val loss:	0.1655
+val_macro_f1:	0.7658
+val_micro_f1:	0.8184
+-----
+train loss:	0.0382
+val loss:	0.1631
+val_macro_f1:	0.7671
+val_micro_f1:	0.8167
+-----
+train loss:	0.0510
+val loss:	0.1610
+val_macro_f1:	0.7672
+val_micro_f1:	0.8137
+-----
+train loss:	0.1562
+val loss:	0.1604
+val_macro_f1:	0.7750
+val_micro_f1:	0.8187
+-----
+train loss:	0.0304
+val loss:	0.1598
+val_macro_f1:	0.7811
+val_micro_f1:	0.8212
+-----
+train loss:	0.0222
+val loss:	0.1591
+val_macro_f1:	0.7825
+val_micro_f1:	0.8178
+-----
+train loss:	0.1004
+val loss:	0.1649
+val_macro_f1:	0.7836
+val_micro_f1:	0.8039
+-----
+train loss:	0.0340
+val loss:	0.1718
+val_macro_f1:	0.7690
+val_micro_f1:	0.7957
+-----
+train loss:	0.0893
+val loss:	0.1766
+val_macro_f1:	0.7576
+val_micro_f1:	0.7883
+-----
+train loss:	0.0485
+val loss:	0.1792
+val_macro_f1:	0.7599
+val_micro_f1:	0.7891
+-----
+train loss:	0.0773
+val loss:	0.1827
+val_macro_f1:	0.7598
+val_micro_f1:	0.7891
+-----
+train loss:	0.0085
+val loss:	0.1868
+val_macro_f1:	0.7598
+val_micro_f1:	0.7891
+-----
+train loss:	0.0377
+val loss:	0.1886
+val_macro_f1:	0.7598
+val_micro_f1:	0.7891
+-----
+train loss:	0.0299
+val loss:	0.1924
+val_macro_f1:	0.7598
+val_micro_f1:	0.7891
+-----
+train loss:	0.1067
+val loss:	0.1897
+val_macro_f1:	0.7628
+val_micro_f1:	0.7916
+-----
+==========
+Epoch 12/20
+train loss:	0.1397
+val loss:	0.1908
+val_macro_f1:	0.7670
+val_micro_f1:	0.7932
+-----
+train loss:	0.0437
+val loss:	0.1865
+val_macro_f1:	0.7679
+val_micro_f1:	0.7949
+-----
+train loss:	0.0576
+val loss:	0.1732
+val_macro_f1:	0.7716
+val_micro_f1:	0.8012
+-----
+train loss:	0.1012
+val loss:	0.1604
+val_macro_f1:	0.7755
+val_micro_f1:	0.8074
+-----
+train loss:	0.1242
+val loss:	0.1622
+val_macro_f1:	0.7737
+val_micro_f1:	0.8024
+-----
+train loss:	0.0677
+val loss:	0.1669
+val_macro_f1:	0.7769
+val_micro_f1:	0.8046
+-----
+train loss:	0.0488
+val loss:	0.1761
+val_macro_f1:	0.7706
+val_micro_f1:	0.7978
+-----
+train loss:	0.0459
+val loss:	0.1858
+val_macro_f1:	0.7697
+val_micro_f1:	0.7956
+-----
+train loss:	0.0191
+val loss:	0.1994
+val_macro_f1:	0.7651
+val_micro_f1:	0.7891
+-----
+train loss:	0.0768
+val loss:	0.2202
+val_macro_f1:	0.7502
+val_micro_f1:	0.7734
+-----
+train loss:	0.0369
+val loss:	0.2290
+val_macro_f1:	0.7429
+val_micro_f1:	0.7668
+-----
+train loss:	0.1306
+val loss:	0.2000
+val_macro_f1:	0.7652
+val_micro_f1:	0.7891
+-----
+train loss:	0.1970
+val loss:	0.1927
+val_macro_f1:	0.7689
+val_micro_f1:	0.7941
+-----
+train loss:	0.0560
+val loss:	0.1890
+val_macro_f1:	0.7689
+val_micro_f1:	0.7941
+-----
+train loss:	0.1983
+val loss:	0.1755
+val_macro_f1:	0.7836
+val_micro_f1:	0.8022
+-----
+train loss:	0.0222
+val loss:	0.1675
+val_macro_f1:	0.7896
+val_micro_f1:	0.8015
+-----
+train loss:	0.0047
+val loss:	0.1670
+val_macro_f1:	0.7828
+val_micro_f1:	0.7937
+-----
+train loss:	0.0907
+val loss:	0.1703
+val_macro_f1:	0.7760
+val_micro_f1:	0.7978
+-----
+train loss:	0.1334
+val loss:	0.1761
+val_macro_f1:	0.7683
+val_micro_f1:	0.7969
+-----
+train loss:	0.0924
+val loss:	0.1813
+val_macro_f1:	0.7651
+val_micro_f1:	0.7941
+-----
+train loss:	0.0493
+val loss:	0.1828
+val_macro_f1:	0.7633
+val_micro_f1:	0.7940
+-----
+train loss:	0.0725
+val loss:	0.1840
+val_macro_f1:	0.7638
+val_micro_f1:	0.7949
+-----
+train loss:	0.0330
+val loss:	0.1862
+val_macro_f1:	0.7672
+val_micro_f1:	0.7989
+-----
+train loss:	0.0848
+val loss:	0.1923
+val_macro_f1:	0.7654
+val_micro_f1:	0.7975
+-----
+train loss:	0.0433
+val loss:	0.1989
+val_macro_f1:	0.7580
+val_micro_f1:	0.7944
+-----
+train loss:	0.1039
+val loss:	0.1983
+val_macro_f1:	0.7567
+val_micro_f1:	0.7925
+-----
+train loss:	0.0839
+val loss:	0.1965
+val_macro_f1:	0.7572
+val_micro_f1:	0.7934
+-----
+train loss:	0.0573
+val loss:	0.1955
+val_macro_f1:	0.7590
+val_micro_f1:	0.7963
+-----
+train loss:	0.1310
+val loss:	0.1810
+val_macro_f1:	0.7702
+val_micro_f1:	0.7951
+-----
+train loss:	0.0293
+val loss:	0.1743
+val_macro_f1:	0.7729
+val_micro_f1:	0.7890
+-----
+train loss:	0.0433
+val loss:	0.1730
+val_macro_f1:	0.7889
+val_micro_f1:	0.7909
+-----
+train loss:	0.0310
+val loss:	0.1752
+val_macro_f1:	0.7851
+val_micro_f1:	0.7887
+-----
+train loss:	0.1051
+val loss:	0.1796
+val_macro_f1:	0.7747
+val_micro_f1:	0.7881
+-----
+train loss:	0.0367
+val loss:	0.1848
+val_macro_f1:	0.7693
+val_micro_f1:	0.7874
+-----
+train loss:	0.1179
+val loss:	0.1949
+val_macro_f1:	0.7638
+val_micro_f1:	0.7858
+-----
+train loss:	0.0648
+val loss:	0.2058
+val_macro_f1:	0.7567
+val_micro_f1:	0.7825
+-----
+train loss:	0.0312
+val loss:	0.2216
+val_macro_f1:	0.7433
+val_micro_f1:	0.7668
+-----
+train loss:	0.0962
+val loss:	0.2288
+val_macro_f1:	0.7383
+val_micro_f1:	0.7609
+-----
+train loss:	0.0990
+val loss:	0.2268
+val_macro_f1:	0.7421
+val_micro_f1:	0.7659
+-----
+train loss:	0.0632
+val loss:	0.2297
+val_macro_f1:	0.7369
+val_micro_f1:	0.7626
+-----
+train loss:	0.0259
+val loss:	0.2355
+val_macro_f1:	0.7265
+val_micro_f1:	0.7491
+-----
+train loss:	0.1004
+val loss:	0.2323
+val_macro_f1:	0.7291
+val_micro_f1:	0.7533
+-----
+train loss:	0.0393
+val loss:	0.2250
+val_macro_f1:	0.7417
+val_micro_f1:	0.7676
+-----
+train loss:	0.0375
+val loss:	0.2274
+val_macro_f1:	0.7354
+val_micro_f1:	0.7559
+-----
+train loss:	0.0769
+val loss:	0.2056
+val_macro_f1:	0.7551
+val_micro_f1:	0.7817
+-----
+train loss:	0.1078
+val loss:	0.1955
+val_macro_f1:	0.7623
+val_micro_f1:	0.7932
+-----
+train loss:	0.0550
+val loss:	0.1925
+val_macro_f1:	0.7664
+val_micro_f1:	0.7974
+-----
+train loss:	0.0329
+val loss:	0.1870
+val_macro_f1:	0.7736
+val_micro_f1:	0.8031
+-----
+train loss:	0.0356
+val loss:	0.1814
+val_macro_f1:	0.7739
+val_micro_f1:	0.8031
+-----
+train loss:	0.0772
+val loss:	0.1724
+val_macro_f1:	0.7751
+val_micro_f1:	0.8044
+-----
+train loss:	0.0481
+val loss:	0.1693
+val_macro_f1:	0.7732
+val_micro_f1:	0.7997
+-----
+train loss:	0.1643
+val loss:	0.1671
+val_macro_f1:	0.7741
+val_micro_f1:	0.8033
+-----
+train loss:	0.0705
+val loss:	0.2043
+val_macro_f1:	0.7662
+val_micro_f1:	0.7983
+-----
+train loss:	0.0381
+val loss:	0.2632
+val_macro_f1:	0.7361
+val_micro_f1:	0.7715
+-----
+==========
+Epoch 13/20
+train loss:	0.0325
+val loss:	0.3343
+val_macro_f1:	0.6985
+val_micro_f1:	0.7200
+-----
+train loss:	0.0742
+val loss:	0.3674
+val_macro_f1:	0.6718
+val_micro_f1:	0.6872
+-----
+train loss:	0.1294
+val loss:	0.3705
+val_macro_f1:	0.6685
+val_micro_f1:	0.6757
+-----
+train loss:	0.2775
+val loss:	0.3431
+val_macro_f1:	0.6732
+val_micro_f1:	0.6847
+-----
+train loss:	0.1935
+val loss:	0.2978
+val_macro_f1:	0.6997
+val_micro_f1:	0.7124
+-----
+train loss:	0.0913
+val loss:	0.2587
+val_macro_f1:	0.7263
+val_micro_f1:	0.7429
+-----
+train loss:	0.2075
+val loss:	0.2061
+val_macro_f1:	0.7522
+val_micro_f1:	0.7794
+-----
+train loss:	0.2298
+val loss:	0.1916
+val_macro_f1:	0.7559
+val_micro_f1:	0.7916
+-----
+train loss:	0.1730
+val loss:	0.2082
+val_macro_f1:	0.7666
+val_micro_f1:	0.7839
+-----
+train loss:	0.1391
+val loss:	0.2460
+val_macro_f1:	0.6655
+val_micro_f1:	0.7214
+-----
+train loss:	0.0725
+val loss:	0.2905
+val_macro_f1:	0.5120
+val_micro_f1:	0.5975
+-----
+train loss:	0.2220
+val loss:	0.3086
+val_macro_f1:	0.4803
+val_micro_f1:	0.5663
+-----
+train loss:	0.0869
+val loss:	0.3095
+val_macro_f1:	0.4737
+val_micro_f1:	0.5610
+-----
+train loss:	0.1486
+val loss:	0.3029
+val_macro_f1:	0.4729
+val_micro_f1:	0.5610
+-----
+train loss:	0.1298
+val loss:	0.2923
+val_macro_f1:	0.4818
+val_micro_f1:	0.5695
+-----
+train loss:	0.1594
+val loss:	0.2738
+val_macro_f1:	0.5397
+val_micro_f1:	0.6208
+-----
+train loss:	0.0438
+val loss:	0.2642
+val_macro_f1:	0.5961
+val_micro_f1:	0.6604
+-----
+train loss:	0.1441
+val loss:	0.2449
+val_macro_f1:	0.6784
+val_micro_f1:	0.7434
+-----
+train loss:	0.0590
+val loss:	0.2302
+val_macro_f1:	0.7379
+val_micro_f1:	0.7804
+-----
+train loss:	0.0609
+val loss:	0.2222
+val_macro_f1:	0.7607
+val_micro_f1:	0.7956
+-----
+train loss:	0.0859
+val loss:	0.2101
+val_macro_f1:	0.7664
+val_micro_f1:	0.7988
+-----
+train loss:	0.0948
+val loss:	0.2004
+val_macro_f1:	0.7726
+val_micro_f1:	0.8164
+-----
+train loss:	0.1177
+val loss:	0.1903
+val_macro_f1:	0.7830
+val_micro_f1:	0.8227
+-----
+train loss:	0.0468
+val loss:	0.1857
+val_macro_f1:	0.7732
+val_micro_f1:	0.8124
+-----
+train loss:	0.0616
+val loss:	0.1849
+val_macro_f1:	0.7755
+val_micro_f1:	0.8119
+-----
+train loss:	0.0625
+val loss:	0.1866
+val_macro_f1:	0.7674
+val_micro_f1:	0.8067
+-----
+train loss:	0.0804
+val loss:	0.1898
+val_macro_f1:	0.7501
+val_micro_f1:	0.7898
+-----
+train loss:	0.0305
+val loss:	0.1958
+val_macro_f1:	0.7353
+val_micro_f1:	0.7690
+-----
+train loss:	0.1745
+val loss:	0.1970
+val_macro_f1:	0.7348
+val_micro_f1:	0.7671
+-----
+train loss:	0.1247
+val loss:	0.1944
+val_macro_f1:	0.7351
+val_micro_f1:	0.7687
+-----
+train loss:	0.0915
+val loss:	0.1898
+val_macro_f1:	0.7379
+val_micro_f1:	0.7761
+-----
+train loss:	0.2323
+val loss:	0.1833
+val_macro_f1:	0.7583
+val_micro_f1:	0.7973
+-----
+train loss:	0.0554
+val loss:	0.1768
+val_macro_f1:	0.7706
+val_micro_f1:	0.8111
+-----
+train loss:	0.0788
+val loss:	0.1720
+val_macro_f1:	0.7730
+val_micro_f1:	0.8139
+-----
+train loss:	0.0753
+val loss:	0.1679
+val_macro_f1:	0.7778
+val_micro_f1:	0.8166
+-----
+train loss:	0.1075
+val loss:	0.1656
+val_macro_f1:	0.7742
+val_micro_f1:	0.8127
+-----
+train loss:	0.0806
+val loss:	0.1666
+val_macro_f1:	0.7702
+val_micro_f1:	0.8165
+-----
+train loss:	0.0451
+val loss:	0.1733
+val_macro_f1:	0.7577
+val_micro_f1:	0.8127
+-----
+train loss:	0.0955
+val loss:	0.1816
+val_macro_f1:	0.7621
+val_micro_f1:	0.8181
+-----
+train loss:	0.0817
+val loss:	0.1907
+val_macro_f1:	0.7590
+val_micro_f1:	0.8082
+-----
+train loss:	0.0615
+val loss:	0.2005
+val_macro_f1:	0.7529
+val_micro_f1:	0.8022
+-----
+train loss:	0.1836
+val loss:	0.1974
+val_macro_f1:	0.7518
+val_micro_f1:	0.8037
+-----
+train loss:	0.1033
+val loss:	0.2024
+val_macro_f1:	0.7482
+val_micro_f1:	0.8006
+-----
+train loss:	0.1053
+val loss:	0.1990
+val_macro_f1:	0.7514
+val_micro_f1:	0.8038
+-----
+train loss:	0.0190
+val loss:	0.1992
+val_macro_f1:	0.7509
+val_micro_f1:	0.8030
+-----
+train loss:	0.1042
+val loss:	0.1963
+val_macro_f1:	0.7535
+val_micro_f1:	0.8028
+-----
+train loss:	0.0371
+val loss:	0.1949
+val_macro_f1:	0.7542
+val_micro_f1:	0.8027
+-----
+train loss:	0.0920
+val loss:	0.1931
+val_macro_f1:	0.7578
+val_micro_f1:	0.8007
+-----
+train loss:	0.0640
+val loss:	0.1950
+val_macro_f1:	0.7569
+val_micro_f1:	0.7975
+-----
+train loss:	0.0560
+val loss:	0.1933
+val_macro_f1:	0.7582
+val_micro_f1:	0.7972
+-----
+train loss:	0.0949
+val loss:	0.1908
+val_macro_f1:	0.7578
+val_micro_f1:	0.7940
+-----
+train loss:	0.0865
+val loss:	0.1918
+val_macro_f1:	0.7516
+val_micro_f1:	0.7859
+-----
+train loss:	0.0462
+val loss:	0.1945
+val_macro_f1:	0.7517
+val_micro_f1:	0.7850
+-----
+train loss:	0.0386
+val loss:	0.1970
+val_macro_f1:	0.7494
+val_micro_f1:	0.7809
+-----
+==========
+Epoch 14/20
+train loss:	0.0899
+val loss:	0.2030
+val_macro_f1:	0.7560
+val_micro_f1:	0.7839
+-----
+train loss:	0.0730
+val loss:	0.2112
+val_macro_f1:	0.7664
+val_micro_f1:	0.7886
+-----
+train loss:	0.0788
+val loss:	0.2212
+val_macro_f1:	0.7605
+val_micro_f1:	0.7870
+-----
+train loss:	0.0689
+val loss:	0.2256
+val_macro_f1:	0.7631
+val_micro_f1:	0.7877
+-----
+train loss:	0.0292
+val loss:	0.2372
+val_macro_f1:	0.7687
+val_micro_f1:	0.7912
+-----
+train loss:	0.0473
+val loss:	0.2431
+val_macro_f1:	0.7666
+val_micro_f1:	0.7901
+-----
+train loss:	0.0447
+val loss:	0.2482
+val_macro_f1:	0.7666
+val_micro_f1:	0.7901
+-----
+train loss:	0.0438
+val loss:	0.2541
+val_macro_f1:	0.7674
+val_micro_f1:	0.7895
+-----
+train loss:	0.0322
+val loss:	0.2589
+val_macro_f1:	0.7669
+val_micro_f1:	0.7891
+-----
+train loss:	0.0829
+val loss:	0.2621
+val_macro_f1:	0.7664
+val_micro_f1:	0.7883
+-----
+train loss:	0.0631
+val loss:	0.2688
+val_macro_f1:	0.7631
+val_micro_f1:	0.7863
+-----
+train loss:	0.0407
+val loss:	0.2771
+val_macro_f1:	0.7631
+val_micro_f1:	0.7860
+-----
+train loss:	0.1794
+val loss:	0.2848
+val_macro_f1:	0.7431
+val_micro_f1:	0.7684
+-----
+train loss:	0.1749
+val loss:	0.2654
+val_macro_f1:	0.7350
+val_micro_f1:	0.7540
+-----
+train loss:	0.0306
+val loss:	0.2669
+val_macro_f1:	0.7052
+val_micro_f1:	0.7427
+-----
+train loss:	0.0576
+val loss:	0.3039
+val_macro_f1:	0.6374
+val_micro_f1:	0.7083
+-----
+train loss:	0.1079
+val loss:	0.3291
+val_macro_f1:	0.6016
+val_micro_f1:	0.6905
+-----
+train loss:	0.0792
+val loss:	0.3245
+val_macro_f1:	0.6059
+val_micro_f1:	0.6900
+-----
+train loss:	0.0171
+val loss:	0.3195
+val_macro_f1:	0.6109
+val_micro_f1:	0.6937
+-----
+train loss:	0.1934
+val loss:	0.2655
+val_macro_f1:	0.6670
+val_micro_f1:	0.7321
+-----
+train loss:	0.1061
+val loss:	0.2111
+val_macro_f1:	0.7401
+val_micro_f1:	0.7781
+-----
+train loss:	0.0341
+val loss:	0.1821
+val_macro_f1:	0.7708
+val_micro_f1:	0.7949
+-----
+train loss:	0.1191
+val loss:	0.1644
+val_macro_f1:	0.7834
+val_micro_f1:	0.8096
+-----
+train loss:	0.1012
+val loss:	0.1601
+val_macro_f1:	0.7705
+val_micro_f1:	0.8078
+-----
+train loss:	0.1814
+val loss:	0.1622
+val_macro_f1:	0.7774
+val_micro_f1:	0.8121
+-----
+train loss:	0.0278
+val loss:	0.1699
+val_macro_f1:	0.7666
+val_micro_f1:	0.8034
+-----
+train loss:	0.0753
+val loss:	0.1777
+val_macro_f1:	0.7590
+val_micro_f1:	0.7941
+-----
+train loss:	0.0787
+val loss:	0.1839
+val_macro_f1:	0.7470
+val_micro_f1:	0.7787
+-----
+train loss:	0.0430
+val loss:	0.1866
+val_macro_f1:	0.7436
+val_micro_f1:	0.7763
+-----
+train loss:	0.1087
+val loss:	0.1890
+val_macro_f1:	0.7445
+val_micro_f1:	0.7759
+-----
+train loss:	0.0765
+val loss:	0.1902
+val_macro_f1:	0.7439
+val_micro_f1:	0.7749
+-----
+train loss:	0.0958
+val loss:	0.1875
+val_macro_f1:	0.7423
+val_micro_f1:	0.7747
+-----
+train loss:	0.1967
+val loss:	0.1834
+val_macro_f1:	0.7515
+val_micro_f1:	0.7873
+-----
+train loss:	0.0613
+val loss:	0.1778
+val_macro_f1:	0.7563
+val_micro_f1:	0.7918
+-----
+train loss:	0.1202
+val loss:	0.1774
+val_macro_f1:	0.7659
+val_micro_f1:	0.7991
+-----
+train loss:	0.0298
+val loss:	0.1760
+val_macro_f1:	0.7711
+val_micro_f1:	0.8031
+-----
+train loss:	0.0456
+val loss:	0.1757
+val_macro_f1:	0.7727
+val_micro_f1:	0.8034
+-----
+train loss:	0.0633
+val loss:	0.1762
+val_macro_f1:	0.7728
+val_micro_f1:	0.7991
+-----
+train loss:	0.0175
+val loss:	0.1767
+val_macro_f1:	0.7783
+val_micro_f1:	0.7905
+-----
+train loss:	0.0629
+val loss:	0.1763
+val_macro_f1:	0.7841
+val_micro_f1:	0.7886
+-----
+train loss:	0.1115
+val loss:	0.1772
+val_macro_f1:	0.7840
+val_micro_f1:	0.7905
+-----
+train loss:	0.0951
+val loss:	0.1788
+val_macro_f1:	0.7845
+val_micro_f1:	0.7817
+-----
+train loss:	0.1553
+val loss:	0.1785
+val_macro_f1:	0.7816
+val_micro_f1:	0.7801
+-----
+train loss:	0.0455
+val loss:	0.1768
+val_macro_f1:	0.7801
+val_micro_f1:	0.7832
+-----
+train loss:	0.0640
+val loss:	0.1752
+val_macro_f1:	0.7843
+val_micro_f1:	0.7852
+-----
+train loss:	0.0811
+val loss:	0.1722
+val_macro_f1:	0.7810
+val_micro_f1:	0.7916
+-----
+train loss:	0.0800
+val loss:	0.1711
+val_macro_f1:	0.7816
+val_micro_f1:	0.7963
+-----
+train loss:	0.1446
+val loss:	0.1699
+val_macro_f1:	0.7894
+val_micro_f1:	0.7983
+-----
+train loss:	0.0415
+val loss:	0.1698
+val_macro_f1:	0.7853
+val_micro_f1:	0.7953
+-----
+train loss:	0.0931
+val loss:	0.1703
+val_macro_f1:	0.7864
+val_micro_f1:	0.8030
+-----
+train loss:	0.0444
+val loss:	0.1724
+val_macro_f1:	0.7813
+val_micro_f1:	0.8076
+-----
+train loss:	0.0533
+val loss:	0.1723
+val_macro_f1:	0.7722
+val_micro_f1:	0.8012
+-----
+train loss:	0.1050
+val loss:	0.1716
+val_macro_f1:	0.7751
+val_micro_f1:	0.8035
+-----
+train loss:	0.0663
+val loss:	0.1674
+val_macro_f1:	0.7823
+val_micro_f1:	0.8070
+-----
+==========
+Epoch 15/20
+train loss:	0.0889
+val loss:	0.1665
+val_macro_f1:	0.7833
+val_micro_f1:	0.8072
+-----
+train loss:	0.0517
+val loss:	0.1642
+val_macro_f1:	0.7888
+val_micro_f1:	0.8021
+-----
+train loss:	0.1686
+val loss:	0.1610
+val_macro_f1:	0.8015*
+val_micro_f1:	0.8005
+-----
+train loss:	0.1577
+val loss:	0.1632
+val_macro_f1:	0.8002
+val_micro_f1:	0.7979
+-----
+train loss:	0.0643
+val loss:	0.1670
+val_macro_f1:	0.7962
+val_micro_f1:	0.7990
+-----
+train loss:	0.0852
+val loss:	0.1717
+val_macro_f1:	0.7931
+val_micro_f1:	0.7990
+-----
+train loss:	0.0267
+val loss:	0.1757
+val_macro_f1:	0.7862
+val_micro_f1:	0.7957
+-----
+train loss:	0.0466
+val loss:	0.1791
+val_macro_f1:	0.7743
+val_micro_f1:	0.7891
+-----
+train loss:	0.0839
+val loss:	0.1855
+val_macro_f1:	0.7637
+val_micro_f1:	0.7825
+-----
+train loss:	0.1103
+val loss:	0.1859
+val_macro_f1:	0.7598
+val_micro_f1:	0.7809
+-----
+train loss:	0.1394
+val loss:	0.1789
+val_macro_f1:	0.7703
+val_micro_f1:	0.7908
+-----
+train loss:	0.0697
+val loss:	0.1725
+val_macro_f1:	0.7860
+val_micro_f1:	0.7998
+-----
+train loss:	0.0259
+val loss:	0.1670
+val_macro_f1:	0.7960
+val_micro_f1:	0.8080
+-----
+train loss:	0.1335
+val loss:	0.1614
+val_macro_f1:	0.7875
+val_micro_f1:	0.8053
+-----
+train loss:	0.0324
+val loss:	0.1565
+val_macro_f1:	0.7895
+val_micro_f1:	0.8089
+-----
+train loss:	0.0783
+val loss:	0.1540
+val_macro_f1:	0.7909
+val_micro_f1:	0.8125
+-----
+train loss:	0.1026
+val loss:	0.1505
+val_macro_f1:	0.7968
+val_micro_f1:	0.8171
+-----
+train loss:	0.0291
+val loss:	0.1477
+val_macro_f1:	0.7967
+val_micro_f1:	0.8217
+-----
+train loss:	0.0569
+val loss:	0.1479
+val_macro_f1:	0.7886
+val_micro_f1:	0.8185
+-----
+train loss:	0.0489
+val loss:	0.1484
+val_macro_f1:	0.7891
+val_micro_f1:	0.8188
+-----
+train loss:	0.1284
+val loss:	0.1483
+val_macro_f1:	0.7899
+val_micro_f1:	0.8198
+-----
+train loss:	0.0849
+val loss:	0.1483
+val_macro_f1:	0.7869
+val_micro_f1:	0.8167
+-----
+train loss:	0.1865
+val loss:	0.1485
+val_macro_f1:	0.7929
+val_micro_f1:	0.8174
+-----
+train loss:	0.0223
+val loss:	0.1499
+val_macro_f1:	0.7914
+val_micro_f1:	0.8142
+-----
+train loss:	0.0918
+val loss:	0.1509
+val_macro_f1:	0.7966
+val_micro_f1:	0.8191
+-----
+train loss:	0.0408
+val loss:	0.1547
+val_macro_f1:	0.7919
+val_micro_f1:	0.8118
+-----
+train loss:	0.0440
+val loss:	0.1581
+val_macro_f1:	0.7895
+val_micro_f1:	0.8050
+-----
+train loss:	0.0591
+val loss:	0.1636
+val_macro_f1:	0.7938
+val_micro_f1:	0.8063
+-----
+train loss:	0.0503
+val loss:	0.1670
+val_macro_f1:	0.7844
+val_micro_f1:	0.8014
+-----
+train loss:	0.0770
+val loss:	0.1680
+val_macro_f1:	0.7827
+val_micro_f1:	0.8014
+-----
+train loss:	0.1503
+val loss:	0.1698
+val_macro_f1:	0.7859
+val_micro_f1:	0.7998
+-----
+train loss:	0.1446
+val loss:	0.1639
+val_macro_f1:	0.7927
+val_micro_f1:	0.8036
+-----
+train loss:	0.0475
+val loss:	0.1596
+val_macro_f1:	0.7880
+val_micro_f1:	0.8005
+-----
+train loss:	0.1602
+val loss:	0.1559
+val_macro_f1:	0.7900
+val_micro_f1:	0.8094
+-----
+train loss:	0.0695
+val loss:	0.1551
+val_macro_f1:	0.7870
+val_micro_f1:	0.8067
+-----
+train loss:	0.0786
+val loss:	0.1560
+val_macro_f1:	0.7836
+val_micro_f1:	0.8105
+-----
+train loss:	0.0640
+val loss:	0.1603
+val_macro_f1:	0.7753
+val_micro_f1:	0.8055
+-----
+train loss:	0.0533
+val loss:	0.1673
+val_macro_f1:	0.7792
+val_micro_f1:	0.8092
+-----
+train loss:	0.1073
+val loss:	0.1659
+val_macro_f1:	0.7796
+val_micro_f1:	0.8102
+-----
+train loss:	0.0813
+val loss:	0.1648
+val_macro_f1:	0.7776
+val_micro_f1:	0.8079
+-----
+train loss:	0.0593
+val loss:	0.1653
+val_macro_f1:	0.7770
+val_micro_f1:	0.8080
+-----
+train loss:	0.0391
+val loss:	0.1652
+val_macro_f1:	0.7763
+val_micro_f1:	0.8072
+-----
+train loss:	0.0726
+val loss:	0.1628
+val_macro_f1:	0.7707
+val_micro_f1:	0.8043
+-----
+train loss:	0.0849
+val loss:	0.1613
+val_macro_f1:	0.7652
+val_micro_f1:	0.8006
+-----
+train loss:	0.0365
+val loss:	0.1595
+val_macro_f1:	0.7684
+val_micro_f1:	0.8040
+-----
+train loss:	0.0253
+val loss:	0.1582
+val_macro_f1:	0.7801
+val_micro_f1:	0.8126
+-----
+train loss:	0.0741
+val loss:	0.1546
+val_macro_f1:	0.7780
+val_micro_f1:	0.8168
+-----
+train loss:	0.0617
+val loss:	0.1568
+val_macro_f1:	0.7718
+val_micro_f1:	0.8114
+-----
+train loss:	0.0347
+val loss:	0.1602
+val_macro_f1:	0.7638
+val_micro_f1:	0.8087
+-----
+train loss:	0.0513
+val loss:	0.1632
+val_macro_f1:	0.7646
+val_micro_f1:	0.8012
+-----
+train loss:	0.0521
+val loss:	0.1590
+val_macro_f1:	0.7637
+val_micro_f1:	0.8098
+-----
+train loss:	0.0263
+val loss:	0.1565
+val_macro_f1:	0.7791
+val_micro_f1:	0.8213
+-----
+train loss:	0.0557
+val loss:	0.1579
+val_macro_f1:	0.7718
+val_micro_f1:	0.8154
+-----
+train loss:	0.0085
+val loss:	0.1594
+val_macro_f1:	0.7748
+val_micro_f1:	0.8176
+-----
+train loss:	0.0338
+val loss:	0.1609
+val_macro_f1:	0.7681
+val_micro_f1:	0.8102
+-----
+==========
+Epoch 16/20
+train loss:	0.1666
+val loss:	0.1609
+val_macro_f1:	0.7779
+val_micro_f1:	0.8194
+-----
+train loss:	0.0410
+val loss:	0.1622
+val_macro_f1:	0.7736
+val_micro_f1:	0.8165
+-----
+train loss:	0.0301
+val loss:	0.1659
+val_macro_f1:	0.7720
+val_micro_f1:	0.8053
+-----
+train loss:	0.1375
+val loss:	0.1709
+val_macro_f1:	0.7676
+val_micro_f1:	0.8003
+-----
+train loss:	0.1871
+val loss:	0.1662
+val_macro_f1:	0.7708
+val_micro_f1:	0.8067
+-----
+train loss:	0.0489
+val loss:	0.1644
+val_macro_f1:	0.7684
+val_micro_f1:	0.8039
+-----
+train loss:	0.1143
+val loss:	0.1630
+val_macro_f1:	0.7786
+val_micro_f1:	0.8129
+-----
+train loss:	0.0448
+val loss:	0.1638
+val_macro_f1:	0.7801
+val_micro_f1:	0.8097
+-----
+train loss:	0.1157
+val loss:	0.1660
+val_macro_f1:	0.7718
+val_micro_f1:	0.8058
+-----
+train loss:	0.2089
+val loss:	0.1665
+val_macro_f1:	0.7701
+val_micro_f1:	0.8055
+-----
+train loss:	0.0304
+val loss:	0.1685
+val_macro_f1:	0.7659
+val_micro_f1:	0.8009
+-----
+train loss:	0.0369
+val loss:	0.1702
+val_macro_f1:	0.7636
+val_micro_f1:	0.8014
+-----
+train loss:	0.1080
+val loss:	0.1695
+val_macro_f1:	0.7633
+val_micro_f1:	0.7991
+-----
+train loss:	0.0122
+val loss:	0.1677
+val_macro_f1:	0.7685
+val_micro_f1:	0.8028
+-----
+train loss:	0.0272
+val loss:	0.1686
+val_macro_f1:	0.7721
+val_micro_f1:	0.8030
+-----
+train loss:	0.0664
+val loss:	0.1680
+val_macro_f1:	0.7749
+val_micro_f1:	0.8032
+-----
+train loss:	0.0493
+val loss:	0.1671
+val_macro_f1:	0.7798
+val_micro_f1:	0.8048
+-----
+train loss:	0.0455
+val loss:	0.1692
+val_macro_f1:	0.7765
+val_micro_f1:	0.8024
+-----
+train loss:	0.0332
+val loss:	0.1707
+val_macro_f1:	0.7773
+val_micro_f1:	0.8006
+-----
+train loss:	0.0684
+val loss:	0.1717
+val_macro_f1:	0.7752
+val_micro_f1:	0.7955
+-----
+train loss:	0.0192
+val loss:	0.1730
+val_macro_f1:	0.7815
+val_micro_f1:	0.7962
+-----
+train loss:	0.0165
+val loss:	0.1739
+val_macro_f1:	0.7855
+val_micro_f1:	0.7986
+-----
+train loss:	0.1688
+val loss:	0.1810
+val_macro_f1:	0.7825
+val_micro_f1:	0.7937
+-----
+train loss:	0.0848
+val loss:	0.1813
+val_macro_f1:	0.7805
+val_micro_f1:	0.7937
+-----
+train loss:	0.0740
+val loss:	0.1788
+val_macro_f1:	0.7865
+val_micro_f1:	0.8023
+-----
+train loss:	0.0679
+val loss:	0.1750
+val_macro_f1:	0.7865
+val_micro_f1:	0.8013
+-----
+train loss:	0.1082
+val loss:	0.1686
+val_macro_f1:	0.7781
+val_micro_f1:	0.7971
+-----
+train loss:	0.0662
+val loss:	0.1663
+val_macro_f1:	0.7824
+val_micro_f1:	0.8050
+-----
+train loss:	0.0794
+val loss:	0.1726
+val_macro_f1:	0.7795
+val_micro_f1:	0.8100
+-----
+train loss:	0.0328
+val loss:	0.1824
+val_macro_f1:	0.7710
+val_micro_f1:	0.8078
+-----
+train loss:	0.0402
+val loss:	0.1923
+val_macro_f1:	0.7618
+val_micro_f1:	0.7970
+-----
+train loss:	0.1027
+val loss:	0.1922
+val_macro_f1:	0.7619
+val_micro_f1:	0.7968
+-----
+train loss:	0.0605
+val loss:	0.1786
+val_macro_f1:	0.7740
+val_micro_f1:	0.8079
+-----
+train loss:	0.0452
+val loss:	0.1611
+val_macro_f1:	0.7879
+val_micro_f1:	0.8118
+-----
+train loss:	0.0653
+val loss:	0.1533
+val_macro_f1:	0.7880
+val_micro_f1:	0.8076
+-----
+train loss:	0.0393
+val loss:	0.1570
+val_macro_f1:	0.7901
+val_micro_f1:	0.8113
+-----
+train loss:	0.1125
+val loss:	0.1703
+val_macro_f1:	0.7817
+val_micro_f1:	0.8003
+-----
+train loss:	0.0577
+val loss:	0.1866
+val_macro_f1:	0.7662
+val_micro_f1:	0.7924
+-----
+train loss:	0.0308
+val loss:	0.2076
+val_macro_f1:	0.7543
+val_micro_f1:	0.7825
+-----
+train loss:	0.1128
+val loss:	0.2232
+val_macro_f1:	0.7272
+val_micro_f1:	0.7666
+-----
+train loss:	0.0974
+val loss:	0.2326
+val_macro_f1:	0.7160
+val_micro_f1:	0.7573
+-----
+train loss:	0.0593
+val loss:	0.2289
+val_macro_f1:	0.7152
+val_micro_f1:	0.7565
+-----
+train loss:	0.0377
+val loss:	0.2216
+val_macro_f1:	0.7188
+val_micro_f1:	0.7599
+-----
+train loss:	0.0694
+val loss:	0.2082
+val_macro_f1:	0.7343
+val_micro_f1:	0.7700
+-----
+train loss:	0.0501
+val loss:	0.1873
+val_macro_f1:	0.7618
+val_micro_f1:	0.7916
+-----
+train loss:	0.0758
+val loss:	0.1723
+val_macro_f1:	0.7710
+val_micro_f1:	0.7973
+-----
+train loss:	0.0393
+val loss:	0.1591
+val_macro_f1:	0.7860
+val_micro_f1:	0.8066
+-----
+train loss:	0.1033
+val loss:	0.1504
+val_macro_f1:	0.7902
+val_micro_f1:	0.8062
+-----
+train loss:	0.1987
+val loss:	0.1798
+val_macro_f1:	0.7676
+val_micro_f1:	0.8037
+-----
+train loss:	0.1311
+val loss:	0.2264
+val_macro_f1:	0.7467
+val_micro_f1:	0.7839
+-----
+train loss:	0.1477
+val loss:	0.2683
+val_macro_f1:	0.7230
+val_micro_f1:	0.7558
+-----
+train loss:	0.0355
+val loss:	0.3182
+val_macro_f1:	0.6975
+val_micro_f1:	0.7088
+-----
+train loss:	0.2292
+val loss:	0.3396
+val_macro_f1:	0.6651
+val_micro_f1:	0.6737
+-----
+train loss:	0.1399
+val loss:	0.3344
+val_macro_f1:	0.6700
+val_micro_f1:	0.6723
+-----
+==========
+Epoch 17/20
+train loss:	0.2716
+val loss:	0.3148
+val_macro_f1:	0.6787
+val_micro_f1:	0.6858
+-----
+train loss:	0.3128
+val loss:	0.2786
+val_macro_f1:	0.7054
+val_micro_f1:	0.7208
+-----
+train loss:	0.0891
+val loss:	0.2448
+val_macro_f1:	0.7418
+val_micro_f1:	0.7690
+-----
+train loss:	0.0548
+val loss:	0.2273
+val_macro_f1:	0.7503
+val_micro_f1:	0.7776
+-----
+train loss:	0.0738
+val loss:	0.2263
+val_macro_f1:	0.6965
+val_micro_f1:	0.7591
+-----
+train loss:	0.0656
+val loss:	0.2378
+val_macro_f1:	0.6423
+val_micro_f1:	0.7219
+-----
+train loss:	0.1858
+val loss:	0.2554
+val_macro_f1:	0.6165
+val_micro_f1:	0.7140
+-----
+train loss:	0.0316
+val loss:	0.2777
+val_macro_f1:	0.5962
+val_micro_f1:	0.6958
+-----
+train loss:	0.0566
+val loss:	0.2921
+val_macro_f1:	0.5711
+val_micro_f1:	0.6639
+-----
+train loss:	0.2305
+val loss:	0.2835
+val_macro_f1:	0.5751
+val_micro_f1:	0.6745
+-----
+train loss:	0.0621
+val loss:	0.2703
+val_macro_f1:	0.6014
+val_micro_f1:	0.7087
+-----
+train loss:	0.0333
+val loss:	0.2620
+val_macro_f1:	0.6038
+val_micro_f1:	0.7020
+-----
+train loss:	0.1127
+val loss:	0.2413
+val_macro_f1:	0.6704
+val_micro_f1:	0.7478
+-----
+train loss:	0.0894
+val loss:	0.2237
+val_macro_f1:	0.7115
+val_micro_f1:	0.7677
+-----
+train loss:	0.0721
+val loss:	0.2046
+val_macro_f1:	0.7354
+val_micro_f1:	0.7781
+-----
+train loss:	0.0473
+val loss:	0.1886
+val_macro_f1:	0.7691
+val_micro_f1:	0.8000
+-----
+train loss:	0.0564
+val loss:	0.1766
+val_macro_f1:	0.7717
+val_micro_f1:	0.8195
+-----
+train loss:	0.0562
+val loss:	0.1702
+val_macro_f1:	0.7606
+val_micro_f1:	0.8153
+-----
+train loss:	0.1480
+val loss:	0.1679
+val_macro_f1:	0.7597
+val_micro_f1:	0.8134
+-----
+train loss:	0.1476
+val loss:	0.1684
+val_macro_f1:	0.7559
+val_micro_f1:	0.8074
+-----
+train loss:	0.0528
+val loss:	0.1712
+val_macro_f1:	0.7508
+val_micro_f1:	0.8041
+-----
+train loss:	0.0297
+val loss:	0.1731
+val_macro_f1:	0.7526
+val_micro_f1:	0.8037
+-----
+train loss:	0.1428
+val loss:	0.1700
+val_macro_f1:	0.7532
+val_micro_f1:	0.8047
+-----
+train loss:	0.0462
+val loss:	0.1646
+val_macro_f1:	0.7555
+val_micro_f1:	0.8089
+-----
+train loss:	0.0774
+val loss:	0.1586
+val_macro_f1:	0.7564
+val_micro_f1:	0.8109
+-----
+train loss:	0.1118
+val loss:	0.1454
+val_macro_f1:	0.7799
+val_micro_f1:	0.8309
+-----
+train loss:	0.0274
+val loss:	0.1431
+val_macro_f1:	0.7869
+val_micro_f1:	0.8357
+-----
+train loss:	0.0847
+val loss:	0.1437
+val_macro_f1:	0.7741
+val_micro_f1:	0.8318
+-----
+train loss:	0.0344
+val loss:	0.1450
+val_macro_f1:	0.7688
+val_micro_f1:	0.8312
+-----
+train loss:	0.0483
+val loss:	0.1484
+val_macro_f1:	0.7600
+val_micro_f1:	0.8298
+-----
+train loss:	0.0948
+val loss:	0.1452
+val_macro_f1:	0.7713
+val_micro_f1:	0.8301
+-----
+train loss:	0.1423
+val loss:	0.1442
+val_macro_f1:	0.7772
+val_micro_f1:	0.8289
+-----
+train loss:	0.1339
+val loss:	0.1464
+val_macro_f1:	0.7710
+val_micro_f1:	0.8248
+-----
+train loss:	0.1489
+val loss:	0.1452
+val_macro_f1:	0.7771
+val_micro_f1:	0.8294
+-----
+train loss:	0.0264
+val loss:	0.1469
+val_macro_f1:	0.7762
+val_micro_f1:	0.8228
+-----
+train loss:	0.1615
+val loss:	0.1467
+val_macro_f1:	0.7784
+val_micro_f1:	0.8253
+-----
+train loss:	0.0796
+val loss:	0.1462
+val_macro_f1:	0.7792
+val_micro_f1:	0.8252
+-----
+train loss:	0.0883
+val loss:	0.1472
+val_macro_f1:	0.7781
+val_micro_f1:	0.8207
+-----
+train loss:	0.0568
+val loss:	0.1482
+val_macro_f1:	0.7790
+val_micro_f1:	0.8225
+-----
+train loss:	0.0537
+val loss:	0.1501
+val_macro_f1:	0.7781
+val_micro_f1:	0.8211
+-----
+train loss:	0.1205
+val loss:	0.1521
+val_macro_f1:	0.7770
+val_micro_f1:	0.8201
+-----
+train loss:	0.1425
+val loss:	0.1525
+val_macro_f1:	0.7737
+val_micro_f1:	0.8144
+-----
+train loss:	0.2197
+val loss:	0.1524
+val_macro_f1:	0.7787
+val_micro_f1:	0.8189
+-----
+train loss:	0.0358
+val loss:	0.1525
+val_macro_f1:	0.7818
+val_micro_f1:	0.8201
+-----
+train loss:	0.0760
+val loss:	0.1534
+val_macro_f1:	0.7745
+val_micro_f1:	0.8139
+-----
+train loss:	0.0298
+val loss:	0.1534
+val_macro_f1:	0.7760
+val_micro_f1:	0.8177
+-----
+train loss:	0.0677
+val loss:	0.1532
+val_macro_f1:	0.7791
+val_micro_f1:	0.8194
+-----
+train loss:	0.0412
+val loss:	0.1543
+val_macro_f1:	0.7696
+val_micro_f1:	0.8091
+-----
+train loss:	0.0669
+val loss:	0.1568
+val_macro_f1:	0.7759
+val_micro_f1:	0.8099
+-----
+train loss:	0.0556
+val loss:	0.1601
+val_macro_f1:	0.7692
+val_micro_f1:	0.8072
+-----
+train loss:	0.1108
+val loss:	0.1658
+val_macro_f1:	0.7654
+val_micro_f1:	0.8005
+-----
+train loss:	0.1274
+val loss:	0.1707
+val_macro_f1:	0.7647
+val_micro_f1:	0.8022
+-----
+train loss:	0.0648
+val loss:	0.1788
+val_macro_f1:	0.7549
+val_micro_f1:	0.7904
+-----
+train loss:	0.0549
+val loss:	0.1951
+val_macro_f1:	0.7341
+val_micro_f1:	0.7732
+-----
+==========
+Epoch 18/20
+train loss:	0.0779
+val loss:	0.2099
+val_macro_f1:	0.7391
+val_micro_f1:	0.7710
+-----
+train loss:	0.0851
+val loss:	0.2141
+val_macro_f1:	0.7403
+val_micro_f1:	0.7735
+-----
+train loss:	0.0549
+val loss:	0.2155
+val_macro_f1:	0.7447
+val_micro_f1:	0.7735
+-----
+train loss:	0.0896
+val loss:	0.1987
+val_macro_f1:	0.7398
+val_micro_f1:	0.7682
+-----
+train loss:	0.1450
+val loss:	0.1820
+val_macro_f1:	0.7515
+val_micro_f1:	0.7892
+-----
+train loss:	0.1741
+val loss:	0.1710
+val_macro_f1:	0.7737
+val_micro_f1:	0.8005
+-----
+train loss:	0.1643
+val loss:	0.1833
+val_macro_f1:	0.7673
+val_micro_f1:	0.7991
+-----
+train loss:	0.0280
+val loss:	0.2055
+val_macro_f1:	0.7551
+val_micro_f1:	0.7933
+-----
+train loss:	0.1687
+val loss:	0.2094
+val_macro_f1:	0.7506
+val_micro_f1:	0.7922
+-----
+train loss:	0.1936
+val loss:	0.2113
+val_macro_f1:	0.7438
+val_micro_f1:	0.7898
+-----
+train loss:	0.2189
+val loss:	0.2050
+val_macro_f1:	0.7432
+val_micro_f1:	0.7903
+-----
+train loss:	0.1318
+val loss:	0.1988
+val_macro_f1:	0.7514
+val_micro_f1:	0.7945
+-----
+train loss:	0.0768
+val loss:	0.1948
+val_macro_f1:	0.7534
+val_micro_f1:	0.7956
+-----
+train loss:	0.0681
+val loss:	0.1926
+val_macro_f1:	0.7518
+val_micro_f1:	0.7934
+-----
+train loss:	0.0708
+val loss:	0.1901
+val_macro_f1:	0.7580
+val_micro_f1:	0.7971
+-----
+train loss:	0.0414
+val loss:	0.1898
+val_macro_f1:	0.7536
+val_micro_f1:	0.7958
+-----
+train loss:	0.1642
+val loss:	0.1860
+val_macro_f1:	0.7584
+val_micro_f1:	0.7982
+-----
+train loss:	0.0415
+val loss:	0.1906
+val_macro_f1:	0.7634
+val_micro_f1:	0.7968
+-----
+train loss:	0.0923
+val loss:	0.1958
+val_macro_f1:	0.7728
+val_micro_f1:	0.7958
+-----
+train loss:	0.0450
+val loss:	0.1987
+val_macro_f1:	0.7718
+val_micro_f1:	0.7932
+-----
+train loss:	0.0322
+val loss:	0.1976
+val_macro_f1:	0.7762
+val_micro_f1:	0.7900
+-----
+train loss:	0.1145
+val loss:	0.1930
+val_macro_f1:	0.7776
+val_micro_f1:	0.7938
+-----
+train loss:	0.0644
+val loss:	0.1911
+val_macro_f1:	0.7799
+val_micro_f1:	0.7936
+-----
+train loss:	0.0282
+val loss:	0.1860
+val_macro_f1:	0.7860
+val_micro_f1:	0.7982
+-----
+train loss:	0.0275
+val loss:	0.1874
+val_macro_f1:	0.7827
+val_micro_f1:	0.7962
+-----
+train loss:	0.0314
+val loss:	0.1838
+val_macro_f1:	0.7836
+val_micro_f1:	0.7987
+-----
+train loss:	0.0660
+val loss:	0.1857
+val_macro_f1:	0.7854
+val_micro_f1:	0.8012
+-----
+train loss:	0.0378
+val loss:	0.1863
+val_macro_f1:	0.7762
+val_micro_f1:	0.7994
+-----
+train loss:	0.0260
+val loss:	0.1891
+val_macro_f1:	0.7714
+val_micro_f1:	0.7992
+-----
+train loss:	0.1362
+val loss:	0.1879
+val_macro_f1:	0.7723
+val_micro_f1:	0.7978
+-----
+train loss:	0.0503
+val loss:	0.1872
+val_macro_f1:	0.7753
+val_micro_f1:	0.7981
+-----
+train loss:	0.0103
+val loss:	0.1860
+val_macro_f1:	0.7765
+val_micro_f1:	0.7976
+-----
+train loss:	0.1371
+val loss:	0.1877
+val_macro_f1:	0.7804
+val_micro_f1:	0.8006
+-----
+train loss:	0.0786
+val loss:	0.1895
+val_macro_f1:	0.7793
+val_micro_f1:	0.7968
+-----
+train loss:	0.0184
+val loss:	0.1896
+val_macro_f1:	0.7813
+val_micro_f1:	0.7976
+-----
+train loss:	0.0360
+val loss:	0.1894
+val_macro_f1:	0.7842
+val_micro_f1:	0.7978
+-----
+train loss:	0.0649
+val loss:	0.1883
+val_macro_f1:	0.7934
+val_micro_f1:	0.8007
+-----
+train loss:	0.0840
+val loss:	0.1847
+val_macro_f1:	0.7911
+val_micro_f1:	0.7959
+-----
+train loss:	0.0396
+val loss:	0.1839
+val_macro_f1:	0.7919
+val_micro_f1:	0.7962
+-----
+train loss:	0.0553
+val loss:	0.1891
+val_macro_f1:	0.8023*
+val_micro_f1:	0.8011
+-----
+train loss:	0.0559
+val loss:	0.1913
+val_macro_f1:	0.7969
+val_micro_f1:	0.7982
+-----
+train loss:	0.1721
+val loss:	0.1900
+val_macro_f1:	0.8026*
+val_micro_f1:	0.8016
+-----
+train loss:	0.1690
+val loss:	0.1858
+val_macro_f1:	0.7997
+val_micro_f1:	0.7993
+-----
+train loss:	0.0588
+val loss:	0.1776
+val_macro_f1:	0.8015
+val_micro_f1:	0.8019
+-----
+train loss:	0.0844
+val loss:	0.1732
+val_macro_f1:	0.7935
+val_micro_f1:	0.8002
+-----
+train loss:	0.0246
+val loss:	0.1756
+val_macro_f1:	0.7882
+val_micro_f1:	0.7968
+-----
+train loss:	0.0488
+val loss:	0.1759
+val_macro_f1:	0.7924
+val_micro_f1:	0.8006
+-----
+train loss:	0.1045
+val loss:	0.1780
+val_macro_f1:	0.7847
+val_micro_f1:	0.7967
+-----
+train loss:	0.0753
+val loss:	0.1789
+val_macro_f1:	0.7882
+val_micro_f1:	0.8012
+-----
+train loss:	0.1958
+val loss:	0.1775
+val_macro_f1:	0.7892
+val_micro_f1:	0.8040
+-----
+train loss:	0.1582
+val loss:	0.1719
+val_macro_f1:	0.7875
+val_micro_f1:	0.7983
+-----
+train loss:	0.0435
+val loss:	0.1720
+val_macro_f1:	0.7911
+val_micro_f1:	0.7989
+-----
+train loss:	0.0402
+val loss:	0.1728
+val_macro_f1:	0.8058*
+val_micro_f1:	0.7983
+-----
+train loss:	0.0363
+val loss:	0.1783
+val_macro_f1:	0.7945
+val_micro_f1:	0.7859
+-----
+train loss:	0.0625
+val loss:	0.1864
+val_macro_f1:	0.7909
+val_micro_f1:	0.7847
+-----
+train loss:	0.0210
+val loss:	0.1967
+val_macro_f1:	0.7704
+val_micro_f1:	0.7652
+-----
+train loss:	0.0325
+val loss:	0.2069
+val_macro_f1:	0.7586
+val_micro_f1:	0.7578
+-----
+==========
+Epoch 19/20
+train loss:	0.1138
+val loss:	0.2077
+val_macro_f1:	0.7590
+val_micro_f1:	0.7586
+-----
+train loss:	0.0958
+val loss:	0.1993
+val_macro_f1:	0.7608
+val_micro_f1:	0.7619
+-----
+train loss:	0.0427
+val loss:	0.1953
+val_macro_f1:	0.7720
+val_micro_f1:	0.7669
+-----
+train loss:	0.0306
+val loss:	0.1894
+val_macro_f1:	0.7842
+val_micro_f1:	0.7799
+-----
+train loss:	0.0469
+val loss:	0.1864
+val_macro_f1:	0.7852
+val_micro_f1:	0.7815
+-----
+train loss:	0.0719
+val loss:	0.1820
+val_macro_f1:	0.7917
+val_micro_f1:	0.7843
+-----
+train loss:	0.0441
+val loss:	0.1791
+val_macro_f1:	0.7991
+val_micro_f1:	0.7900
+-----
+train loss:	0.0323
+val loss:	0.1803
+val_macro_f1:	0.7985
+val_micro_f1:	0.7909
+-----
+train loss:	0.0665
+val loss:	0.1798
+val_macro_f1:	0.7943
+val_micro_f1:	0.7925
+-----
+train loss:	0.1318
+val loss:	0.1814
+val_macro_f1:	0.7871
+val_micro_f1:	0.7913
+-----
+train loss:	0.1488
+val loss:	0.1813
+val_macro_f1:	0.7846
+val_micro_f1:	0.7949
+-----
+train loss:	0.0276
+val loss:	0.1838
+val_macro_f1:	0.7788
+val_micro_f1:	0.7930
+-----
+train loss:	0.0228
+val loss:	0.1870
+val_macro_f1:	0.7719
+val_micro_f1:	0.7933
+-----
+train loss:	0.0173
+val loss:	0.1899
+val_macro_f1:	0.7693
+val_micro_f1:	0.7931
+-----
+train loss:	0.0700
+val loss:	0.1953
+val_macro_f1:	0.7694
+val_micro_f1:	0.7926
+-----
+train loss:	0.0122
+val loss:	0.1959
+val_macro_f1:	0.7712
+val_micro_f1:	0.7942
+-----
+train loss:	0.1399
+val loss:	0.1926
+val_macro_f1:	0.7767
+val_micro_f1:	0.7931
+-----
+train loss:	0.0142
+val loss:	0.1912
+val_macro_f1:	0.7837
+val_micro_f1:	0.7917
+-----
+train loss:	0.0803
+val loss:	0.1870
+val_macro_f1:	0.7830
+val_micro_f1:	0.7906
+-----
+train loss:	0.0462
+val loss:	0.1874
+val_macro_f1:	0.7916
+val_micro_f1:	0.7882
+-----
+train loss:	0.0417
+val loss:	0.1894
+val_macro_f1:	0.7964
+val_micro_f1:	0.7904
+-----
+train loss:	0.0286
+val loss:	0.1941
+val_macro_f1:	0.7904
+val_micro_f1:	0.7863
+-----
+train loss:	0.0230
+val loss:	0.1990
+val_macro_f1:	0.7896
+val_micro_f1:	0.7861
+-----
+train loss:	0.0398
+val loss:	0.2042
+val_macro_f1:	0.7835
+val_micro_f1:	0.7822
+-----
+train loss:	0.0596
+val loss:	0.2048
+val_macro_f1:	0.7834
+val_micro_f1:	0.7821
+-----
+train loss:	0.0208
+val loss:	0.2096
+val_macro_f1:	0.7799
+val_micro_f1:	0.7789
+-----
+train loss:	0.1578
+val loss:	0.2171
+val_macro_f1:	0.7702
+val_micro_f1:	0.7700
+-----
+train loss:	0.1103
+val loss:	0.2142
+val_macro_f1:	0.7763
+val_micro_f1:	0.7741
+-----
+train loss:	0.1060
+val loss:	0.2036
+val_macro_f1:	0.7884
+val_micro_f1:	0.7845
+-----
+train loss:	0.0537
+val loss:	0.1974
+val_macro_f1:	0.7931
+val_micro_f1:	0.7890
+-----
+train loss:	0.0963
+val loss:	0.1993
+val_macro_f1:	0.7921
+val_micro_f1:	0.7890
+-----
+train loss:	0.0572
+val loss:	0.2035
+val_macro_f1:	0.7864
+val_micro_f1:	0.7827
+-----
+train loss:	0.0797
+val loss:	0.1994
+val_macro_f1:	0.7878
+val_micro_f1:	0.7851
+-----
+train loss:	0.0394
+val loss:	0.1997
+val_macro_f1:	0.7876
+val_micro_f1:	0.7851
+-----
+train loss:	0.1038
+val loss:	0.1957
+val_macro_f1:	0.7992
+val_micro_f1:	0.7935
+-----
+train loss:	0.1171
+val loss:	0.1916
+val_macro_f1:	0.7927
+val_micro_f1:	0.7906
+-----
+train loss:	0.1706
+val loss:	0.1907
+val_macro_f1:	0.7834
+val_micro_f1:	0.7897
+-----
+train loss:	0.0186
+val loss:	0.1914
+val_macro_f1:	0.7827
+val_micro_f1:	0.7906
+-----
+train loss:	0.0206
+val loss:	0.1929
+val_macro_f1:	0.7823
+val_micro_f1:	0.7964
+-----
+train loss:	0.0536
+val loss:	0.1927
+val_macro_f1:	0.7816
+val_micro_f1:	0.7953
+-----
+train loss:	0.0136
+val loss:	0.1926
+val_macro_f1:	0.7753
+val_micro_f1:	0.7928
+-----
+train loss:	0.1350
+val loss:	0.1916
+val_macro_f1:	0.7851
+val_micro_f1:	0.7946
+-----
+train loss:	0.0370
+val loss:	0.1904
+val_macro_f1:	0.7847
+val_micro_f1:	0.7921
+-----
+train loss:	0.0400
+val loss:	0.1921
+val_macro_f1:	0.7924
+val_micro_f1:	0.7912
+-----
+train loss:	0.1397
+val loss:	0.1909
+val_macro_f1:	0.7913
+val_micro_f1:	0.7931
+-----
+train loss:	0.0262
+val loss:	0.1914
+val_macro_f1:	0.7938
+val_micro_f1:	0.7935
+-----
+train loss:	0.0373
+val loss:	0.1909
+val_macro_f1:	0.7991
+val_micro_f1:	0.7940
+-----
+train loss:	0.0563
+val loss:	0.1935
+val_macro_f1:	0.8010
+val_micro_f1:	0.7936
+-----
+train loss:	0.0245
+val loss:	0.1919
+val_macro_f1:	0.7980
+val_micro_f1:	0.7885
+-----
+train loss:	0.0830
+val loss:	0.1918
+val_macro_f1:	0.8023
+val_micro_f1:	0.7952
+-----
+train loss:	0.0178
+val loss:	0.1910
+val_macro_f1:	0.8055
+val_micro_f1:	0.8000
+-----
+train loss:	0.0461
+val loss:	0.1882
+val_macro_f1:	0.7978
+val_micro_f1:	0.7962
+-----
+train loss:	0.0618
+val loss:	0.1908
+val_macro_f1:	0.7933
+val_micro_f1:	0.7895
+-----
+train loss:	0.1042
+val loss:	0.1894
+val_macro_f1:	0.7860
+val_micro_f1:	0.7897
+-----
+==========
+Epoch 20/20
+train loss:	0.0181
+val loss:	0.1903
+val_macro_f1:	0.7894
+val_micro_f1:	0.7932
+-----
+train loss:	0.0263
+val loss:	0.1941
+val_macro_f1:	0.7826
+val_micro_f1:	0.7870
+-----
+train loss:	0.0259
+val loss:	0.1962
+val_macro_f1:	0.7829
+val_micro_f1:	0.7901
+-----
+train loss:	0.1294
+val loss:	0.1924
+val_macro_f1:	0.7845
+val_micro_f1:	0.7911
+-----
+train loss:	0.0188
+val loss:	0.1922
+val_macro_f1:	0.7853
+val_micro_f1:	0.7894
+-----
+train loss:	0.0998
+val loss:	0.1880
+val_macro_f1:	0.7889
+val_micro_f1:	0.7898
+-----
+train loss:	0.1398
+val loss:	0.1891
+val_macro_f1:	0.8029
+val_micro_f1:	0.7950
+-----
+train loss:	0.0707
+val loss:	0.1953
+val_macro_f1:	0.7864
+val_micro_f1:	0.7814
+-----
+train loss:	0.0322
+val loss:	0.2126
+val_macro_f1:	0.7563
+val_micro_f1:	0.7521
+-----
+train loss:	0.0170
+val loss:	0.2365
+val_macro_f1:	0.7347
+val_micro_f1:	0.7355
+-----
+train loss:	0.0338
+val loss:	0.2668
+val_macro_f1:	0.6964
+val_micro_f1:	0.7132
+-----
+train loss:	0.1040
+val loss:	0.2994
+val_macro_f1:	0.6349
+val_micro_f1:	0.6455
+-----
+train loss:	0.0996
+val loss:	0.3268
+val_macro_f1:	0.5901
+val_micro_f1:	0.6099
+-----
+train loss:	0.0350
+val loss:	0.3540
+val_macro_f1:	0.5580
+val_micro_f1:	0.5891
+-----
+train loss:	0.1556
+val loss:	0.3145
+val_macro_f1:	0.6087
+val_micro_f1:	0.6253
+-----
+train loss:	0.0386
+val loss:	0.2811
+val_macro_f1:	0.6562
+val_micro_f1:	0.6670
+-----
+train loss:	0.1353
+val loss:	0.2362
+val_macro_f1:	0.7356
+val_micro_f1:	0.7346
+-----
+train loss:	0.0379
+val loss:	0.2099
+val_macro_f1:	0.7744
+val_micro_f1:	0.7668
+-----
+train loss:	0.0730
+val loss:	0.1938
+val_macro_f1:	0.8003
+val_micro_f1:	0.7917
+-----
+train loss:	0.0318
+val loss:	0.1924
+val_macro_f1:	0.7932
+val_micro_f1:	0.7918
+-----
+train loss:	0.0785
+val loss:	0.1963
+val_macro_f1:	0.7840
+val_micro_f1:	0.7970
+-----
+train loss:	0.0299
+val loss:	0.2076
+val_macro_f1:	0.7744
+val_micro_f1:	0.7948
+-----
+train loss:	0.0772
+val loss:	0.2200
+val_macro_f1:	0.7647
+val_micro_f1:	0.7887
+-----
+train loss:	0.0155
+val loss:	0.2291
+val_macro_f1:	0.7604
+val_micro_f1:	0.7862
+-----
+train loss:	0.0835
+val loss:	0.2318
+val_macro_f1:	0.7598
+val_micro_f1:	0.7852
+-----
+train loss:	0.0370
+val loss:	0.2301
+val_macro_f1:	0.7592
+val_micro_f1:	0.7842
+-----
+train loss:	0.0583
+val loss:	0.2236
+val_macro_f1:	0.7632
+val_micro_f1:	0.7896
+-----
+train loss:	0.0741
+val loss:	0.2159
+val_macro_f1:	0.7612
+val_micro_f1:	0.7894
+-----
+train loss:	0.0612
+val loss:	0.2109
+val_macro_f1:	0.7689
+val_micro_f1:	0.7942
+-----
+train loss:	0.1177
+val loss:	0.2080
+val_macro_f1:	0.7669
+val_micro_f1:	0.7904
+-----
+train loss:	0.0392
+val loss:	0.2055
+val_macro_f1:	0.7663
+val_micro_f1:	0.7916
+-----
+train loss:	0.0734
+val loss:	0.2054
+val_macro_f1:	0.7676
+val_micro_f1:	0.7930
+-----
+train loss:	0.0746
+val loss:	0.2055
+val_macro_f1:	0.7717
+val_micro_f1:	0.7961
+-----
+train loss:	0.0286
+val loss:	0.2101
+val_macro_f1:	0.7717
+val_micro_f1:	0.7921
+-----
+train loss:	0.0134
+val loss:	0.2121
+val_macro_f1:	0.7688
+val_micro_f1:	0.7914
+-----
+train loss:	0.0500
+val loss:	0.2168
+val_macro_f1:	0.7707
+val_micro_f1:	0.7913
+-----
+train loss:	0.1115
+val loss:	0.2060
+val_macro_f1:	0.7761
+val_micro_f1:	0.7964
+-----
+train loss:	0.1370
+val loss:	0.1914
+val_macro_f1:	0.7692
+val_micro_f1:	0.7922
+-----
+train loss:	0.0541
+val loss:	0.1790
+val_macro_f1:	0.7840
+val_micro_f1:	0.8014
+-----
+train loss:	0.0387
+val loss:	0.1774
+val_macro_f1:	0.7928
+val_micro_f1:	0.7989
+-----
+train loss:	0.0330
+val loss:	0.1788
+val_macro_f1:	0.8030
+val_micro_f1:	0.7978
+-----
+train loss:	0.0089
+val loss:	0.1883
+val_macro_f1:	0.7868
+val_micro_f1:	0.7818
+-----
+train loss:	0.0413
+val loss:	0.1999
+val_macro_f1:	0.7805
+val_micro_f1:	0.7741
+-----
+train loss:	0.0772
+val loss:	0.2088
+val_macro_f1:	0.7717
+val_micro_f1:	0.7693
+-----
+train loss:	0.0536
+val loss:	0.2164
+val_macro_f1:	0.7613
+val_micro_f1:	0.7586
+-----
+train loss:	0.0316
+val loss:	0.2235
+val_macro_f1:	0.7532
+val_micro_f1:	0.7521
+-----
+train loss:	0.0201
+val loss:	0.2334
+val_macro_f1:	0.7472
+val_micro_f1:	0.7446
+-----
+train loss:	0.0451
+val loss:	0.2369
+val_macro_f1:	0.7431
+val_micro_f1:	0.7404
+-----
+train loss:	0.0693
+val loss:	0.2402
+val_macro_f1:	0.7456
+val_micro_f1:	0.7413
+-----
+train loss:	0.1235
+val loss:	0.2090
+val_macro_f1:	0.7913
+val_micro_f1:	0.7759
+-----
+train loss:	0.0869
+val loss:	0.2185
+val_macro_f1:	0.7717
+val_micro_f1:	0.7961
+-----
+train loss:	0.1545
+val loss:	0.2589
+val_macro_f1:	0.7601
+val_micro_f1:	0.7842
+-----
+train loss:	0.0549
+val loss:	0.2998
+val_macro_f1:	0.7303
+val_micro_f1:	0.7422
+-----
+train loss:	0.0246
+val loss:	0.3586
+val_macro_f1:	0.6996
+val_micro_f1:	0.6866
+-----
+Best loss model:
+===Micro F1===
+precision: [0.7220992  0.86147186]
+recall [0.98075188 0.24077435]
+f1 [0.83178166 0.37635934]
+macro 0.6040704992819763
+===Macro F1===
+precision: [0.70835998 0.85539527]
+recall [0.96976431 0.19927739]
+f1 [0.80628014 0.25535055]
+macro 0.5308153477368585
+Best F1 model:
+===Micro F1===
+precision: [0.75614898 0.86318759]
+recall [0.97082707 0.37023593]
+f1 [0.85014485 0.51820491]
+macro 0.6841748811453046
+===Macro F1===
+precision: [0.73983047 0.86770077]
+recall [0.95219496 0.32048089]
+f1 [0.81968566 0.36627051]
+macro 0.5929780832823678

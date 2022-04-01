@@ -1,0 +1,190 @@
+﻿tag,content,label,depth
+html body header nav a  ,跳至主要內容,0,5
+html body header nav div h1 a  ,:::,0,7
+html body header nav div div ul li a  ,網站導覽,0,9
+html body header nav div div ul li a  ,廠商專區,0,9
+html body header nav div div ul li a  ,最新消息,0,9
+html body header nav div div ul li div a  ,計畫公告,0,10
+html body header nav div div ul li div a  ,活動快訊,0,10
+html body header nav div div ul li a  ,計畫簡介,0,9
+html body header nav div div ul li div a  ,SBIR計畫成立背景,0,10
+html body header nav div div ul li div a  ,Introduction to SBIR,0,10
+html body header nav div div ul li div a  ,因應貿易自由化 ECFA,0,10
+html body header nav div div ul li div a  ,地方型SBIR,0,10
+html body header nav div div ul li div a  ,未來期許與展望,0,10
+html body header nav div div ul li a  ,計畫說明,0,9
+html body header nav div div ul li div a  ,計畫申請類別,0,10
+html body header nav div div ul li div a  ,申請資格,0,10
+html body header nav div div ul li div a  ,應備資料,0,10
+html body header nav div div ul li div a  ,收件與服務窗口,0,10
+html body header nav div div ul li div a  ,計畫期程及補助款編列原則,0,10
+html body header nav div div ul li a  ,諮詢服務,0,9
+html body header nav div div ul li div a  ,常見問題,0,10
+html body header nav div div ul li a  ,下載專區,0,9
+html body header nav div div ul li div a  ,SBIR,0,10
+html body header nav div div ul li div a  ,因應貿易自由化 ECFA,0,10
+html body header nav div div ul li div a  ,中小企業行動智慧應用計畫,0,10
+html body header nav div div ul li div a  ,創業概念海選計畫,0,10
+html body header nav div div ul li div a  ,因應COVID-19創新研發計畫,0,10
+html body header nav div div ul li div a  ,主題式聯盟,0,10
+html body header nav div div ul li a  ,計畫成果,0,9
+html body header nav div div ul li div a  ,活動剪影,0,10
+html body header nav div div ul li div a  ,廠商成果集,0,10
+html body header nav div div ul li a  ,廠商專區,0,9
+html body header nav div div ul li div a  ,每期核定名單,0,10
+html body header nav div div ul li div a  ,線上說明會,0,10
+html body header nav div div div ul li a  ,網站導覽,0,10
+html body header nav div div div ul li a  ,廠商專區,0,10
+html body main div a  ,:::,0,5
+html body main div nav ol li a  ,首頁,0,8
+html body main div nav ol li  ,最新消息,0,7
+html body main div nav ol li  ,活動快訊,0,7
+html body main div h2  ,【TTA2021國際新創展會】 9-11月新創國際展會聯合徵案開跑!,1,5
+html body main div div div aside ul li a  ,計畫公告,1,10
+html body main div div div aside ul li a  ,活動快訊,1,10
+html body main div div div article p strong span span  ,臺灣科技新創基地(TTA),1,11
+html body main div div div article p strong span span  ,2021,1,11
+html body main div div div article p strong span span  ,下半年9~11月新創國際展會聯合徵案說明,1,11
+html body main div div div article p span span  ,科技部打造臺灣科技新創基地(Taiwan Tech Arena，簡稱TTA)作為臺灣科技新創鏈結國際的樞紐，為此，TTA自2018年6月成立以來，以引進國內外加速器等擁有豐富國際資源鏈結者為重點，TTA也每年積極率領臺灣科技新創參與國內外重要展會，並持續搭建國內外企業夥伴、創投及新創媒合平台的管道，期待幫助臺灣科技新創受到全球產業及投資人的關注，並獲得更多與國際鏈結及國內外企業交流之機會。,1,10
+html body main div div div article p span span  ,今年下半年TTA將鎖定國際五大盛事跨部會聯合徵案，我們邀請所有台灣科技新創團隊一同參與，期待在疫情嚴峻的當下，台灣逐步解封的同時，讓國際商機也持續進行，帶領各位勇闖國際舞台發光發熱，引領台灣科技新創生態系統向上發展，進一步拓展國際市場並提升國際影響力。,1,10
+html body main div div div article p strong span span  ,【TTA2021國際新創展會】,1,11
+html body main div div div article p span span  ,9月11日,1,10
+html body main div div div article p span span  ,月新創國際展會聯合徵案開跑!相關資訊如下：,1,10
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p span span  ,09/21~09/23,1,10
+html body main div div div article p span span  ,於美國舊金山舉辦的TechCrunchDisrupt線上展會，將帶領40家新創團隊參展行銷台灣品牌，並協助建置虛擬展館做數位行銷。,1,10
+html body main div div div article p span span strong  ,展會官網,1,11
+html body main div div div article p span span  ,：,1,10
+html body main div div div article p span span u a  ,https://techcrunch.com/events/tc-disrupt-2021/,1,12
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p span span  ,09/22~09/23,1,10
+html body main div div div article p span span  ,於英國倫敦舉辦的TheAISummit線上展會，將遴選20家以上AI領域新創參展，爭取Pitch及媒合機會。,1,10
+html body main div div div article p span span strong  ,展會官網,1,11
+html body main div div div article p span span  ,：,1,10
+html body main div div div article p u a span span  ,https://london.theaisummit.com/,1,12
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p span span  ,09/27~9/30,1,10
+html body main div div div article p span span  ,於美國華盛頓州及明尼蘇達州所舉辦的TheMedTechConference展會，將帶領20家醫療相關領域新創參展，媒合相關產業之合作機會。,1,10
+html body main div div div article p span span strong  ,展會官網,1,11
+html body main div div div article p span span  ,：,1,10
+html body main div div div article p span span u a  ,https://themedtechconference.com/,1,12
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p span span  ,11/01~11/04,1,10
+html body main div div div article p span span  ,於葡萄牙里斯本舉辦的WebSummit展會，將遴選約25家團隊參與實體展會。,1,10
+html body main div div div article p span span strong  ,展會官網,1,11
+html body main div div div article p span span  ,：,1,10
+html body main div div div article p span span u a  ,https://websummit.com/,1,12
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p span span  ,11/14~11/17,1,10
+html body main div div div article p span span  ,於德國舉辦之StartupGermanyTour實體展會，將與德國在台辦事處合作，遴選5家台灣新創赴德對接，鏈結德國產業洽談商機。,1,10
+html body main div div div article p span span strong  ,展會官網,1,11
+html body main div div div article p span span  ,：,1,10
+html body main div div div article p span span u a  ,https://www.startupgermany.nrw/,1,12
+html body main div div div article p span strong span  ,聯合徵案報名資訊：,1,11
+html body main div div div article p span span  ,所有報名團隊皆透過TTA邀約之業界評委進行線上評選，並於TTA官網公布參展入選之參展團隊名單。,1,10
+html body main div div div article p span span  ,請同意TTA使用第一次報名資料作為其他場次之報名資料(團隊即可免填報名表)。,1,10
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p span span  ,TTA,1,10
+html body main div div div article p span span  ,官網公告連結：,1,10
+html body main div div div article p span span u a  ,https://taiwantecharenatta.pse.is/3hp6zx,1,12
+html body main div div div article p span span  ,報名連結：,1,10
+html body main div div div article p span span u a  ,https://forms.gle/YofmsXHWKGDiHMaZ8,1,12
+html body main div div div article p span span  ,徵案起始日：2021/7/6 (星期二) 15:30,1,10
+html body main div div div article p span span  ,徵案截止日：2021/8/13(星期五) 23:59止,1,10
+html body main div div div article p span span  ,洽詢窗口：TTAMs.DaphneLien梁小姐/0983-084-791/,1,10
+html body main div div div article p span span a  ,dlien@itri.org.tw,1,11
+html body main div div div article p span span  ,CES2022,1,10
+html body main div div div article p span span  ,徵案報名預告：,1,10
+html body main div div div article p span span  ,01/05~01/08,1,10
+html body main div div div article p span span  ,於美國拉斯維加斯舉辦的CES2022虛實展覽，將帶領100家新創團隊參展行銷台灣品牌，並協助建置虛擬展館做數位行銷。,1,10
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p span span strong  ,展會官網,1,11
+html body main div div div article p span span  ,：,1,10
+html body main div div div article p u a span span  ,https://www.ces.tech/,1,12
+html body main div div div article p span span  ,徵案說明會：8月中旬將舉辦線上說明會，確切日期將於TTA官網公告,1,10
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p span span  ,TTA,1,10
+html body main div div div article p span span  ,官網：,1,10
+html body main div div div article p span span u a  ,https://www.taiwanarena.tech/,1,12
+html body main div div div article p span span  ,洽詢窗口：TTAMs.DaphneLien梁小姐/0983-084-791/,1,10
+html body main div div div article p span span a  ,dlien@itri.org.tw,1,11
+html body main div div div article p strong span span  ,⇒,1,11
+html body main div div div article p strong span span a  ,TTA 2021 國際展會規畫說明檔案下載,1,12
+html body main div div div div a  ,回列表頁,0,8
+html body section a  ,:::,0,4
+html body section div div div div h3  ,最新消息,0,8
+html body section div div div div h3  ,計畫簡介,0,8
+html body section div div div div h3  ,計畫說明,0,8
+html body section div div div div h3  ,諮詢服務,0,8
+html body section div div div div h3  ,下載專區,0,8
+html body section div div div div h3  ,計畫成果,0,8
+html body section div div div div h3  ,廠商專區,0,8
+html body section div div div div h3  ,最新消息,0,8
+html body section div div div div div a  ,計畫公告,0,9
+html body section div div div div div a  ,活動快訊,0,9
+html body section div div div div h3  ,計畫簡介,0,8
+html body section div div div div div a  ,SBIR計畫成立背景,0,9
+html body section div div div div div a  ,Introduction to SBIR,0,9
+html body section div div div div div a  ,因應貿易自由化ECFA,0,9
+html body section div div div div div a  ,地方型SBIR,0,9
+html body section div div div div div a  ,未來期許與展望,0,9
+html body section div div div div h3  ,計畫說明,0,8
+html body section div div div div div a  ,計畫申請類別,0,9
+html body section div div div div div a  ,申請資格,0,9
+html body section div div div div div a  ,應備資料,0,9
+html body section div div div div div a  ,收件與服務窗口,0,9
+html body section div div div div div a  ,計畫期程及補助款編列原則,0,9
+html body section div div div div h3  ,諮詢服務,0,8
+html body section div div div div div a  ,常見問題,0,9
+html body section div div div div h3  ,下載專區,0,8
+html body section div div div div div a  ,SBIR,0,9
+html body section div div div div div a  ,因應貿易自由化ECFA,0,9
+html body section div div div div div a  ,中小企業行動智慧應用計畫,0,9
+html body section div div div div div a  ,創業概念海選計畫,0,9
+html body section div div div div div a  ,因應COVID-19創新研發計畫,0,9
+html body section div div div div div a  ,主題式聯盟,0,9
+html body section div div div div h3  ,計畫成果,0,8
+html body section div div div div div a  ,活動剪影,0,9
+html body section div div div div div a  ,廠商成果集,0,9
+html body section div div div div h3  ,廠商專區,0,8
+html body section div div div div div a  ,每期核定名單,0,9
+html body section div div div div div a  ,線上說明會,0,9
+html body section div p  ,版權所有©2021 經濟部中小企業處小型企業創新研發計畫,0,5
+html body section div div div ul li  ,地址：,0,8
+html body section div div div ul li a  ,100台北市中正區杭州南路一段15-1號17樓,0,9
+html body section div div div ul li  ,Email：,0,8
+html body section div div div ul li a  ,sbir1@admail.csd.org.tw,0,9
+html body section div div div ul li  ,電話：0800-888-968 / (02)2391-1368,0,8
+html body section div div div ul li  ,傳真：(02)2391-1231,0,8
+html body section div div div div ul li  ,主辦單位：,0,9
+html body section div div div div ul li  ,執行單位：,0,9
+html body section div div div div div p  ,地址,0,9
+html body div div div p  ,智能客服,0,6
+html body div div div ul li a  ,注意事項,0,8
+html body div div div ul li a  ,幫助,0,8
+html body div div div div div div div  ,您好！我是SBIR智能客服機器人小新，SBIR計畫相關問題都可以問我唷!請問有什麼我可以替您解答的嗎?,0,9
+html body div div div div div div div  ,您可以問我以下類型的問題:,0,9
+html body div div div div div div div p  ,SBIR計畫申請資格,0,10
+html body div div div div div div div p  ,SBIR計畫收件期限說明,0,10
+html body div div div div div div div p  ,SBIR計畫各申請階段重點,0,10
+html body div div div div div div div p  ,觀看線上說明會,0,10
+html body div div div div a span  ,送出,0,8
+html body div div div div h3  ,注意事項,0,7
+html body div div div div  ,SBIR計畫辦公室（以下簡稱本計畫）為遵守個人資料保護法規定，在您提供個人資料予本計畫前，依法告知下列事項：,0,6
+html body div div div div p  ,一、您可自由選擇是否提供您的個人資料予本計畫，但若您所提供之個人資料，經檢舉或發現不足以確認您的身份真實性或有涉及冒用、盜用其他個人資料、資料不實等情形，本計畫有權得暫時停止提供對您的服務，若有不便之處，敬請您見諒。,0,7
+html body div div div div p  ,二、本計畫基於個人資料保護法及相關法令之規定，取得您的個人資料，目的在於提供良好服務及業務之必要範圍內蒐集、處理及利用您的個人資料。,0,7
+html body div div div div p  ,三、您可依您的需要提供以下公司及個人資料：公司名稱、統一編號、公司資訊、聯絡人姓名、聯絡方式(包括但不限於電話、E-MAIL、地址)等、計畫客服諮詢需求或其他得以直接或間接識別您個人之資料。,0,7
+html body div div div div p  ,四、您同意本計畫以您所提供的個人資料確認您的身份、與您進行聯絡、提供您本計畫之相關服務及資訊，包括但不限於進行身份驗證、數據統計及分析、會員服務訊息之通知等用途，以及其他隱私權保護政策規範之使用方式。,0,7
+html body div div div div p  ,五、您可依個人資料保護法第3條規定，就您的個人資料向本計畫行使之下列權利：,0,7
+html body div div div div ul li  ,（1） 請求查詢或閱覽。,0,8
+html body div div div div ul li  ,（2） 請求提供複製本。,0,8
+html body div div div div ul li  ,（3） 請求補充或更正，惟請您應為適當之釋明。,0,8
+html body div div div div ul li  ,（4） 請求停止蒐集、處理及利用。,0,8
+html body div div div div ul li  ,（5） 請求刪除。,0,8
+html body div div div div p  ,六、若您有任何問題可電洽本計畫，電話：0800-888968 / (02)23964828，本計畫將竭誠為您服務。,0,7
+html body div div div div p  ,七、您已詳細閱讀並充分瞭解及接受此一同意符合個人資料保護法及相關法規之要求，具有書面同意本計畫蒐集、處理及利用您的個人資料之效果。,0,7
+html body div div div div h3  ,幫助,0,7
+html body div div div div  ,智能客服服務時間：全年無休。,0,6
+html body div div div div p  ,服務範圍：本服務目前僅供諮詢與私人資料無關之訊息。,0,7
+html body div div div div p  ,為避免有心人士追蹤、竊取資料，交談過程中非經要求請勿輸入私人機密資料（如身分證字號、線上系統密碼等）。,0,7
+html body div div div div p  ,請勿傳遞與本計畫業務無關或違法訊息，計畫辦公室有權終止非服務範圍內之訊息傳遞。,0,7
