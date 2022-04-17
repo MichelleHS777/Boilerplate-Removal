@@ -72,7 +72,7 @@ class LSTMModel(tf.keras.Model):
         x = self.dropout_layer(x, training=training)
         lstm_out = x
         out = self.label_out(lstm_out)
-        # add domain classifier
+        # Add domain classifier
         reverse_feature = GradReverse()(lstm_out)
         domain_out = self.domain_out(reverse_feature)
         return out, a, domain_out
@@ -117,7 +117,7 @@ class MCModel(tf.keras.Model):
             tf.keras.layers.LSTM(ff_dim//2, return_sequences=True))
             for _ in range(num_layers)]
         self.label_out = tf.keras.layers.Dense(out_dim)
-        self.domain_out = tf.keras.layers.Dense(2) # add domain classifier
+        self.domain_out = tf.keras.layers.Dense(2) # Add domain classifier
         self.mc_step = mc_step
         self.lstm_dropout = lstm_dropout
         self.dropout = dropout
@@ -141,7 +141,7 @@ class MCModel(tf.keras.Model):
         x = self.add_dropout(x, self.dropout)
         lstm_out = x
         out = self.label_out(lstm_out)
-        # add domain classifier
+        # Add domain classifier
         reverse_feature = GradReverse()(lstm_out)
         domain_out = self.domain_out(reverse_feature)
         return out, a, domain_out

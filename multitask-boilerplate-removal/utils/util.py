@@ -22,7 +22,6 @@ def limit_gpu():
             # Visible devices must be set before GPUs have been initialized
             print(e)
 
-
 def preprocess_df(args, df, dataloader, WORD, aux=False):
     df_tag = [str(t) for t in list(df['tag'])]
     tag_emb = None
@@ -65,9 +64,12 @@ def preprocess_df(args, df, dataloader, WORD, aux=False):
     else:
         bert_emb = dataloader.model.bert.encode(df_content)
         content_emb = bert_emb
+    
     if "label" not in df.columns:
         df['label'] = [-1 for _ in range(len(df))]
     label = tf.one_hot(np.array(df['label']), 2)
+    # print('label: \n', label)
+    
     if aux:
         if aux == 1:
             if "depth" not in df.columns:
@@ -88,22 +90,29 @@ def preprocess_df(args, df, dataloader, WORD, aux=False):
     return tag_emb, content_emb, label
 
 def get_data(args, file, dataloader, WORD=False, aux=0):
-    domain = []
     df = pd.read_csv(file)
-    # domain 
+    
+    # Add domain  classifier
     if "ce" in file:
-        domain_out = 0 # cleaneval
+        domain = 0 # cleaneval
     else:
-        domain_out = 1 # newdata
-    domain.append(domain_out)
-    print(domain)
+        domain = 1 # newdata
+    domain = pd.Series([domain])
+    # print('file: ', file)
+    # print('domain: ', domain)
+    domain_out = tf.one_hot(np.array(domain), 2)
+
     if aux:
+        # train set
         tag_out, emb_out, label_out, aux_out = preprocess_df(
             args, df, dataloader, WORD, aux)
+        # print('file: ', file)
+        # print('type: ', type(tag_out), type(emb_out), type(label_out), type(aux_out))
+        # print('label out: ', label_out)
         return tag_out, emb_out, label_out, aux_out, domain_out
-    tag_out, emb_out, label_out = preprocess_df(args, df, dataloader, WORD, aux)
-    return tag_out, emb_out, label_out
-
+    # val set and test set
+    tag_out, emb_out, label_out = preprocess_df(args, df, dataloader, WORD, aux) 
+    return tag_out, emb_out, label_out 
 
 def concatAxisZero(all_pred, pred):
     if all_pred is None:

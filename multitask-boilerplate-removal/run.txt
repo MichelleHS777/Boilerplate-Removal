@@ -1,0 +1,3 @@
+cd ../../mnt//c/Users/Michelle/
+source ubuntu_boilerplate/bin/activate
+cd BoilerplateRemoval/multitask-boilerplate-removal/

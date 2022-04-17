@@ -109,15 +109,16 @@ def train(args, myDataLoader, myModel):
     freq = dict(zip(unique, counts))
     class_weights = tf.constant(
         [[1-freq[l]/len(all_y_true) for l in range(args.label_size)]])
-    print("Class weights", class_weights)
+    # New class weight
     class_weights = tf.Variable(class_weights)
     class_weights[0,1].assign(class_weights[0,1]*(freq[0]/freq[1])) # Change content weight to higher
-    print("New Class weights: ", class_weights)
+    class_weights = tf.convert_to_tensor(class_weights)
+    print("Class weights: ", class_weights)
 
     # Set up loss
     My_Mask_CE = Custom_Cross_Entropy(class_weights)
     MSE = tf.keras.losses.MeanSquaredError()
-    Category_Loss = tf.keras.losses.CategoricalCrossentropy() # domain loss
+    Category_Loss = tf.keras.losses.CategoricalCrossentropy() # Domain classifier loss
 
     # Set up metrics
     train_loss = tf.keras.metrics.Mean('train_loss', dtype=tf.float32)
@@ -157,6 +158,8 @@ def train(args, myDataLoader, myModel):
         val_source = val_buffer
         for t, e, y, a, d in myDataLoader.train_ds:
             train_buffer.append([t, e, y, a, d])
+        # for t, e, y, a in myDataLoader.train_ds:
+        #     train_buffer.append([t, e, y, a])
         for t, e, y in myDataLoader.val_ds:
             val_buffer.append([t, e, y])
 
@@ -170,7 +173,7 @@ def train(args, myDataLoader, myModel):
         # =====================================================
         if not args.no_buffer and args.batch == 1:
             random.shuffle(train_buffer)
-        for t, e, y, a in train_source:
+        for t, e, y, a, d in train_source:
             redo = True
             while(redo):
                 redo = False
@@ -183,6 +186,7 @@ def train(args, myDataLoader, myModel):
                         t, e, training=True)
                     loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out) + \
                         args.alpha*MSE(a, a_pred) + Category_Loss(d, domain_pred)
+                    # loss.backward()
                 if args.tag_rep == 0:
                     trainable_variables = myModel.trainable_variables
                 else:

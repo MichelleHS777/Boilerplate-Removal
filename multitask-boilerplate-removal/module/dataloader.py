@@ -16,10 +16,12 @@ class DataLoader():
             output_types=(tf.float32,
                           tf.float32,
                           tf.float32,
+                          tf.float32,
                           tf.float32)).padded_batch(
             batch_size=args.batch,
-            padded_shapes=([None, None], [None, None], [None, args.label_size], [None, None]),
+            padded_shapes=([None, None], [None, None], [None, args.label_size], [None, None], [None, None]),
             padding_values=(
+                tf.constant(0, dtype=tf.float32),
                 tf.constant(0, dtype=tf.float32),
                 tf.constant(0, dtype=tf.float32),
                 tf.constant(0, dtype=tf.float32),
@@ -42,7 +44,6 @@ class DataLoader():
     def gen_data(self, file_type):
         if file_type == 0:
             files = sorted(glob(self.args.train_folder + "*.csv"))
-            print("train folders: ",files)
             for f in files:
                 tag, emb, label, aux, domain = util.get_data(self.args,
                                                        f,
@@ -50,13 +51,12 @@ class DataLoader():
                                                        self.args.word,
                                                        True)
                 yield tag, emb, label, aux, domain
+                # yield tag, emb, label, aux
         else:
             if file_type == 1:
                 files = sorted(glob(self.args.val_folder + "*.csv"))
-                print("val folders: ",files)
             else:
                 files = sorted(glob(self.args.test_folder + "*.csv"))
-                print("test folders: ",files)
             for f in files:
                 tag, emb, label = util.get_data(self.args,
                                                 f,
