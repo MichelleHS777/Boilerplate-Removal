@@ -1,0 +1,261 @@
+﻿tag,content,label,depth,domain
+html body div header div div a  ,跳到中央內容區塊,0,7,newdata
+html body div header div div a  ,:::,0,7,newdata
+html body div header div div div div div div a  ,												 													中文 													 													 													 												 											,0,11,newdata
+html body div header div div div div div div div a  ,中文,0,12,newdata
+html body div header div div div div div div div a  ,English,0,12,newdata
+html body div header div div div div div div div a  ,日本語,0,12,newdata
+html body div header div div div div div div div a  ,한국어,0,12,newdata
+html body div header div div div div div div a  ,														蘭博快訊 													,0,11,newdata
+html body div header div div div div div div a  ,														志工服務 													,0,11,newdata
+html body div header div div div div div div a  ,												網站導覽 											,0,11,newdata
+html body div header div div div div div div a span  ,													Facebook 												,0,12,newdata
+html body div header div div div div div div a span  ,													Line 												,0,12,newdata
+html body div header div div div div div div a span  ,													Youtube 												,0,12,newdata
+html body div header div div div div div div a span  ,													Instagram 												,0,12,newdata
+html body div header div div div div div div div label  ,Address:,0,12,newdata
+html body div header div div nav div div ul li a  ,觀眾服務,0,12,newdata
+html body div header div div nav div div ul li ul li a  ,參觀資訊,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,本館,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,線上購票,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,兒童考古探索廳,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,蘭博-烏石港驛站,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,南方澳討海文化館,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,交通位置及地圖,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,本館,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,蘭博-烏石港驛站,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,南方澳討海文化館,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,導覽服務,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,導覽服務介紹,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,預約情形一覽,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,友善服務,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,本館,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,蘭博-烏石港驛站,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,餐飲賣店,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,館內餐飲,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,館內賣店,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,啾咕咖啡,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,蘭博文創,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,紀念品,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,出版品,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,線上購物,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,販售地點,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,場地租借,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,場地介紹,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,表單下載,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,支持與加入,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,專案贊助,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,物件捐贈,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,加入會員,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,常見問答,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,旅遊資訊,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,失物招領,0,14,newdata
+html body div header div div nav div div ul li a  ,展演資訊,0,12,newdata
+html body div header div div nav div div ul li ul li a  ,常設展,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,特展,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,主題展,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,四季音樂節,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,影音專區,0,14,newdata
+html body div header div div nav div div ul li a  ,學習與活動,0,12,newdata
+html body div header div div nav div div ul li ul li a  ,環教課程,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,環教課程簡介,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,環教課程一覽,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,推廣活動,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,學習資源下載,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,校外教學資源專區,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,展示單元活動單,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,活動成果,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,實習申請,0,14,newdata
+html body div header div div nav div div ul li a  ,典藏出版,0,12,newdata
+html body div header div div nav div div ul li ul li a  ,宜蘭博物典藏網,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,數位宜蘭,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,總說,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,知識主題站,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,線上文物,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,文化資產總覽,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,研究出版,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,研究計畫,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,出版品,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,館藏圖書,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,蘭博電子報,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,電子報一覽,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,歷史電子報,0,16,newdata
+html body div header div div nav div div ul li a  ,博物館家族,0,12,newdata
+html body div header div div nav div div ul li a  ,認識蘭博,0,12,newdata
+html body div header div div nav div div ul li ul li a  ,蘭博使命與館徽,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,組織與架構,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,歷任館長與館長的話,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,蘭博大事記,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,建築景觀,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,得獎榮譽,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,烏石港濕地公園,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,蘭博–烏石港驛站,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,南方澳討海文化館,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,環景720°,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,飛閱蘭博,0,14,newdata
+html body div header div div nav div div ul li a  ,公告與訊息,0,12,newdata
+html body div header div div nav div div ul li ul li a  ,最新消息,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,展覽活動行事曆,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,優惠情報,0,14,newdata
+html body div header div div nav div div ul li ul li ul li a  ,最新優惠活動,0,16,newdata
+html body div header div div nav div div ul li ul li ul li a  ,票根獨享好康,0,16,newdata
+html body div header div div nav div div ul li ul li a  ,失物招領,0,14,newdata
+html body div header div div nav div div ul li ul li a  ,政府公開資訊,0,14,newdata
+html body div section div div h2  ,學習與活動,0,7,newdata
+html body div section div ul li a  ,蘭陽博物館,0,8,newdata
+html body div section div ul li a  ,學習與活動,0,8,newdata
+html body div section div ul li a  ,推廣活動,0,8,newdata
+html body div section a  ,:::,0,5,newdata
+html body div section div div div h3  ,				推廣活動,0,8,newdata
+html body div section div div div div div div h3  ,【Blihun漢本–交通樞紐上的國定考古遺址】考古體驗活動,1,11,newdata
+html body div section div div div div div a  ,返回列表,0,10,newdata
+html body div section div div div div div div div div  ,適用對象,0,12,newdata
+html body div section div div div div div div div div  ,一般大眾,0,12,newdata
+html body div section div div div div div div div  ,						,0,11,newdata
+html body div section div div div div div div div div  ,活動費用,1,12,newdata
+html body div section div div div div div div div div  ,免費,1,12,newdata
+html body div section div div div div div div div div  ,活動地點,1,12,newdata
+html body div section div div div div div div div div  ,台中市文化部文化資產園區（臺中市南區復興路三段362號）,1,12,newdata
+html body div section div div div div div div div div  ,活動時間,1,12,newdata
+html body div section div div div div div div div div  ,Fri Jan 14 10:00:00 CST 2022 ~ Sat Jan 15 15:30:00 CST 2022,1,12,newdata
+html body div section div div div div div div div div  ,報名時間,1,12,newdata
+html body div section div div div div div div div div  ,Fri Jan 14 10:00:00 CST 2022 ~ Sat Jan 15 15:30:00 CST 2022,1,12,newdata
+html body div section div div div div div div div div a span p  ,上一個,1,15,newdata
+html body div section div div div div div div div div a span p  ,下一個,1,15,newdata
+html body div section div div div div div div div div div ul li a  ,活動說明,1,16,newdata
+html body div section div div div div div div div div div ul li a  ,檔案下載,1,16,newdata
+html body div section div div div div div div div div div div div p  ,考古學家如同偵探，從地層中抽絲剝繭、層層考察地底下的遺物、遺跡，描摹出史前人類的生命史與生活環境、文化發展。依照文化資產保存法指定的國定考古遺址目前共11處，代表臺灣史前時代發展的重要內涵，這些考古遺址埋藏著先民的生活與文化，透過考古發掘及研究，讓民眾更貼近這塊土地過去發生的事。,1,16,newdata
+html body div section div div div div div div div div div div div p  ,為讓考古學走入日常生活之中，從考古學的知識、理論、技術和實際案例出發，結合各種實用、有趣的手作活動，創造民眾愉悅互動體驗，同時可以了解考古學與現代人群社會的關聯性，認識遺址及其文化內涵，發現史前人群文化有趣之處，進而認同遺址保存的重要性，加入遺址保存維護的行列，達成考古知識生活化的目標。,1,16,newdata
+html body div section div div div div div div div div div div div p strong  ,主辦單位：文化部文化資產局,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,承辦單位：宜蘭縣立蘭陽博物館,1,17,newdata
+html body div section div div div div div div div div div div div p  ,一、活動對象：參觀【Blihun漢本–交通樞紐上的國定考古遺址】特展之民眾,1,16,newdata
+html body div section div div div div div div div div div div div p  ,二、活動時間：,1,16,newdata
+html body div section div div div div div div div div div div div p strong  ,111,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,年,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,1,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,月,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,14-15,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,日,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,(,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,五,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,-,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,六,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,),1,17,newdata
+html body div section div div div div div div div div div div div p  ,三、活動地點：文化部文化資產園區-B03藝文展覽館,1,16,newdata
+html body div section div div div div div div div div div div div p  ,四、活動辦法：每場體驗活動時間約60-90分鐘，每日2場（10:00、13:30）。,1,16,newdata
+html body div section div div div div div div div div div div div p  ,1.「,1,16,newdata
+html body div section div div div div div div div div div div div p strong  ,學習單闖關活動,1,17,newdata
+html body div section div div div div div div div div div div div p  ,」：不限人數，於活動時間內皆可參加。,1,16,newdata
+html body div section div div div div div div div div div div div p  ,2.「,1,16,newdata
+html body div section div div div div div div div div div div div p strong  ,DIY,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,體驗活動,1,17,newdata
+html body div section div div div div div div div div div div div p  ,」：向現場工作人員登記報名，並於蘭博、文資局FB打卡按讚，及完成學習單闖關活動者即可參加（依現場公告主題，提供10-15人參與）。,1,16,newdata
+html body div section div div div div div div div div div div div p strong  ,五、注意事項：,1,17,newdata
+html body div section div div div div div div div div div div div p  ,1.請於活動,1,16,newdata
+html body div section div div div div div div div div div div div p strong  ,前,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,10,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,分鐘,1,17,newdata
+html body div section div div div div div div div div div div div p  ,至活動地點入口集合報到。,1,16,newdata
+html body div section div div div div div div div div div div div p  ,2.為節能減碳，請自備環保杯、筆記等個人用品。,1,16,newdata
+html body div section div div div div div div div div div div div p  ,3.本活動將進行錄影、拍攝，其影像供指導單位、主辦單位日後教育推廣及成果紀錄使用。若不同意授予肖像權者，請於錄影與拍攝時自行留意迴避。,1,16,newdata
+html body div section div div div div div div div div div div div p  ,4.因應COVID-19疫情，室內場域請「全程配戴口罩」；進入展區前請配合「實聯制登記」、「手部消毒」及「量測額溫」，若,1,16,newdata
+html body div section div div div div div div div div div div div p strong  ,額溫超過,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,37.5,1,17,newdata
+html body div section div div div div div div div div div div div p strong  ,度,1,17,newdata
+html body div section div div div div div div div div div div div p  ,(含)以上者，恕無法參加活動。,1,16,newdata
+html body div section div div div div div div div div div div div p  ,5.展覽區域(活動地點)溫度較低，請務必攜帶保暖外套。,1,16,newdata
+html body div section div div div div div div div div div div div div div label  ,【Blihun漢本 - 交通樞紐上的國定考古遺址】考古體驗活動辦法,1,18,newdata
+html body div footer a  ,:::,0,5,newdata
+html body div footer div div div ul li a  ,網站導覽,0,10,newdata
+html body div footer div div div ul li a  ,服務信箱,0,10,newdata
+html body div footer div div div ul li a  ,蘭博快訊,0,10,newdata
+html body div footer div div div ul li a  ,隱私權,0,10,newdata
+html body div footer div div div ul li a  ,著作權宣告,0,10,newdata
+html body div footer div div div div ul li a  ,1. 觀眾服務,0,11,newdata
+html body div footer div div div div ul li ul li a  ,1-1. 參觀資訊,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-1-1. 本館,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-1-2. 線上購票,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-1-3. 兒童考古探索廳,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-1-4. 蘭博-烏石港驛站,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-1-5. 南方澳討海文化館,0,15,newdata
+html body div footer div div div div ul li ul li a  ,1-2. 交通位置及地圖,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-2-1. 本館,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-2-2. 蘭博-烏石港驛站,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-2-3. 南方澳討海文化館,0,15,newdata
+html body div footer div div div div ul li ul li a  ,1-3. 導覽服務,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-3-1. 導覽服務介紹,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-3-2. 預約情形一覽,0,15,newdata
+html body div footer div div div div ul li ul li a  ,1-4. 友善服務,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-4-1. 本館,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-4-2. 蘭博-烏石港驛站,0,15,newdata
+html body div footer div div div div ul li ul li a  ,1-5. 餐飲賣店,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-5-1. 館內餐飲,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-5-2. 館內賣店,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-5-3. 啾咕咖啡,0,15,newdata
+html body div footer div div div div ul li ul li a  ,1-6. 蘭博文創,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-6-1. 紀念品,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-6-2. 出版品,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-6-3. 線上購物,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-6-4. 販售地點,0,15,newdata
+html body div footer div div div div ul li ul li a  ,1-7. 場地租借,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-7-1. 場地介紹,0,15,newdata
+html body div footer div div div div ul li ul li a  ,1-8. 表單下載,0,13,newdata
+html body div footer div div div div ul li ul li a  ,1-9. 支持與加入,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-9-1. 專案贊助,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-9-2. 物件捐贈,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,1-9-3. 加入會員,0,15,newdata
+html body div footer div div div div ul li ul li a  ,1-10. 常見問答,0,13,newdata
+html body div footer div div div div ul li ul li a  ,1-11. 旅遊資訊,0,13,newdata
+html body div footer div div div div ul li ul li a  ,1-12. 失物招領,0,13,newdata
+html body div footer div div div div ul li a  ,2. 展演資訊,0,11,newdata
+html body div footer div div div div ul li ul li a  ,2-1. 常設展,0,13,newdata
+html body div footer div div div div ul li ul li a  ,2-2. 特展,0,13,newdata
+html body div footer div div div div ul li ul li a  ,2-3. 主題展,0,13,newdata
+html body div footer div div div div ul li ul li a  ,2-4. 四季音樂節,0,13,newdata
+html body div footer div div div div ul li ul li a  ,2-5. 影音專區,0,13,newdata
+html body div footer div div div div ul li a  ,3. 學習與活動,0,11,newdata
+html body div footer div div div div ul li ul li a  ,3-1. 環教課程,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,3-1-1. 環教課程簡介,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,3-1-2. 環教課程一覽,0,15,newdata
+html body div footer div div div div ul li ul li a  ,3-2. 推廣活動,0,13,newdata
+html body div footer div div div div ul li ul li a  ,3-3. 學習資源下載,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,3-3-1. 校外教學資源專區,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,3-3-2. 展示單元活動單,0,15,newdata
+html body div footer div div div div ul li ul li a  ,3-4. 活動成果,0,13,newdata
+html body div footer div div div div ul li ul li a  ,3-5. 實習申請,0,13,newdata
+html body div footer div div div div ul li a  ,4. 典藏出版,0,11,newdata
+html body div footer div div div div ul li ul li a  ,4-1. 宜蘭博物典藏網,0,13,newdata
+html body div footer div div div div ul li ul li a  ,4-2. 數位宜蘭,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,4-2-1. 總說,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,4-2-2. 知識主題站,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,4-2-3. 線上文物,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,4-2-4. 文化資產總覽,0,15,newdata
+html body div footer div div div div ul li ul li a  ,4-3. 研究出版,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,4-3-1. 研究計畫,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,4-3-2. 出版品,0,15,newdata
+html body div footer div div div div ul li ul li a  ,4-4. 館藏圖書,0,13,newdata
+html body div footer div div div div ul li ul li a  ,4-5. 蘭博電子報,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,4-5-1. 電子報一覽,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,4-5-2. 歷史電子報,0,15,newdata
+html body div footer div div div div ul li a  ,5. 博物館家族,0,11,newdata
+html body div footer div div div div ul li a  ,6. 認識蘭博,0,11,newdata
+html body div footer div div div div ul li ul li a  ,6-1. 蘭博使命與館徽,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-2. 組織與架構,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-3. 歷任館長與館長的話,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-4. 蘭博大事記,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-5. 建築景觀,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-6. 得獎榮譽,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-7. 烏石港濕地公園,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-8. 蘭博–烏石港驛站,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-9. 南方澳討海文化館,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-10. 環景720°,0,13,newdata
+html body div footer div div div div ul li ul li a  ,6-11. 飛閱蘭博,0,13,newdata
+html body div footer div div div div ul li a  ,7. 公告與訊息,0,11,newdata
+html body div footer div div div div ul li ul li a  ,7-1. 最新消息,0,13,newdata
+html body div footer div div div div ul li ul li a  ,7-2. 展覽活動行事曆,0,13,newdata
+html body div footer div div div div ul li ul li a  ,7-3. 優惠情報,0,13,newdata
+html body div footer div div div div ul li ul li ul li a  ,7-3-1. 最新優惠活動,0,15,newdata
+html body div footer div div div div ul li ul li ul li a  ,7-3-2. 票根獨享好康,0,15,newdata
+html body div footer div div div div ul li ul li a  ,7-4. 失物招領,0,13,newdata
+html body div footer div div div div ul li ul li a  ,7-5. 政府公開資訊,0,13,newdata
+html body div footer div div div  ,宜蘭縣立蘭陽博物館 版權所有 All Rights Reserved. 館址：26144宜蘭縣頭城鎮青雲路三段750號 TEL：(03)977-9700 │ FAX：(03)977-9300 								,0,7,newdata

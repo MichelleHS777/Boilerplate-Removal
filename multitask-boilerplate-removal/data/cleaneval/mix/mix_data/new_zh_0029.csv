@@ -1,112 +1,112 @@
-﻿tag,content,label,depth
-html body h4  ,Menu,0,3
-html body div ul li a  ,首頁,0,6
-html body div ul li a  ,關於展昭,0,6
-html body div ul li ul li a  ,公司簡介,0,8
-html body div ul li ul li a  ,展覽品牌,0,8
-html body div ul li ul li a  ,合作夥伴,0,8
-html body div ul li a  ,展會訊息,0,6
-html body div ul li ul li a  ,最新消息,0,8
-html body div ul li ul li a  ,展會花絮,0,8
-html body div ul li ul li a  ,展會影片,0,8
-html body div ul li a  ,展覽服務,0,6
-html body div ul li ul li a  ,展覽檔期表,0,8
-html body div ul li ul li a  ,歷年展覽行程表,0,8
-html body div ul li ul li a  ,協力廠商,0,8
-html body div ul li ul li a  ,特約飯店,0,8
-html body div ul li a  ,媒體服務,0,6
-html body div ul li ul li a  ,出版刊物,0,8
-html body div ul li ul li a  ,亞洲機械網,0,8
-html body div ul li a  ,網站服務,0,6
-html body div ul li ul li a  ,客製化網站設計,0,8
-html body div ul li ul li a  ,成功案例分享,0,8
-html body div ul li a  ,合作洽談,0,6
-html body div ul li ul li a  ,同異業合作,0,8
-html body div ul li a  ,會員專區,0,6
-html body div ul li ul li a  ,會員登入,0,8
-html body div ul li ul li a  ,企業參觀服務,0,8
-html body div ul li ul li a  ,展昭會員服務,0,8
-html body div ul li ul li a  ,展昭電子報介紹,0,8
-html body div ul li ul li a  ,常見問題,0,8
-html body div ul li a  ,聯絡我們,0,6
-html body ul li a  ,登入/註冊,0,5
-html body ul li a  ,English,0,5
-html body header h1 a  ,展昭展覽網 | 展昭國際企業股份有限公司,0,5
-html body ul li a  ,登入/註冊,0,5
-html body ul li a  ,EN,0,5
-html body div a  ,首頁,0,4
-html body div span  ,/,0,4
-html body div  ,展覽服務,0,3
-html body div span  ,/,0,4
-html body div a  ,展覽檔期表,0,4
-html body div span  ,/,0,4
-html body div  ,2022 Touch Taiwan系列展 - 智慧製造展,1,3
-html body article div div dl dd a  ,收藏,1,8
-html body article div div dl dd a  ,詢問,1,8
-html body article div h1  ,2022 Touch Taiwan系列展 - 智慧製造展,1,5
-html body article div p  ,2022 Touch Taiwan - Smart Manufacturing Taiwan,1,5
-html body article div p  ,2022/4/27(三) - 4/29(五),1,5
-html body article div p  ,10:00AM-5:00PM,1,5
-html body article div p  ,台北南港展覽館1館4樓 (台北市南港區經貿二路1號),1,5
-html body article div p  ,恕不開放18歲以下民眾參觀,1,5
-html body article div p a  ,臺灣,1,6
-html body article div p  ,/,1,5
-html body article div p a  ,電子設備及零組件,1,6
-html body article div dl span dd a  ,收藏,1,8
-html body article div dl span dd a  ,詢問,1,8
-html body article div dl dd a  ,官網,1,7
-html body article div dl dd a  ,參展諮詢,1,7
-html body article div dl dd a  ,參觀資格申請,1,7
-html body article div dl dd a  ,加入行事曆,1,7
-html body article div h3  ,主辦單位,1,5
-html body article div  ,台灣顯示器產業聯合總會(TDUA),1,4
-html body article div  ,台灣TFT LCD產業協會(TTLA),1,4
-html body article div  ,台灣平面顯示器材料與元件產業協會(TDMDA),1,4
-html body article div  ,台灣電子設備協會(TEEIA),1,4
-html body article div  ,國際資訊顯示學會中華民國總會(SID),1,4
-html body article div  ,展昭國際企業股份有限公司,1,4
-html body article div h3  ,協辦單位,1,5
-html body article div  ,台灣安全設備與服務產業協會,1,4
-html body article div  ,瑞典商 AR Media (瑞亞媒體) 亞太分公司,1,4
-html body article div h3  ,展覽介紹,1,5
-html body article div p  ,利用高效的自動化設備監控及辨識技術，透過物聯網（IOT）的應用技術，將大數據串連與系統分析等智慧的手段，加強資訊管理和服務，清楚掌握產銷流程、提高生產過程的可控性、減少生產線上人工的干預、即時正確地採集生產線資料，以及合理的生產計畫編排與生產進度，來實現從管理、產品研發、生產到物流配送全過程的數位化、自動化、綠色化、虛擬化的現代工業生產；並且通過資訊技術，與其他地區和國家的生產基地和研發中心進行資料互聯。通過人、設備與產品的即時監控、識別和聯通與有效溝通，構建一個高度靈活的個性化和數位化的智能製造模式，提升製造業的智慧化水準，是製造業轉型升級的大方向，是工業自動化行業一個發展機遇。,1,5
-html body article div div span span span  ,展示項目,1,8
-html body article div p span  ,智慧製造,1,6
-html body article div p span strong  ,：,1,7
-html body article div div  ,"工廠生產 / 自動化系統 / 工業IT技術及軟體工控 / 嵌入式系統 / 自動搬運系統 / AGV, MGV 機器手臂 / 自動化裝置 / 雲端大數據 / RFid, Bluetooth / ERP, APP / 電器開關 / 電力裝置感應 / 量測系統影像處理 / CAD, CAM, PLM / PLC, HMI 變頻傳動、伺服驅動 / IC元件、晶片/IC設計、封裝測試/ 智慧生產 / 智慧產品解決方案/機器手臂/機械取放裝置/人機介面/CNC控制器/PC-BASED/3D列印/電源供應器/端子台/變頻器/整流器/電容器/感測器/連接器/驅動器/工業控制元件/電工器材/配線器材/溫度/壓力/流量控制器、儀表、開關、信號警示燈/系統組裝/系統管理/軟體整合/主機板/繪圖卡/CAE相關軟體/顯示卡虛實整合系統cps",1,5
-html body article div div div p span  ,智慧監控：,1,8
-html body article div div div p  ,"顯示設備 / 攝像機 / 遠端監控模組 / 雲端視訊系統 / 智慧影像處理 / 存儲設備 / 系統平台 / 元器件等監控產品和配件 / 無人直升機 / 人機介面系統 / 智慧居家照護監控 / 智慧醫療監控 / 智慧安控系統 / 智慧工廠監控系統 / 傳輸設備 / 控制設備 / CPU, CCD, CMOS / 智慧控制軟體平台 / 嵌入式系統/運動控制/智能定位",1,7
-html body article div div div p span  ,智慧感測與辨識：,1,8
-html body article div div div p  ,"光學識別 / 指紋識別 / 識別系統 / 語音辨識 / 面部識別 / 眼球識別 / 圖像辨識 / 靜脈識別 / 肢體感測 / 防偽技術 / 影像處理 / CAD, CAM, PLM 解決方案 / 電容感測器 / 傳感器 / 生物射頻 / 產品、技術 / 設備、材料和零部件/RFID設備、系統 / 防盜保全系統 / 消防系統/ 讀碼機 / 掃描器 / 辨識卡 / 列印機 / 條碼耗材 / OCR / 智能標籤",1,7
-html body article div div div p span  ,智慧物流：,1,8
-html body article div div div p  ,自動倉儲/自動分揀機/車貨架/電子標籤揀選系統/包裝設備機器/物流箱與棧板/籠車台車與拖板車、堆高機、馬達/物流與運輸管理軟體/物流自動化系統設備商/智慧居家,1,7
-html body article div div div p span  ,物聯網/互聯網：,1,8
-html body article div div div p  ,雲端平台/雲端儲存/無線傳輸技術 /感測器模組/工業乙太網路/衛星/電信系統/電信設備/區域網路/光通訊/手機/GPS/數據機/光纖/二維碼/行動手持裝置/穿戴裝置/安全支付/嵌入式產品,1,7
-html body article div div div p span  ,工業大數據：,1,8
-html body article div div div p  ,數據庫/資料擷取、管理、分析整合系統,1,7
-html body article div h3  ,業務洽詢,0,5
-html body article div p  ,台灣顯示器產業聯合總會／台灣電子設備協會,0,5
-html body article div p  ,Tel: (02)2729-3933,0,5
-html body article div p  ,Fax: (02)2729-3950,0,5
-html body article div p  ,蕭小姐 #24,0,5
-html body article div p  ,Email: peggie@teeia.org.tw,0,5
-html body article div p  ,展昭國際企業股份有限公司,0,5
-html body article div p  ,Tel: (02)2659-6000,0,5
-html body article div p  ,Fax: (02)2659-7000,0,5
-html body article div p  ,李先生 #135／張小姐 #266,0,5
-html body article div p  ,Email: touch@chanchao.com.tw,0,5
-html body article div h3  ,推薦展覽,0,5
-html body article div ul li a  ,2022 Touch Taiwan系列��� - 智慧顯示展覽會,0,7
-html body article div ul li span  ,2022/4/27(三) - 4/29(五),0,7
-html body article div ul li a  ,2023 柬埔寨國際電機電子電力設備暨照明科技展,0,7
-html body article div ul li span  ,2023/8/16(三) - 8/19(六),0,7
-html body article div p a  ,回前頁,0,6
-html body footer p  ,致力追求客戶滿意是我們的首要目標，若您有任何服務品質上的寶貴意見，歡迎,0,4
-html body footer p a  ,與我們聯絡,0,5
-html body footer p a  ,隱私權政策,0,5
-html body footer p  ,|,0,4
-html body footer p a  ,資料使用聲明,0,5
-html body footer p  ,|,0,4
-html body footer p a  ,會員服務條款,0,5
-html body footer p  ,Copyright © 展昭國際企業,0,4
-html body div  ,TOP,0,3
+﻿tag,content,label,depth,domain
+html body h4  ,Menu,0,3,newdata
+html body div ul li a  ,首頁,0,6,newdata
+html body div ul li a  ,關於展昭,0,6,newdata
+html body div ul li ul li a  ,公司簡介,0,8,newdata
+html body div ul li ul li a  ,展覽品牌,0,8,newdata
+html body div ul li ul li a  ,合作夥伴,0,8,newdata
+html body div ul li a  ,展會訊息,0,6,newdata
+html body div ul li ul li a  ,最新消息,0,8,newdata
+html body div ul li ul li a  ,展會花絮,0,8,newdata
+html body div ul li ul li a  ,展會影片,0,8,newdata
+html body div ul li a  ,展覽服務,0,6,newdata
+html body div ul li ul li a  ,展覽檔期表,0,8,newdata
+html body div ul li ul li a  ,歷年展覽行程表,0,8,newdata
+html body div ul li ul li a  ,協力廠商,0,8,newdata
+html body div ul li ul li a  ,特約飯店,0,8,newdata
+html body div ul li a  ,媒體服務,0,6,newdata
+html body div ul li ul li a  ,出版刊物,0,8,newdata
+html body div ul li ul li a  ,亞洲機械網,0,8,newdata
+html body div ul li a  ,網站服務,0,6,newdata
+html body div ul li ul li a  ,客製化網站設計,0,8,newdata
+html body div ul li ul li a  ,成功案例分享,0,8,newdata
+html body div ul li a  ,合作洽談,0,6,newdata
+html body div ul li ul li a  ,同異業合作,0,8,newdata
+html body div ul li a  ,會員專區,0,6,newdata
+html body div ul li ul li a  ,會員登入,0,8,newdata
+html body div ul li ul li a  ,企業參觀服務,0,8,newdata
+html body div ul li ul li a  ,展昭會員服務,0,8,newdata
+html body div ul li ul li a  ,展昭電子報介紹,0,8,newdata
+html body div ul li ul li a  ,常見問題,0,8,newdata
+html body div ul li a  ,聯絡我們,0,6,newdata
+html body ul li a  ,登入/註冊,0,5,newdata
+html body ul li a  ,English,0,5,newdata
+html body header h1 a  ,展昭展覽網 | 展昭國際企業股份有限公司,0,5,newdata
+html body ul li a  ,登入/註冊,0,5,newdata
+html body ul li a  ,EN,0,5,newdata
+html body div a  ,首頁,0,4,newdata
+html body div span  ,/,0,4,newdata
+html body div  ,展覽服務,0,3,newdata
+html body div span  ,/,0,4,newdata
+html body div a  ,展覽檔期表,0,4,newdata
+html body div span  ,/,0,4,newdata
+html body div  ,2022 Touch Taiwan系列展 - 智慧製造展,1,3,newdata
+html body article div div dl dd a  ,收藏,1,8,newdata
+html body article div div dl dd a  ,詢問,1,8,newdata
+html body article div h1  ,2022 Touch Taiwan系列展 - 智慧製造展,1,5,newdata
+html body article div p  ,2022 Touch Taiwan - Smart Manufacturing Taiwan,1,5,newdata
+html body article div p  ,2022/4/27(三) - 4/29(五),1,5,newdata
+html body article div p  ,10:00AM-5:00PM,1,5,newdata
+html body article div p  ,台北南港展覽館1館4樓 (台北市南港區經貿二路1號),1,5,newdata
+html body article div p  ,恕不開放18歲以下民眾參觀,1,5,newdata
+html body article div p a  ,臺灣,1,6,newdata
+html body article div p  ,/,1,5,newdata
+html body article div p a  ,電子設備及零組件,1,6,newdata
+html body article div dl span dd a  ,收藏,1,8,newdata
+html body article div dl span dd a  ,詢問,1,8,newdata
+html body article div dl dd a  ,官網,1,7,newdata
+html body article div dl dd a  ,參展諮詢,1,7,newdata
+html body article div dl dd a  ,參觀資格申請,1,7,newdata
+html body article div dl dd a  ,加入行事曆,1,7,newdata
+html body article div h3  ,主辦單位,1,5,newdata
+html body article div  ,台灣顯示器產業聯合總會(TDUA),1,4,newdata
+html body article div  ,台灣TFT LCD產業協會(TTLA),1,4,newdata
+html body article div  ,台灣平面顯示器材料與元件產業協會(TDMDA),1,4,newdata
+html body article div  ,台灣電子設備協會(TEEIA),1,4,newdata
+html body article div  ,國際資訊顯示學會中華民國總會(SID),1,4,newdata
+html body article div  ,展昭國際企業股份有限公司,1,4,newdata
+html body article div h3  ,協辦單位,1,5,newdata
+html body article div  ,台灣安全設備與服務產業協會,1,4,newdata
+html body article div  ,瑞典商 AR Media (瑞亞媒體) 亞太分公司,1,4,newdata
+html body article div h3  ,展覽介紹,1,5,newdata
+html body article div p  ,利用高效的自動化設備監控及辨識技術，透過物聯網（IOT）的應用技術，將大數據串連與系統分析等智慧的手段，加強資訊管理和服務，清楚掌握產銷流程、提高生產過程的可控性、減少生產線上人工的干預、即時正確地採集生產線資料，以及合理的生產計畫編排與生產進度，來實現從管理、產品研發、生產到物流配送全過程的數位化、自動化、綠色化、虛擬化的現代工業生產；並且通過資訊技術，與其他地區和國家的生產基地和研發中心進行資料互聯。通過人、設備與產品的即時監控、識別和聯通與有效溝通，構建一個高度靈活的個性化和數位化的智能製造模式，提升製造業的智慧化水準，是製造業轉型升級的大方向，是工業自動化行業一個發展機遇。,1,5,newdata
+html body article div div span span span  ,展示項目,1,8,newdata
+html body article div p span  ,智慧製造,1,6,newdata
+html body article div p span strong  ,：,1,7,newdata
+html body article div div  ,"工廠生產 / 自動化系統 / 工業IT技術及軟體工控 / 嵌入式系統 / 自動搬運系統 / AGV, MGV 機器手臂 / 自動化裝置 / 雲端大數據 / RFid, Bluetooth / ERP, APP / 電器開關 / 電力裝置感應 / 量測系統影像處理 / CAD, CAM, PLM / PLC, HMI 變頻傳動、伺服驅動 / IC元件、晶片/IC設計、封裝測試/ 智慧生產 / 智慧產品解決方案/機器手臂/機械取放裝置/人機介面/CNC控制器/PC-BASED/3D列印/電源供應器/端子台/變頻器/整流器/電容器/感測器/連接器/驅動器/工業控制元件/電工器材/配線器材/溫度/壓力/流量控制器、儀表、開關、信號警示燈/系統組裝/系統管理/軟體整合/主機板/繪圖卡/CAE相關軟體/顯示卡虛實整合系統cps",1,5,newdata
+html body article div div div p span  ,智慧監控：,1,8,newdata
+html body article div div div p  ,"顯示設備 / 攝像機 / 遠端監控模組 / 雲端視訊系統 / 智慧影像處理 / 存儲設備 / 系統平台 / 元器件等監控產品和配件 / 無人直升機 / 人機介面系統 / 智慧居家照護監控 / 智慧醫療監控 / 智慧安控系統 / 智慧工廠監控系統 / 傳輸設備 / 控制設備 / CPU, CCD, CMOS / 智慧控制軟體平台 / 嵌入式系統/運動控制/智能定位",1,7,newdata
+html body article div div div p span  ,智慧感測與辨識：,1,8,newdata
+html body article div div div p  ,"光學識別 / 指紋識別 / 識別系統 / 語音辨識 / 面部識別 / 眼球識別 / 圖像辨識 / 靜脈識別 / 肢體感測 / 防偽技術 / 影像處理 / CAD, CAM, PLM 解決方案 / 電容感測器 / 傳感器 / 生物射頻 / 產品、技術 / 設備、材料和零部件/RFID設備、系統 / 防盜保全系統 / 消防系統/ 讀碼機 / 掃描器 / 辨識卡 / 列印機 / 條碼耗材 / OCR / 智能標籤",1,7,newdata
+html body article div div div p span  ,智慧物流：,1,8,newdata
+html body article div div div p  ,自動倉儲/自動分揀機/車貨架/電子標籤揀選系統/包裝設備機器/物流箱與棧板/籠車台車與拖板車、堆高機、馬達/物流與運輸管理軟體/物流自動化系統設備商/智慧居家,1,7,newdata
+html body article div div div p span  ,物聯網/互聯網：,1,8,newdata
+html body article div div div p  ,雲端平台/雲端儲存/無線傳輸技術 /感測器模組/工業乙太網路/衛星/電信系統/電信設備/區域網路/光通訊/手機/GPS/數據機/光纖/二維碼/行動手持裝置/穿戴裝置/安全支付/嵌入式產品,1,7,newdata
+html body article div div div p span  ,工業大數據：,1,8,newdata
+html body article div div div p  ,數據庫/資料擷取、管理、分析整合系統,1,7,newdata
+html body article div h3  ,業務洽詢,0,5,newdata
+html body article div p  ,台灣顯示器產業聯合總會／台灣電子設備協會,0,5,newdata
+html body article div p  ,Tel: (02)2729-3933,0,5,newdata
+html body article div p  ,Fax: (02)2729-3950,0,5,newdata
+html body article div p  ,蕭小姐 #24,0,5,newdata
+html body article div p  ,Email: peggie@teeia.org.tw,0,5,newdata
+html body article div p  ,展昭國際企業股份有限公司,0,5,newdata
+html body article div p  ,Tel: (02)2659-6000,0,5,newdata
+html body article div p  ,Fax: (02)2659-7000,0,5,newdata
+html body article div p  ,李先生 #135／張小姐 #266,0,5,newdata
+html body article div p  ,Email: touch@chanchao.com.tw,0,5,newdata
+html body article div h3  ,推薦展覽,0,5,newdata
+html body article div ul li a  ,2022 Touch Taiwan系列��� - 智慧顯示展覽會,0,7,newdata
+html body article div ul li span  ,2022/4/27(三) - 4/29(五),0,7,newdata
+html body article div ul li a  ,2023 柬埔寨國際電機電子電力設備暨照明科技展,0,7,newdata
+html body article div ul li span  ,2023/8/16(三) - 8/19(六),0,7,newdata
+html body article div p a  ,回前頁,0,6,newdata
+html body footer p  ,致力追求客戶滿意是我們的首要目標，若您有任何服務品質上的寶貴意見，歡迎,0,4,newdata
+html body footer p a  ,與我們聯絡,0,5,newdata
+html body footer p a  ,隱私權政策,0,5,newdata
+html body footer p  ,|,0,4,newdata
+html body footer p a  ,資料使用聲明,0,5,newdata
+html body footer p  ,|,0,4,newdata
+html body footer p a  ,會員服務條款,0,5,newdata
+html body footer p  ,Copyright © 展昭國際企業,0,4,newdata
+html body div  ,TOP,0,3,newdata

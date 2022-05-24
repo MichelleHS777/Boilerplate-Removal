@@ -184,9 +184,12 @@ def train(args, myDataLoader, myModel):
                     count += 1
                     train_out, a_pred, domain_pred = myModel.MC_sampling(    # train_out: predict label, a_pred: predict depth or pos
                         t, e, training=True)
-                    loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out) + \
-                        args.alpha*MSE(a, a_pred) + Category_Loss(d, domain_pred)
-                    # loss.backward()
+                    loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out)
+                    # loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out) + \
+                    #     args.alpha*MSE(a, a_pred) + Category_Loss(d, domain_pred)
+                    # print('main loss: ', (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out))
+                    # print('aux loss: ', args.alpha*MSE(a, a_pred))  
+                    # print('domain loss: ', Category_Loss(d, domain_pred))  
                 if args.tag_rep == 0:
                     trainable_variables = myModel.trainable_variables
                 else:
@@ -203,7 +206,8 @@ def train(args, myDataLoader, myModel):
                     with train_summary_writer.as_default():
                         tf.summary.scalar('loss', train_loss.result(), step=count)
                 if args.verbose:
-                    print("train loss:\t%.4f" % train_loss.result())
+                    print("train loss:\t%.4f" % train_loss.result())                
+
                 # =====================================================
                 # Validation
                 # =====================================================
@@ -212,7 +216,7 @@ def train(args, myDataLoader, myModel):
                 macro_f1 = None
                 for vt, ve, vy in val_source:
                     # val step
-                    val_out, _ = myModel.MC_sampling(vt, ve)
+                    val_out, _, __ = myModel.MC_sampling(vt, ve)
                     loss = My_Mask_CE(y_true=vy, y_pred=val_out)
                     val_loss(loss)
                     y_pred = tf.reshape(tf.argmax(val_out, axis=-1), [-1])
@@ -231,7 +235,7 @@ def train(args, myDataLoader, myModel):
                         macro_f1, np.expand_dims(t_f, 0))
 
                 if args.verbose:
-                    print("val loss:\t%.4f" % val_loss.result(), end="")
+                    print("val loss:\t%.4f" % val_loss.result(), end="")                    
                 if val_loss.result() < best_loss:
                     redo = True
                     best_loss = val_loss.result()
@@ -286,7 +290,6 @@ def train(args, myDataLoader, myModel):
                 val_macro_f1.reset_states()
                 val_micro_f1.reset_states()
 
-
 def test(args,
          myDataLoader,
          myModel,
@@ -300,7 +303,7 @@ def test(args,
     f1_history = []
     precision = recall = f1 = None
     for t, e, y in tqdm(myDataLoader.test_ds, total=len(glob(args.test_folder + "*.csv")), desc="Testing..."):
-        out, _ = myModel.MC_sampling(t, e)
+        out, _, __ = myModel.MC_sampling(t, e)
         y_true = tf.reshape(tf.argmax(y, axis=-1), [-1])
         y_pred = tf.reshape(tf.argmax(out, axis=-1), [-1])
 

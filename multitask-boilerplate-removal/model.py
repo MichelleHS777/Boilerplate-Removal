@@ -2,9 +2,11 @@ import tensorflow as tf
 from module import bertencoder
 from module import tag2vec
 import numpy as np
+from tensorflow.keras.layers import Dense
+from tensorflow import keras
 
-
-# Gradient Reverse Layer
+# from gradient_reverse import ReverseLayerF
+@tf.custom_gradient
 def grad_reverse(x):
     y = tf.identity(x)
     def custom_grad(dy):
@@ -55,7 +57,8 @@ class LSTMModel(tf.keras.Model):
             tf.keras.layers.LSTM(ff_dim//2, return_sequences=True, dropout=lstm_dropout))
             for _ in range(num_layers)]
         self.label_out = tf.keras.layers.Dense(out_dim)
-        self.domain_out = tf.keras.layers.Dense(2) # add domain classifier
+        # Add domain classifier
+        self.domain_out = tf.keras.layers.Dense(2, activation='softmax')
         self.mc_step = mc_step
         self.Opt = tf.keras.optimizers.Adam(lr)
 
@@ -117,7 +120,8 @@ class MCModel(tf.keras.Model):
             tf.keras.layers.LSTM(ff_dim//2, return_sequences=True))
             for _ in range(num_layers)]
         self.label_out = tf.keras.layers.Dense(out_dim)
-        self.domain_out = tf.keras.layers.Dense(2) # Add domain classifier
+        # Add domain classifier
+        self.domain_out = tf.keras.layers.Dense(2)
         self.mc_step = mc_step
         self.lstm_dropout = lstm_dropout
         self.dropout = dropout
@@ -140,7 +144,7 @@ class MCModel(tf.keras.Model):
             x = lstm(x, mask=mask)
         x = self.add_dropout(x, self.dropout)
         lstm_out = x
-        out = self.label_out(lstm_out)
+        out = self.label_out(lstm_out)    
         # Add domain classifier
         reverse_feature = GradReverse()(lstm_out)
         domain_out = self.domain_out(reverse_feature)
@@ -151,7 +155,7 @@ class MCModel(tf.keras.Model):
         mc_time = min(self.mc_step, (200*self.mc_step)//seq_len)
         mc_t = tf.repeat(t, repeats=mc_time, axis=0)
         mc_e = tf.repeat(e, repeats=mc_time, axis=0)
-        out, a = self.call(mc_t, mc_e)
+        out, a, domain_out = self.call(mc_t, mc_e)
         out = tf.reshape(
             out, [
                 t.shape[0],
@@ -164,6 +168,13 @@ class MCModel(tf.keras.Model):
                 mc_time,
                 a.shape[1],
                 a.shape[2]])
+        domain_out = tf.reshape(
+            domain_out, [
+                t.shape[0],
+                mc_time,
+                domain_out.shape[1],
+                domain_out.shape[2]])
         out = tf.reduce_mean(out, axis=1)
         a = tf.reduce_mean(a, axis=1)
-        return out, a
+        domain_out = tf.reduce_mean(domain_out, axis=1)
+        return out, a, domain_out

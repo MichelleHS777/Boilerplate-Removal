@@ -1,43 +1,43 @@
-﻿tag,content,label,depth
-html body div div div  ,LOADING.....,0,5
-html body div div div div table tbody tr td div  ,免費、快速、簡單，輕鬆製作線上報名系統!,0,11
-html body div div div div table tbody tr td table tbody tr td a  ,站內搜尋,0,15
-html body div div div div table tbody tr td table tbody tr td a span  ,承辦人員登入,0,16
-html body div div div div table tbody tr td table tbody tr td  ,·,0,14
-html body div div div div table tbody tr td table tbody tr td a span  ,註冊,0,16
-html body div div div div table tbody tr td a span  ,最新活動,0,12
-html body div div div div table tbody tr td  ,·,0,10
-html body div div div div table tbody tr td a span  ,熱門活動,0,12
-html body div div div div table tbody tr td  ,·,0,10
-html body div div div div table tbody tr td a span  ,地圖搜尋,0,12
-html body div div div div table tbody tr td  ,·,0,10
-html body div div div div table tbody tr td a span  ,報名表範例,0,12
-html body div div div div table tbody tr td  ,·,0,10
-html body div div div div table tbody tr td a span  ,系統問題,0,12
-html body div div div div table tbody tr td  ,·,0,10
-html body div div div div table tbody tr td a span  ,功能說明,0,12
-html body div div div div div h1  ,1227 嘉義茶博會-茶.食.趣-小小茶食擺盤師,1,8
-html body div div div div div h2  ,活動日期：2021-12-27,1,8
-html body div div div div div h2 span span  ,活動說明,1,10
-html body div div div div div div div div p span  ,2021 嘉義茶博會,1,12
-html body div div div div div div div div p span  ,小小茶食擺盤師～茶食製作體驗,1,12
-html body div div div div div div div div p span  ,日期：2021.12.27 (一),1,12
-html body div div div div div div div div p span  ,時間：14:00~15:00,1,12
-html body div div div div div div div div p span  ,地點：嘉義縣中埔鄉農會.金蘭分部,1,12
-html body div div div div div div div div p span  ,『裊裊』茶歲月。茶展館,1,12
-html body div div div div div div div div p span  ,年齡限制：4~12歲 （5歲以下需父母陪同協助）,1,12
-html body div div div div div div div div p span  ,內容：,1,12
-html body div div div div div div div div p span  ,茶食擺盤體驗,1,12
-html body div div div div div div div div p span  ,攝影拍照,1,12
-html body div div div div div h2 span span  ,活動地點資訊,1,10
-html body div div div div div div div div div  ,地點：606台灣嘉義縣中埔鄉台18線172號 (中埔農會金蘭分部),1,11
-html body div div div div div div div div  ,5,0,10
-html body div div div div div table tbody tr td div div span  ,近期熱門活動...,0,14
-html body div div center  ,© 2019 -,0,5
-html body div div center a  ,關於BeClass,0,6
-html body div div center  ,|,0,5
-html body div div center a  ,隱私權保護暨服務及聲明條款,0,6
-html body div div center  ,|,0,5
-html body div div center a  ,聯絡我們,0,6
-html body div div center  ,|,0,5
-html body div div center a span  ,手機模式,0,7
+﻿tag,content,label,depth,domain
+html body div div div  ,LOADING.....,0,5,newdata
+html body div div div div table tbody tr td div  ,免費、快速、簡單，輕鬆製作線上報名系統!,0,11,newdata
+html body div div div div table tbody tr td table tbody tr td a  ,站內搜尋,0,15,newdata
+html body div div div div table tbody tr td table tbody tr td a span  ,承辦人員登入,0,16,newdata
+html body div div div div table tbody tr td table tbody tr td  ,·,0,14,newdata
+html body div div div div table tbody tr td table tbody tr td a span  ,註冊,0,16,newdata
+html body div div div div table tbody tr td a span  ,最新活動,0,12,newdata
+html body div div div div table tbody tr td  ,·,0,10,newdata
+html body div div div div table tbody tr td a span  ,熱門活動,0,12,newdata
+html body div div div div table tbody tr td  ,·,0,10,newdata
+html body div div div div table tbody tr td a span  ,地圖搜尋,0,12,newdata
+html body div div div div table tbody tr td  ,·,0,10,newdata
+html body div div div div table tbody tr td a span  ,報名表範例,0,12,newdata
+html body div div div div table tbody tr td  ,·,0,10,newdata
+html body div div div div table tbody tr td a span  ,系統問題,0,12,newdata
+html body div div div div table tbody tr td  ,·,0,10,newdata
+html body div div div div table tbody tr td a span  ,功能說明,0,12,newdata
+html body div div div div div h1  ,1227 嘉義茶博會-茶.食.趣-小小茶食擺盤師,1,8,newdata
+html body div div div div div h2  ,活動日期：2021-12-27,1,8,newdata
+html body div div div div div h2 span span  ,活動說明,1,10,newdata
+html body div div div div div div div div p span  ,2021 嘉義茶博會,1,12,newdata
+html body div div div div div div div div p span  ,小小茶食擺盤師～茶食製作體驗,1,12,newdata
+html body div div div div div div div div p span  ,日期：2021.12.27 (一),1,12,newdata
+html body div div div div div div div div p span  ,時間：14:00~15:00,1,12,newdata
+html body div div div div div div div div p span  ,地點：嘉義縣中埔鄉農會.金蘭分部,1,12,newdata
+html body div div div div div div div div p span  ,『裊裊』茶歲月。茶展館,1,12,newdata
+html body div div div div div div div div p span  ,年齡限制：4~12歲 （5歲以下需父母陪同協助）,1,12,newdata
+html body div div div div div div div div p span  ,內容：,1,12,newdata
+html body div div div div div div div div p span  ,茶食擺盤體驗,1,12,newdata
+html body div div div div div div div div p span  ,攝影拍照,1,12,newdata
+html body div div div div div h2 span span  ,活動地點資訊,1,10,newdata
+html body div div div div div div div div div  ,地點：606台灣嘉義縣中埔鄉台18線172號 (中埔農會金蘭分部),1,11,newdata
+html body div div div div div div div div  ,5,0,10,newdata
+html body div div div div div table tbody tr td div div span  ,近期熱門活動...,0,14,newdata
+html body div div center  ,© 2019 -,0,5,newdata
+html body div div center a  ,關於BeClass,0,6,newdata
+html body div div center  ,|,0,5,newdata
+html body div div center a  ,隱私權保護暨服務及聲明條款,0,6,newdata
+html body div div center  ,|,0,5,newdata
+html body div div center a  ,聯絡我們,0,6,newdata
+html body div div center  ,|,0,5,newdata
+html body div div center a span  ,手機模式,0,7,newdata

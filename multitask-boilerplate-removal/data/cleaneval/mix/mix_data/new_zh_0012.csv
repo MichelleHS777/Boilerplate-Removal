@@ -1,77 +1,77 @@
-﻿tag,content,label,depth
-html body header nav div div ul li a  ,品牌理念,0,9
-html body header nav div div ul li a span  ,Brand,0,10
-html body header nav div div ul li a  ,最新消息,0,9
-html body header nav div div ul li a span  ,News,0,10
-html body header nav div div ul li a  ,植人故事,0,9
-html body header nav div div ul li a span  ,People,0,10
-html body header nav div div ul li a  ,四季鮮果,0,9
-html body header nav div div ul li a span  ,Feature,0,10
-html body header nav div div ul li a  ,門市資訊,0,9
-html body header nav div div ul li a span  ,Store,0,10
-html body header nav div div ul li a  ,優格食譜,0,9
-html body header nav div div ul li a span  ,Enjoying,0,10
-html body header nav div div ul li a  ,網路商店,0,9
-html body header nav div div ul li a span  ,Shop,0,10
-html body header nav div div ul li ul li a div  ,嚴選優格,0,12
-html body header nav div div ul li ul li a div  ,嚴選保健,0,12
-html body header nav div div ul li ul li a div  ,嚴選果漿,0,12
-html body header nav div div ul li ul li a div  ,嚴選燕麥,0,12
-html body header nav div div ul li ul li a div  ,長期宅配,0,12
-html body header nav div div ul li ul li a div  ,限時優惠,0,12
-html body header nav div div ul li ul li a div  ,其他好物,0,12
-html body header nav div div ul li a  ,優格週週配,0,9
-html body header nav div div ul li a span  ,Subscription,0,10
-html body header nav div div ul li a span  ,登入,0,10
-html body header nav div div ul li a span span  ,Sign In,0,11
-html body header div div span  ,MY CART,0,6
-html body header div div div div  ,購物車空空的,0,7
-html body header div div div div  ,快去逛逛吧,0,7
-html body header div div div div a  ,上一頁,0,8
-html body header div div div div a  ,下一頁,0,8
-html body header div div div a  ,CHECK OUT 結帳,0,7
-html body section div div a  ,首頁,0,6
-html body section div div  ,/,0,5
-html body section div div a  ,你好！日安,0,6
-html body section div div  ,/,0,5
-html body section div div span  ,活動資訊,0,6
-html body section div div div div h1 small  ,馬修嚴選植人講座,1,9
-html body section div div div div h1  ,幸福玫瑰-美佑姐的有機栽種荊棘路,1,8
-html body section div div div div div span  ,2018,1,9
-html body section div div div div div span  ,4,1,9
-html body section div div div div div span  ,14,1,9
-html body section div div div div div p  ,主講人,1,9
-html body section div div div div div p  ,郭美佑,1,9
-html body section div div div div div p  ,主題內容,1,9
-html body section div div div div div p  ,從來沒想過，從慣行農法轉為有機栽種這條路這麼荊棘；從來沒想過，這條充滿夢想的路一走就是這麼久、這條路的每一刻都讓人刻骨銘心。,1,9
-html body section div div div div div p  ,花若盛開蝴蝶自來，人若精彩天自安排，竭誠歡迎您至現場跟著美佑姐一起重溫這條幸福又曲折的有機路。,1,9
-html body section div div div div div p  ,時間,1,9
-html body section div div div div div p  ,14:00—15:30,1,9
-html body section div div div div div p  ,地點,1,9
-html body section div div div div div p  ,台南市 馬修嚴選公園門市,1,9
-html body section div div div div div p a  ,Map,1,10
-html body section div div div div div p  ,費用,1,9
-html body section div div div div div p  ,無,1,9
-html body section div div div div div p  ,報名方式,1,9
-html body section div div div div div p  ,親洽門市，或致電06-2526023洽詢,1,9
-html body section div div div div div  ,share it,0,8
-html body section div div div div h2  ,你可能也想知道,0,8
-html body section div div div div h2 small  ,You May Also Like,0,9
-html body section div div div div a div p span  ,13-Jul-13,0,11
-html body section div div div div a div p  ,品質、品味、品生活,0,10
-html body section div div div div a div p span  ,26-Mar-13,0,11
-html body section div div div div a div p  ,馬修之旅,0,10
-html body section div div div div div div div a div p span  ,13-Jul-13,0,14
-html body section div div div div div div div a div p  ,品質、品味、品生活,0,13
-html body section div div div div div div div a div p span  ,26-Mar-13,0,14
-html body section div div div div div div div a div p  ,馬修之旅,0,13
-html body footer div nav a  ,常見問題,0,6
-html body footer div nav a  ,聯絡我們,0,6
-html body footer div nav a  ,門市資訊,0,6
-html body footer div nav a  ,隱私條款,0,6
-html body footer div nav a  ,友善大地行動,0,6
-html body footer div div div  ,彩宸生活事業(股)有限公司,0,6
-html body footer div div div  ,台南市永康區環工路3號,0,6
-html body footer div div div  ,T. 06-201-0035,0,6
-html body footer div div div a  ,E. ask@matthewschoice.com,0,7
-html body div  ,Copyright © 2017 Matthew’s Choice Inc.,0,3
+﻿tag,content,label,depth,domain
+html body header nav div div ul li a  ,品牌理念,0,9,newdata
+html body header nav div div ul li a span  ,Brand,0,10,newdata
+html body header nav div div ul li a  ,最新消息,0,9,newdata
+html body header nav div div ul li a span  ,News,0,10,newdata
+html body header nav div div ul li a  ,植人故事,0,9,newdata
+html body header nav div div ul li a span  ,People,0,10,newdata
+html body header nav div div ul li a  ,四季鮮果,0,9,newdata
+html body header nav div div ul li a span  ,Feature,0,10,newdata
+html body header nav div div ul li a  ,門市資訊,0,9,newdata
+html body header nav div div ul li a span  ,Store,0,10,newdata
+html body header nav div div ul li a  ,優格食譜,0,9,newdata
+html body header nav div div ul li a span  ,Enjoying,0,10,newdata
+html body header nav div div ul li a  ,網路商店,0,9,newdata
+html body header nav div div ul li a span  ,Shop,0,10,newdata
+html body header nav div div ul li ul li a div  ,嚴選優格,0,12,newdata
+html body header nav div div ul li ul li a div  ,嚴選保健,0,12,newdata
+html body header nav div div ul li ul li a div  ,嚴選果漿,0,12,newdata
+html body header nav div div ul li ul li a div  ,嚴選燕麥,0,12,newdata
+html body header nav div div ul li ul li a div  ,長期宅配,0,12,newdata
+html body header nav div div ul li ul li a div  ,限時優惠,0,12,newdata
+html body header nav div div ul li ul li a div  ,其他好物,0,12,newdata
+html body header nav div div ul li a  ,優格週週配,0,9,newdata
+html body header nav div div ul li a span  ,Subscription,0,10,newdata
+html body header nav div div ul li a span  ,登入,0,10,newdata
+html body header nav div div ul li a span span  ,Sign In,0,11,newdata
+html body header div div span  ,MY CART,0,6,newdata
+html body header div div div div  ,購物車空空的,0,7,newdata
+html body header div div div div  ,快去逛逛吧,0,7,newdata
+html body header div div div div a  ,上一頁,0,8,newdata
+html body header div div div div a  ,下一頁,0,8,newdata
+html body header div div div a  ,CHECK OUT 結帳,0,7,newdata
+html body section div div a  ,首頁,0,6,newdata
+html body section div div  ,/,0,5,newdata
+html body section div div a  ,你好！日安,0,6,newdata
+html body section div div  ,/,0,5,newdata
+html body section div div span  ,活動資訊,0,6,newdata
+html body section div div div div h1 small  ,馬修嚴選植人講座,1,9,newdata
+html body section div div div div h1  ,幸福玫瑰-美佑姐的有機栽種荊棘路,1,8,newdata
+html body section div div div div div span  ,2018,1,9,newdata
+html body section div div div div div span  ,4,1,9,newdata
+html body section div div div div div span  ,14,1,9,newdata
+html body section div div div div div p  ,主講人,1,9,newdata
+html body section div div div div div p  ,郭美佑,1,9,newdata
+html body section div div div div div p  ,主題內容,1,9,newdata
+html body section div div div div div p  ,從來沒想過，從慣行農法轉為有機栽種這條路這麼荊棘；從來沒想過，這條充滿夢想的路一走就是這麼久、這條路的每一刻都讓人刻骨銘心。,1,9,newdata
+html body section div div div div div p  ,花若盛開蝴蝶自來，人若精彩天自安排，竭誠歡迎您至現場跟著美佑姐一起重溫這條幸福又曲折的有機路。,1,9,newdata
+html body section div div div div div p  ,時間,1,9,newdata
+html body section div div div div div p  ,14:00—15:30,1,9,newdata
+html body section div div div div div p  ,地點,1,9,newdata
+html body section div div div div div p  ,台南市 馬修嚴選公園門市,1,9,newdata
+html body section div div div div div p a  ,Map,1,10,newdata
+html body section div div div div div p  ,費用,1,9,newdata
+html body section div div div div div p  ,無,1,9,newdata
+html body section div div div div div p  ,報名方式,1,9,newdata
+html body section div div div div div p  ,親洽門市，或致電06-2526023洽詢,1,9,newdata
+html body section div div div div div  ,share it,0,8,newdata
+html body section div div div div h2  ,你可能也想知道,0,8,newdata
+html body section div div div div h2 small  ,You May Also Like,0,9,newdata
+html body section div div div div a div p span  ,13-Jul-13,0,11,newdata
+html body section div div div div a div p  ,品質、品味、品生活,0,10,newdata
+html body section div div div div a div p span  ,26-Mar-13,0,11,newdata
+html body section div div div div a div p  ,馬修之旅,0,10,newdata
+html body section div div div div div div div a div p span  ,13-Jul-13,0,14,newdata
+html body section div div div div div div div a div p  ,品質、品味、品生活,0,13,newdata
+html body section div div div div div div div a div p span  ,26-Mar-13,0,14,newdata
+html body section div div div div div div div a div p  ,馬修之旅,0,13,newdata
+html body footer div nav a  ,常見問題,0,6,newdata
+html body footer div nav a  ,聯絡我們,0,6,newdata
+html body footer div nav a  ,門市資訊,0,6,newdata
+html body footer div nav a  ,隱私條款,0,6,newdata
+html body footer div nav a  ,友善大地行動,0,6,newdata
+html body footer div div div  ,彩宸生活事業(股)有限公司,0,6,newdata
+html body footer div div div  ,台南市永康區環工路3號,0,6,newdata
+html body footer div div div  ,T. 06-201-0035,0,6,newdata
+html body footer div div div a  ,E. ask@matthewschoice.com,0,7,newdata
+html body div  ,Copyright © 2017 Matthew’s Choice Inc.,0,3,newdata

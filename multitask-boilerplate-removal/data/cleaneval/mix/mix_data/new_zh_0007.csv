@@ -1,75 +1,75 @@
-﻿tag,content,label,depth
-html body a  ,跳到主要內容,0,3
-html body div div div header div div div div h3  ,搜尋此網誌,0,11
-html body div div div div main div div div article div div div div div h3  ,親子揪團遊林場，共學全年不間斷,1,17
-html body div div div div main div div div article div div div div div div span a time  ,"4月 13, 2021",1,20
-html body div div div div main div div div article div div div div div div div div ul li span span  ,取得連結,1,23
-html body div div div div main div div div article div div div div div div div div ul li span span  ,Facebook,1,23
-html body div div div div main div div div article div div div div div div div div ul li span span  ,Twitter,1,23
-html body div div div div main div div div article div div div div div div div div ul li span span  ,Pinterest,1,23
-html body div div div div main div div div article div div div div div div div div ul li span span  ,以電子郵件傳送,1,23
-html body div div div div main div div div article div div div div div div div div ul li span span  ,其他應用程式,1,23
-html body div div div div main div div div article div div div div div div div  ,「親子特別企劃」是羅東自然教育中心推出讓家庭一起快樂學習的有趣活動，有林場實境解謎「封林訣」；有「夜探林場」，探訪夜晚的林場有那些生物躲藏其中；或是「池畔賞鳥趣」，欣賞遠道而來的冬候鳥們；如果想要動手製作一個木玩具，那可以參加「木要這樣玩」，學習修枝撫育的技巧，並用國產材做出新奇可愛的玩具。,1,18
-html body div div div div main div div div article div div div div div div div h3 span  ,【封林訣】林場實境解謎,1,20
-html body div div div div main div div div article div div div div div div div  ,時間：110年全年接受預約，2.5小時（※連續國定假日不受理預約）,1,18
-html body div div div div main div div div article div div div div div div div  ,對象：國小四年級以上親子組合、16歲以上一般大眾團體預約。每梯10人成團，上限80人。,1,18
-html body div div div div main div div div article div div div div div div div  ,費用：,1,18
-html body div div div div main div div div article div div div div div div div span  ,"每人費用200元。未滿10人報名，則每梯次收取最低費用2,000元。",1,19
-html body div div div div main div div div article div div div div div div div div span  ,【,1,20
-html body div div div div main div div div article div div div div div div div div span a  ,簡章下載,1,21
-html body div div div div main div div div article div div div div div div div div span  ,】 【,1,20
-html body div div div div main div div div article div div div div div div div div span a  ,報名點我,1,21
-html body div div div div main div div div article div div div div div div div div span  ,】,1,20
-html body div div div div main div div div article div div div div div div h3 span  ,【夜探林場】天黑請張眼,1,19
-html body div div div div main div div div article div div div div div div div  ,時間：110年5月~9月接受預約，2小時，週二～五晚上18:30~20:30（※連續國定假日不受理預約）,1,18
-html body div div div div main div div div article div div div div div div  ,對象：國小一年級以上親子組合、16歲以上一般大眾團體預約。每梯10人成團，上限30人。,1,17
-html body div div div div main div div div article div div div div div div  ,"費用：每人費用150元。未滿10人報名，則每梯次收取最低費用1,500元。",1,17
-html body div div div div main div div div article div div div div div div div span  ,【,0,19
-html body div div div div main div div div article div div div div div div div span a  ,簡章下載,0,20
-html body div div div div main div div div article div div div div div div div span  ,】 【,0,19
-html body div div div div main div div div article div div div div div div div span a  ,報名點我,0,20
-html body div div div div main div div div article div div div div div div div span  ,】,0,19
-html body div div div div main div div div article div div div div div div h3 span  ,【池畔賞鳥趣】,0,19
-html body div div div div main div div div article div div div div div div div  ,時間：110年10月~111年2月，2.5小時（※連續國定假日不受理預約）,0,18
-html body div div div div main div div div article div div div div div div div  ,對象：國小一年級以上親子組合或16歲以上一般大眾團體預約。每梯10人成團，上限30人。,0,18
-html body div div div div main div div div article div div div div div div div  ,"費用：每人費用150元。未滿10人報名，則每梯次收取最低費用1,500元。",0,18
-html body div div div div main div div div article div div div div div div div span  ,【,0,19
-html body div div div div main div div div article div div div div div div div span a  ,簡章下載,0,20
-html body div div div div main div div div article div div div div div div div span  ,】 【,0,19
-html body div div div div main div div div article div div div div div div div span a  ,報名點我,0,20
-html body div div div div main div div div article div div div div div div div span  ,】,0,19
-html body div div div div main div div div article div div div div div div h3 span  ,【木要這樣玩】,0,19
-html body div div div div main div div div article div div div div div div div  ,時間：110年全年接受預約，2.5小時（※連續國定假日不受理預約）,0,18
-html body div div div div main div div div article div div div div div div div  ,對象：國小一年級以上親子組合或16歲以上一般大眾團體預約。每梯10人成團，上限30人。,0,18
-html body div div div div main div div div article div div div div div div  ,"費用：每人費用320元(含小徑木材料包170元)。未滿10人報名，則每梯次收取最低費用1,500元(不含小徑木材料包費用)。",0,17
-html body div div div div main div div div article div div div div div div div span  ,【,0,19
-html body div div div div main div div div article div div div div div div div span a  ,簡章下載,0,20
-html body div div div div main div div div article div div div div div div div span  ,】 【,0,19
-html body div div div div main div div div article div div div div div div div span a  ,報名點我,0,20
-html body div div div div main div div div article div div div div div div div span  ,】,0,19
-html body div div div div main div div div article div div div div div div span a  ,活動快報,0,19
-html body div div div div main div div div article div div div div div div span a  ,親子活動,0,19
-html body div div div div main div div div article div div div div div div div div div ul li span span  ,取得連結,0,24
-html body div div div div main div div div article div div div div div div div div div ul li span span  ,Facebook,0,24
-html body div div div div main div div div article div div div div div div div div div ul li span span  ,Twitter,0,24
-html body div div div div main div div div article div div div div div div div div div ul li span span  ,Pinterest,0,24
-html body div div div div main div div div article div div div div div div div div div ul li span span  ,以電子郵件傳送,0,24
-html body div div div div main div div div article div div div div div div div div div ul li span span  ,其他應用程式,0,24
-html body div div div div aside div div h3  ,熱門文章,0,10
-html body div div div div aside div div div div article h3 a  ,生態竹屋─竹子開花，是福？是禍？,0,14
-html body div div div div aside div div div div article div div div  ,夏日是生長的季節，白的、紅的、粉的、黃的、紫的、橘的如彩虹般的各種花朵們，都用最嫵媚的姿態在風中時而靜靜佇立，時而搖擺身軀，吸引著昆蟲與路過人們的眼光，生機盎然，好不熱鬧！但是台灣四處可見的竹子，又會不會開花呢？ 生態竹屋旁竹林實景 犧牲小我，完成大我的美麗奉獻 樹木們綻放美麗的花朵，吸引昆蟲傳播授粉，進而順利結果繁延下一代。而大部分竹類開的花皆為枯草般色澤，形如稻穗狀，竹子開花也是為了延續全新的世代，於大地種下嶄新的希望，但不同的是，竹子開花後，母體將失去生命。 「 竹子開花是一種很自然的現象，也是表示竹子生命快結束的一種徵兆。一般竹子在要開花的前一年，即不長筍，開花後，竹稈在一、二年內就會乾枯死亡，但在竹稈枯死後，竹林仍會繁殖下去，因為竹子的地下莖沒有枯死，而且落地的種子也會生根，經過五至十年後再重新長出幼苗，但是竹子開花的週期很難預測，從三十年到百年以上的都有，甚至有的竹種沒有開花的紀錄。 竹子的開花方式有別於其他的植物，可大致分成三種： 一 . 開花的情形較為少見，但持續的週期卻較長，有的竹子甚至未曾開過花。 二 . 竹類開花之後，常常喪失營養，導致生長停止，常見的情況是整叢枯死。 三 . 開花與竹株本身的年齡或體態大小並無關係，母株一旦開花，由其無性繁殖的營養系同時也開花。」《註一》 竹子開花，難得一見《註二》 另外，館主也有聽說竹子之所以開花，是因為動植物對於所謂的天災較有感應，因此就像人們看到蚯蚓萬頭鑽動會猜測是否表示大地震將至？或是成群鳥兒自叢林群起飛翔，可能意味著叢林生活將有所異動，所以竹子似乎也能夠感應到土壤的一些變異，才會讓自己開花，經散播種子遷移到適合的新土地，或在原來的地方繁衍新的一片竹林以適應新的環境。但無論是何種原因，竹子都在「 犧牲小我，完成大我」的精神下，完成「生命傳承」的美麗奉獻。 不祥之兆：「竹子開花，人畜搬家」？！ 之前館主有聽過長輩 說：「竹子若開花，人畜就要搬家 ！」似乎 不論是在中國或是印度，都有竹子開花就會帶來災禍的傳說。但究竟是因何緣故，導致大家對竹子開花的定義為不祥之兆呢？ 「 人類不僅吃竹筍、利用竹葉和竹桿，智利土著和日本飢荒時期也都有採收利用竹子種子的歷史。 1899 ～ 1900 年印度大乾旱期，數萬印度人,0,15
-html body div div div div aside div div div div article h3 a font  ,【固碳好幫手】一起來進行「樹木調查」，計算樹木的「固碳量」,0,15
-html body div div div div aside div div div div article div div div  ,大家知道嗎，覆蓋在地表上的森林，為人類的生存環境提供了哪些多元的服務呢？其實，將造成溫室效應的「碳」固定在林木中，就是其中一種不可或缺的森林服務喔！一棵樹木究竟可以固定多少的「碳」？我們又該使用什麼樣的方法，才能計算出樹木的「固碳量」呢？,0,15
-html body div div div div aside div div div div article h3 a  ,森產館─年輪的秘密,0,14
-html body div div div div aside div div div div article div div div  ,「竹林車站」前像年輪般砌成的地板 歡迎參觀「羅東林業文化園區」！ 一踏入園區，瞧！迎接你來的就是這碩大的「年輪地圖」。一圈又一圈如同心圓展開，像樹木年輪一樣，這是位在「竹林車站」與「森產館」間的石磚地板，它有許多可以與你分享的有趣故事，接下來這篇文章就告訴你「年輪的祕密」吧！ 認識年輪 「年輪」是甚麼？又代表甚麼意義？是不是所有樹木都會有「年輪」呢？ 年輪，是指 樹木 在「 周期 性」成長後，因為「快慢生長」的交替，留下肉眼可辨析的印記。當把 樹幹 打橫鋸開，看到橫切面上滿佈的「 同心圓 環」，就是年輪。通常一環可以代表一 年 ，也就是利用年輪我們就能數出大樹的「年齡」！但是，可不是每棵樹木都有年輪，例如生長在終年高溫多濕，沒有季節區分的「赤道氣候區」，這類樹木不會有生長停滯現象，就沒有明顯年輪可以辨識，只有成長在氣候分明地區的樹木，才有明顯年輪！ 一個是春天，一個是秋天 「森產館」內的柳杉年輪 現在這裡有一棵樹的橫剖面，開始數年輪吧！ 如果你是個嚴謹的人，這時候一定會發現吧 … ，年輪上有交叉著明顯與不明顯的環狀，「這 … 要怎麼數下去呢？」告訴你答案吧 … 它們一個是春天，一個是秋天！ 樹木在春天生長快、夏秋較慢，冬天則停止成長。春天時候，春暖花開，細胞長得快，樹木來不及累積代謝物，生長得「鬆軟」，也就是構成年輪上直徑「寬厚」、但顏色「淺淡」的一圈「春材」；待到夏秋交替，天冷了，樹木開始減少吸收水分，讓細胞壁厚一點，就像穿上厚重的衣服抵禦將來的寒冬，所以緩慢成長的速度讓年輪加「深」顏色，形成直徑「單薄」但材質「堅硬」的「秋材」。愈是生長環境季節明顯的樹木，就會有以上不同的春秋材，所以數年輪的方法要一淺一深一起數，才是完整的一年！ 森林裡的衛星導航 除了季節，「日照」也影響年輪的寬度。以下就有兩個方式，是藉著日照改變年輪「寬疏生長方向」，讓白天在森林裡迷途的登山客也可以辨識方向的方法。 一、辨識「太陽的方向」：當年輪四周平均展開，但只有指向單一方向是特別寬疏時，我們可以判斷「紋路疏」的應該就是成長快速的向陽面，「紋路密」則是緩慢生長的背陽面。所以特別寬疏的方向，在「,0,15
-html body div footer div div div p  ,羅東自然教育中心 265宜蘭縣羅東鎮中正北路118號,0,8
-html body div footer div div div p  ,e-mail :,0,8
-html body div footer div div div p a  ,ld.service@eeft.org.tw,0,9
-html body div footer div div div p  ,｜電話：(03) 954-0823｜傳真：(03) 953-2126,0,8
-html body div footer div div div p  ,自2008年6月起，本中心之課程發展與服務，由羅東林區管理處委託,0,8
-html body div footer div div div p a  ,人禾環境倫理發展基金會,0,9
-html body div footer div div div p  ,執行,0,8
-html body div footer div div div p  ,本著作係採用,0,8
-html body div footer div div div p a  ,創用 CC 姓名標示-非商業性-禁止改作 3.0 Unported 授權條款,0,9
-html body div footer div div div p  ,授權,0,8
-html body div footer div div div a  ,技術提供：Blogger,0,8
+﻿tag,content,label,depth,domain
+html body a  ,跳到主要內容,0,3,newdata
+html body div div div header div div div div h3  ,搜尋此網誌,0,11,newdata
+html body div div div div main div div div article div div div div div h3  ,親子揪團遊林場，共學全年不間斷,1,17,newdata
+html body div div div div main div div div article div div div div div div span a time  ,"4月 13, 2021",1,20,newdata
+html body div div div div main div div div article div div div div div div div div ul li span span  ,取得連結,1,23,newdata
+html body div div div div main div div div article div div div div div div div div ul li span span  ,Facebook,1,23,newdata
+html body div div div div main div div div article div div div div div div div div ul li span span  ,Twitter,1,23,newdata
+html body div div div div main div div div article div div div div div div div div ul li span span  ,Pinterest,1,23,newdata
+html body div div div div main div div div article div div div div div div div div ul li span span  ,以電子郵件傳送,1,23,newdata
+html body div div div div main div div div article div div div div div div div div ul li span span  ,其他應用程式,1,23,newdata
+html body div div div div main div div div article div div div div div div div  ,「親子特別企劃」是羅東自然教育中心推出讓家庭一起快樂學習的有趣活動，有林場實境解謎「封林訣」；有「夜探林場」，探訪夜晚的林場有那些生物躲藏其中；或是「池畔賞鳥趣」，欣賞遠道而來的冬候鳥們；如果想要動手製作一個木玩具，那可以參加「木要這樣玩」，學習修枝撫育的技巧，並用國產材做出新奇可愛的玩具。,1,18,newdata
+html body div div div div main div div div article div div div div div div div h3 span  ,【封林訣】林場實境解謎,1,20,newdata
+html body div div div div main div div div article div div div div div div div  ,時間：110年全年接受預約，2.5小時（※連續國定假日不受理預約）,1,18,newdata
+html body div div div div main div div div article div div div div div div div  ,對象：國小四年級以上親子組合、16歲以上一般大眾團體預約。每梯10人成團，上限80人。,1,18,newdata
+html body div div div div main div div div article div div div div div div div  ,費用：,1,18,newdata
+html body div div div div main div div div article div div div div div div div span  ,"每人費用200元。未滿10人報名，則每梯次收取最低費用2,000元。",1,19,newdata
+html body div div div div main div div div article div div div div div div div div span  ,【,1,20,newdata
+html body div div div div main div div div article div div div div div div div div span a  ,簡章下載,1,21,newdata
+html body div div div div main div div div article div div div div div div div div span  ,】 【,1,20,newdata
+html body div div div div main div div div article div div div div div div div div span a  ,報名點我,1,21,newdata
+html body div div div div main div div div article div div div div div div div div span  ,】,1,20,newdata
+html body div div div div main div div div article div div div div div div h3 span  ,【夜探林場】天黑請張眼,1,19,newdata
+html body div div div div main div div div article div div div div div div div  ,時間：110年5月~9月接受預約，2小時，週二～五晚上18:30~20:30（※連續國定假日不受理預約）,1,18,newdata
+html body div div div div main div div div article div div div div div div  ,對象：國小一年級以上親子組合、16歲以上一般大眾團體預約。每梯10人成團，上限30人。,1,17,newdata
+html body div div div div main div div div article div div div div div div  ,"費用：每人費用150元。未滿10人報名，則每梯次收取最低費用1,500元。",1,17,newdata
+html body div div div div main div div div article div div div div div div div span  ,【,0,19,newdata
+html body div div div div main div div div article div div div div div div div span a  ,簡章下載,0,20,newdata
+html body div div div div main div div div article div div div div div div div span  ,】 【,0,19,newdata
+html body div div div div main div div div article div div div div div div div span a  ,報名點我,0,20,newdata
+html body div div div div main div div div article div div div div div div div span  ,】,0,19,newdata
+html body div div div div main div div div article div div div div div div h3 span  ,【池畔賞鳥趣】,0,19,newdata
+html body div div div div main div div div article div div div div div div div  ,時間：110年10月~111年2月，2.5小時（※連續國定假日不受理預約）,0,18,newdata
+html body div div div div main div div div article div div div div div div div  ,對象：國小一年級以上親子組合或16歲以上一般大眾團體預約。每梯10人成團，上限30人。,0,18,newdata
+html body div div div div main div div div article div div div div div div div  ,"費用：每人費用150元。未滿10人報名，則每梯次收取最低費用1,500元。",0,18,newdata
+html body div div div div main div div div article div div div div div div div span  ,【,0,19,newdata
+html body div div div div main div div div article div div div div div div div span a  ,簡章下載,0,20,newdata
+html body div div div div main div div div article div div div div div div div span  ,】 【,0,19,newdata
+html body div div div div main div div div article div div div div div div div span a  ,報名點我,0,20,newdata
+html body div div div div main div div div article div div div div div div div span  ,】,0,19,newdata
+html body div div div div main div div div article div div div div div div h3 span  ,【木要這樣玩】,0,19,newdata
+html body div div div div main div div div article div div div div div div div  ,時間：110年全年接受預約，2.5小時（※連續國定假日不受理預約）,0,18,newdata
+html body div div div div main div div div article div div div div div div div  ,對象：國小一年級以上親子組合或16歲以上一般大眾團體預約。每梯10人成團，上限30人。,0,18,newdata
+html body div div div div main div div div article div div div div div div  ,"費用：每人費用320元(含小徑木材料包170元)。未滿10人報名，則每梯次收取最低費用1,500元(不含小徑木材料包費用)。",0,17,newdata
+html body div div div div main div div div article div div div div div div div span  ,【,0,19,newdata
+html body div div div div main div div div article div div div div div div div span a  ,簡章下載,0,20,newdata
+html body div div div div main div div div article div div div div div div div span  ,】 【,0,19,newdata
+html body div div div div main div div div article div div div div div div div span a  ,報名點我,0,20,newdata
+html body div div div div main div div div article div div div div div div div span  ,】,0,19,newdata
+html body div div div div main div div div article div div div div div div span a  ,活動快報,0,19,newdata
+html body div div div div main div div div article div div div div div div span a  ,親子活動,0,19,newdata
+html body div div div div main div div div article div div div div div div div div div ul li span span  ,取得連結,0,24,newdata
+html body div div div div main div div div article div div div div div div div div div ul li span span  ,Facebook,0,24,newdata
+html body div div div div main div div div article div div div div div div div div div ul li span span  ,Twitter,0,24,newdata
+html body div div div div main div div div article div div div div div div div div div ul li span span  ,Pinterest,0,24,newdata
+html body div div div div main div div div article div div div div div div div div div ul li span span  ,以電子郵件傳送,0,24,newdata
+html body div div div div main div div div article div div div div div div div div div ul li span span  ,其他應用程式,0,24,newdata
+html body div div div div aside div div h3  ,熱門文章,0,10,newdata
+html body div div div div aside div div div div article h3 a  ,生態竹屋─竹子開花，是福？是禍？,0,14,newdata
+html body div div div div aside div div div div article div div div  ,夏日是生長的季節，白的、紅的、粉的、黃的、紫的、橘的如彩虹般的各種花朵們，都用最嫵媚的姿態在風中時而靜靜佇立，時而搖擺身軀，吸引著昆蟲與路過人們的眼光，生機盎然，好不熱鬧！但是台灣四處可見的竹子，又會不會開花呢？ 生態竹屋旁竹林實景 犧牲小我，完成大我的美麗奉獻 樹木們綻放美麗的花朵，吸引昆蟲傳播授粉，進而順利結果繁延下一代。而大部分竹類開的花皆為枯草般色澤，形如稻穗狀，竹子開花也是為了延續全新的世代，於大地種下嶄新的希望，但不同的是，竹子開花後，母體將失去生命。 「 竹子開花是一種很自然的現象，也是表示竹子生命快結束的一種徵兆。一般竹子在要開花的前一年，即不長筍，開花後，竹稈在一、二年內就會乾枯死亡，但在竹稈枯死後，竹林仍會繁殖下去，因為竹子的地下莖沒有枯死，而且落地的種子也會生根，經過五至十年後再重新長出幼苗，但是竹子開花的週期很難預測，從三十年到百年以上的都有，甚至有的竹種沒有開花的紀錄。 竹子的開花方式有別於其他的植物，可大致分成三種： 一 . 開花的情形較為少見，但持續的週期卻較長，有的竹子甚至未曾開過花。 二 . 竹類開花之後，常常喪失營養，導致生長停止，常見的情況是整叢枯死。 三 . 開花與竹株本身的年齡或體態大小並無關係，母株一旦開花，由其無性繁殖的營養系同時也開花。」《註一》 竹子開花，難得一見《註二》 另外，館主也有聽說竹子之所以開花，是因為動植物對於所謂的天災較有感應，因此就像人們看到蚯蚓萬頭鑽動會猜測是否表示大地震將至？或是成群鳥兒自叢林群起飛翔，可能意味著叢林生活將有所異動，所以竹子似乎也能夠感應到土壤的一些變異，才會讓自己開花，經散播種子遷移到適合的新土地，或在原來的地方繁衍新的一片竹林以適應新的環境。但無論是何種原因，竹子都在「 犧牲小我，完成大我」的精神下，完成「生命傳承」的美麗奉獻。 不祥之兆：「竹子開花，人畜搬家」？！ 之前館主有聽過長輩 說：「竹子若開花，人畜就要搬家 ！」似乎 不論是在中國或是印度，都有竹子開花就會帶來災禍的傳說。但究竟是因何緣故，導致大家對竹子開花的定義為不祥之兆呢？ 「 人類不僅吃竹筍、利用竹葉和竹桿，智利土著和日本飢荒時期也都有採收利用竹子種子的歷史。 1899 ～ 1900 年印度大乾旱期，數萬印度人,0,15,newdata
+html body div div div div aside div div div div article h3 a font  ,【固碳好幫手】一起來進行「樹木調查」，計算樹木的「固碳量」,0,15,newdata
+html body div div div div aside div div div div article div div div  ,大家知道嗎，覆蓋在地表上的森林，為人類的生存環境提供了哪些多元的服務呢？其實，將造成溫室效應的「碳」固定在林木中，就是其中一種不可或缺的森林服務喔！一棵樹木究竟可以固定多少的「碳」？我們又該使用什麼樣的方法，才能計算出樹木的「固碳量」呢？,0,15,newdata
+html body div div div div aside div div div div article h3 a  ,森產館─年輪的秘密,0,14,newdata
+html body div div div div aside div div div div article div div div  ,「竹林車站」前像年輪般砌成的地板 歡迎參觀「羅東林業文化園區」！ 一踏入園區，瞧！迎接你來的就是這碩大的「年輪地圖」。一圈又一圈如同心圓展開，像樹木年輪一樣，這是位在「竹林車站」與「森產館」間的石磚地板，它有許多可以與你分享的有趣故事，接下來這篇文章就告訴你「年輪的祕密」吧！ 認識年輪 「年輪」是甚麼？又代表甚麼意義？是不是所有樹木都會有「年輪」呢？ 年輪，是指 樹木 在「 周期 性」成長後，因為「快慢生長」的交替，留下肉眼可辨析的印記。當把 樹幹 打橫鋸開，看到橫切面上滿佈的「 同心圓 環」，就是年輪。通常一環可以代表一 年 ，也就是利用年輪我們就能數出大樹的「年齡」！但是，可不是每棵樹木都有年輪，例如生長在終年高溫多濕，沒有季節區分的「赤道氣候區」，這類樹木不會有生長停滯現象，就沒有明顯年輪可以辨識，只有成長在氣候分明地區的樹木，才有明顯年輪！ 一個是春天，一個是秋天 「森產館」內的柳杉年輪 現在這裡有一棵樹的橫剖面，開始數年輪吧！ 如果你是個嚴謹的人，這時候一定會發現吧 … ，年輪上有交叉著明顯與不明顯的環狀，「這 … 要怎麼數下去呢？」告訴你答案吧 … 它們一個是春天，一個是秋天！ 樹木在春天生長快、夏秋較慢，冬天則停止成長。春天時候，春暖花開，細胞長得快，樹木來不及累積代謝物，生長得「鬆軟」，也就是構成年輪上直徑「寬厚」、但顏色「淺淡」的一圈「春材」；待到夏秋交替，天冷了，樹木開始減少吸收水分，讓細胞壁厚一點，就像穿上厚重的衣服抵禦將來的寒冬，所以緩慢成長的速度讓年輪加「深」顏色，形成直徑「單薄」但材質「堅硬」的「秋材」。愈是生長環境季節明顯的樹木，就會有以上不同的春秋材，所以數年輪的方法要一淺一深一起數，才是完整的一年！ 森林裡的衛星導航 除了季節，「日照」也影響年輪的寬度。以下就有兩個方式，是藉著日照改變年輪「寬疏生長方向」，讓白天在森林裡迷途的登山客也可以辨識方向的方法。 一、辨識「太陽的方向」：當年輪四周平均展開，但只有指向單一方向是特別寬疏時，我們可以判斷「紋路疏」的應該就是成長快速的向陽面，「紋路密」則是緩慢生長的背陽面。所以特別寬疏的方向，在「,0,15,newdata
+html body div footer div div div p  ,羅東自然教育中心 265宜蘭縣羅東鎮中正北路118號,0,8,newdata
+html body div footer div div div p  ,e-mail :,0,8,newdata
+html body div footer div div div p a  ,ld.service@eeft.org.tw,0,9,newdata
+html body div footer div div div p  ,｜電話：(03) 954-0823｜傳真：(03) 953-2126,0,8,newdata
+html body div footer div div div p  ,自2008年6月起，本中心之課程發展與服務，由羅東林區管理處委託,0,8,newdata
+html body div footer div div div p a  ,人禾環境倫理發展基金會,0,9,newdata
+html body div footer div div div p  ,執行,0,8,newdata
+html body div footer div div div p  ,本著作係採用,0,8,newdata
+html body div footer div div div p a  ,創用 CC 姓名標示-非商業性-禁止改作 3.0 Unported 授權條款,0,9,newdata
+html body div footer div div div p  ,授權,0,8,newdata
+html body div footer div div div a  ,技術提供：Blogger,0,8,newdata

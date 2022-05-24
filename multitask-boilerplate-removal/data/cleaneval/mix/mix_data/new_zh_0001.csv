@@ -1,215 +1,215 @@
-﻿tag,content,label,depth
-html body nav div div div a  ,首頁,0,7
-html body nav div div ul li a span  ,Open submenu (關於我們),0,9
-html body nav div div ul li a  ,關於我們,0,8
-html body nav div div ul li a span  ,Open submenu (行動議題),0,9
-html body nav div div ul li a  ,行動議題,0,8
-html body nav div div ul li a span  ,Open submenu (焦點news),0,9
-html body nav div div ul li a  ,焦點news,0,8
-html body nav div div ul li a span  ,Open submenu (出版累積),0,9
-html body nav div div ul li a  ,出版累積,0,8
-html body nav div div ul li a span  ,Open submenu (台中分會),0,9
-html body nav div div ul li a  ,台中分會,0,8
-html body nav div div ul li a  ,南部辦公室,0,8
-html body nav div div ul li a span  ,Open submenu (捐款支持),0,9
-html body nav div div ul li a  ,捐款支持,0,8
-html body nav div div ul li a span  ,Open submenu (環教申請),0,9
-html body nav div div ul li a  ,環教申請,0,8
-html body nav div div div a span  ,Close submenu (關於我們),0,8
-html body nav div div div a  ,關於我們,0,7
-html body nav div div ul li a  ,本會簡介,0,8
-html body nav div div ul li a  ,各會據點,0,8
-html body nav div div ul li a  ,組織架構,0,8
-html body nav div div ul li a  ,肯定與榮耀,0,8
-html body nav div div ul li a  ,30週年活動,0,8
-html body nav div div div a span  ,Close submenu (行動議題),0,8
-html body nav div div div a  ,行動議題,0,7
-html body nav div div ul li a  ,綠食育,0,8
-html body nav div div ul li a  ,低碳綠能,0,8
-html body nav div div ul li a  ,綠生活,0,8
-html body nav div div ul li a  ,空污,0,8
-html body nav div div div a span  ,Close submenu (焦點news),0,8
-html body nav div div div a  ,焦點news,0,7
-html body nav div div ul li a  ,專欄文章,0,8
-html body nav div div ul li a  ,活動報導,0,8
-html body nav div div ul li a  ,新聞稿,0,8
-html body nav div div div a span  ,Close submenu (出版累積),0,8
-html body nav div div div a  ,出版累積,0,7
-html body nav div div ul li a  ,會訊,0,8
-html body nav div div ul li a  ,電子報,0,8
-html body nav div div ul li a  ,行動議題小冊,0,8
-html body nav div div div a span  ,Close submenu (台中分會),0,8
-html body nav div div div a  ,台中分會,0,7
-html body nav div div ul li a  ,台中分會簡介,0,8
-html body nav div div ul li a  ,環境教育課程申請,0,8
-html body nav div div ul li a  ,反空污,0,8
-html body nav div div ul li a  ,減塑減廢,0,8
-html body nav div div div a span  ,Close submenu (捐款支持),0,8
-html body nav div div div a  ,捐款支持,0,7
-html body nav div div ul li a  ,台北總會,0,8
-html body nav div div ul li a  ,台中分會,0,8
-html body nav div div ul li a  ,南部辦公室,0,8
-html body nav div div ul li a  ,行動議題捐款,0,8
-html body nav div div ul li a  ,振興券捐贈,0,8
-html body nav div div ul li a  ,捐贈節稅小撇步,0,8
-html body nav div div ul li a  ,Line Pay 快速捐,0,8
-html body nav div div ul li a  ,發票捐贈,0,8
-html body nav div div ul li a span  ,Open submenu (公開資訊),0,9
-html body nav div div ul li a  ,公開資訊,0,8
-html body nav div div div a span  ,Close submenu (公開資訊),0,8
-html body nav div div div a  ,公開資訊,0,7
-html body nav div div ul li a  ,財務報表,0,8
-html body nav div div ul li a  ,年度報告,0,8
-html body nav div div ul li a  ,捐款名單徵信,0,8
-html body nav div div div a span  ,Close submenu (環教申請),0,8
-html body nav div div div a  ,環教申請,0,7
-html body nav div div ul li a  ,環教課程申請,0,8
-html body nav div div ul li a  ,能源教育基地,0,8
-html body nav div div ul li a  ,台中故事屋,0,8
-html body p a  ,跳至導航,0,4
-html body p a  ,Jump to Main content,0,4
-html body div header div div div div div div ul li a  ,聯絡我們,0,13
-html body div header div div div div div div form div div h2  ,搜尋表單,0,14
-html body div header div div div div div div form div div div label  ,搜尋,0,15
-html body div nav div div div div div ul li a  ,關於我們,0,12
-html body div nav div div div div div ul li ul li a  ,本會簡介,0,14
-html body div nav div div div div div ul li ul li a  ,各會據點,0,14
-html body div nav div div div div div ul li ul li a  ,組織架構,0,14
-html body div nav div div div div div ul li ul li a  ,肯定與榮耀,0,14
-html body div nav div div div div div ul li ul li a  ,30週年活動,0,14
-html body div nav div div div div div ul li a  ,行動議題,0,12
-html body div nav div div div div div ul li ul li a  ,綠食育,0,14
-html body div nav div div div div div ul li ul li a  ,低碳綠能,0,14
-html body div nav div div div div div ul li ul li a  ,綠生活,0,14
-html body div nav div div div div div ul li ul li a  ,空污,0,14
-html body div nav div div div div div ul li a  ,焦點news,0,12
-html body div nav div div div div div ul li ul li a  ,專欄文章,0,14
-html body div nav div div div div div ul li ul li a  ,活動報導,0,14
-html body div nav div div div div div ul li ul li a  ,新聞稿,0,14
-html body div nav div div div div div ul li a  ,出版累積,0,12
-html body div nav div div div div div ul li ul li a  ,會訊,0,14
-html body div nav div div div div div ul li ul li a  ,電子報,0,14
-html body div nav div div div div div ul li ul li a  ,行動議題小冊,0,14
-html body div nav div div div div div ul li a  ,台中分會,0,12
-html body div nav div div div div div ul li ul li a  ,台中分會簡介,0,14
-html body div nav div div div div div ul li ul li a  ,環境教育課程申請,0,14
-html body div nav div div div div div ul li ul li a  ,反空污,0,14
-html body div nav div div div div div ul li ul li a  ,減塑減廢,0,14
-html body div nav div div div div div ul li a  ,南部辦公室,0,12
-html body div nav div div div div div ul li a  ,捐款支持,0,12
-html body div nav div div div div div ul li ul li a  ,台北總會,0,14
-html body div nav div div div div div ul li ul li a  ,台中分會,0,14
-html body div nav div div div div div ul li ul li a  ,南部辦公室,0,14
-html body div nav div div div div div ul li ul li a  ,行動議題捐款,0,14
-html body div nav div div div div div ul li ul li a  ,振興券捐贈,0,14
-html body div nav div div div div div ul li ul li a  ,捐贈節稅小撇步,0,14
-html body div nav div div div div div ul li ul li a  ,Line Pay 快速捐,0,14
-html body div nav div div div div div ul li ul li a  ,發票捐贈,0,14
-html body div nav div div div div div ul li ul li a  ,公開資訊,0,14
-html body div nav div div div div div ul li ul li ul li a  ,財務報表,0,16
-html body div nav div div div div div ul li ul li ul li a  ,年度報告,0,16
-html body div nav div div div div div ul li ul li ul li a  ,捐款名單徵信,0,16
-html body div nav div div div div div ul li a  ,環教申請,0,12
-html body div nav div div div div div ul li ul li a  ,環教課程申請,0,14
-html body div nav div div div div div ul li ul li a  ,能源教育基地,0,14
-html body div nav div div div div div ul li ul li a  ,台中故事屋,0,14
-html body div main div div div div div h1  ,【2021種子交換會】邀請您一同參與盛會,1,10
-html body div main div div div div div div div div span  ,AddThis Sharing Buttons,1,13
-html body div main div div div div div div div div div a span  ,Share to Facebook,1,15
-html body div main div div div div div div div div div a span svg title  ,Facebook,1,17
-html body div main div div div div div div div div div a span  ,Share to LINE,1,15
-html body div main div div div div div div div div div a span svg title  ,LINE,1,17
-html body div main div div div div div h2  ,您在這裡,1,10
-html body div main div div div div div div a  ,首頁,1,11
-html body div main div div div div div div  ,»,1,10
-html body div main div div div div div div a  ,活動資訊,1,11
-html body div main div div div div div div div div div div div div div div  ,時間,1,18
-html body div main div div div div div div div div div div div div div div div span span  ,2021/12/25 10:00,1,21
-html body div main div div div div div div div div div div div div div div div span  ,到,1,20
-html body div main div div div div div div div div div div div div div div div span span  ,2021/12/26 17:00,1,21
-html body div main div div div div div div div div div div div div div div div div  ,疫情持續壟罩，全球對於健康糧食及糧食自主的需求日漸提升，多國開始使用先民與環境共生的智慧，來重新審視國內的糧食自主問題。加上日漸嚴重的跨國企業壟斷、種子基因改造，更是一場無法預知結果的世紀賭局！,1,20
-html body div main div div div div div div div div div div div div div div div div  ,⠀⠀⠀,1,20
-html body div main div div div div div div div div div div div div div div div div  ,保種，就是生產糧食的第一步。,1,20
-html body div main div div div div div div div div div div div div div div div div  ,今年，因為新冠病毒的影響台灣大學原本的場地無法辦理，因此，我們改在新北市新店區的IKEA戶外廣場辦理種子交換會，我們期待您一起加入保種與種子交換行動。,1,20
-html body div main div div div div div div div div div div div div div div div div  ,⠀⠀⠀⠀⠀⠀,1,20
-html body div main div div div div div div div div div div div div div div div div  ,2021年的種子生活節，除了最重要的【保種】意識，今年我們加入了《米嶼：米的一百種可能》主題。邀請大家在此感受台灣這米之寶島、認識劃時代米種，如：台南16、高雄139、桃園3號…等，思考米在我們的環境生態、日常、料理、飲食文化的多元可能。,1,20
-html body div main div div div div div div div div div div div div div div div div p  ,一米種、一飯糰，做個飯糰好滋味；,1,21
-html body div main div div div div div div div div div div div div div div div div p  ,一展覽、一觀察，認識好米種的新世界；,1,21
-html body div main div div div div div div div div div div div div div div div div p  ,還有邀請生活風格者、飲食料理學家、自由農夫夥伴、保種專業達人們來一起參與這場盛會！⠀,1,21
-html body div main div div div div div div div div div div div div div div div div p  ,⠀⠀⠀⠀⠀,1,21
-html body div main div div div div div div div div div div div div div div div div  ,在詩人歌手的迷人樂音、原住民採小米的高歌中，大家席階而坐、拿著飯糰野餐籃、聽著音樂、走進農學市集，感受米的一百種滋味，一起走進台灣豐饒的環境氣候與風土滋味中。,1,20
-html body div main div div div div div div div div div div div div div div div div div  ,時間｜2021年12月25日（六）、12月26日（日）10：00～17：00,1,21
-html body div main div div div div div div div div div div div div div div div div div  ,地點｜新店IKEA戶外廣場+IKEA CAFÉ前廣場（市集、音樂、展覽）,1,21
-html body div main div div div div div div div div div div div div div div div div div  ,新店IKEA CAFÉ（料理課、論壇）,1,21
-html body div main div div div div div div div div div div div div div div div div div  ,地址｜新北市新店區中央路159號4F,1,21
-html body div main div div div div div div div div div div div div div div div div div  ,活動預告：,1,21
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,活 動,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,內容介紹,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,全國種子交換會,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,這次的種子交換會是,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p a  ,台北、宜蘭、台中和高雄同步進行,1,27
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,報名：,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p a  ,https://forms.gle/KkGnB4gzG83zYuTM9,1,27
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,志工招募：,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p a  ,https://reurl.cc/WX2bLx,1,27
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,米人米展,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,多元米品種展覽，看你吃過哪一些？,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,米上菜,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,跟著主廚，體驗餐桌新創意米食料理,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,米嶼派對,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,提著飯糰野餐籃一起逛市集,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,米米之音,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,邀請音樂創作者定時演出，為這塊土地一同發聲,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,種子農學市集,1,26
-html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,聚集小農與手作職人，採集最自然的生活日用 ⠀⠀⠀⠀,1,26
-html body div main div div div div div div div div div div div div div div div p  ,主辦單位｜台北市文化探索協會,0,20
-html body div main div div div div div div div div div div div div div div div p  ,協辦單位｜IKEA 宜家家居 新店店、財團法人主婦聯盟環境保護基金會,0,20
-html body div main div div div div div div div div div div div div div div div p  ,輔導單位｜行政院農業委員會農糧署,0,20
-html body div main div div div div div div div div div div div div div div  ,發佈單位,0,18
-html body div main div div div div div div div div div div div div div div div a  ,台北總會,0,20
-html body div main div div div div div div div div div p a  ,捐款支持,0,15
-html body div main div div div div div div div div div p a  ,訂電子報,0,15
-html body div main div div div div div div div div h2  ,最新訊息,0,13
-html body div main div div div div div div div div div div div div div a  ,more,0,18
-html body div main div div div div div div div div div div div div div ul li a  ,2021種子生活節/客座保種沙龍,0,20
-html body div main div div div div div div div div div div div div div ul li a  ,【2021種子交換會】邀請您一同參與盛會,0,20
-html body div main div div div div div div div div div div div div div ul li a  ,【採訪通知】1201「四方匯流護水源」記者會,0,20
-html body div main div div div div div div div div div div div div div ul li a  ,廢油環保皂材料包&購買環保家事皂,0,20
-html body div main div div div div div div div div div div div div div ul li a  ,屏東場11/25【專業植人】推動植物醫師制度與溝通座談會,0,20
-html body div main div div div div div div div div div div div div a  ,更多訊息,0,17
-html body div main div div div div div div div div h2  ,熱門主題,0,13
-html body div main div div div div div div div div div div div div div ul li a  ,非核家園,0,20
-html body div main div div div div div div div div div div div div div ul li a  ,水與清潔劑,0,20
-html body div main div div div div div div div div div div div div div ul li a  ,蔬菜減硝酸鹽運動,0,20
-html body div footer div div div div div div div div div div div div div  ,財團法人主婦聯盟環境保護基金會,0,17
-html body div footer div div div div div div div div div div div div div  ,總會：100048 台北市中正區汀州路三段160巷4號5樓之1,0,17
-html body div footer div div div div div div div div div div div div div span  ,（,0,18
-html body div footer div div div div div div div div div div div div div span a  ,地圖連結,0,19
-html body div footer div div div div div div div div div div div div div span  ,）,0,18
-html body div footer div div div div div div div div div div div div div div  ,電話：(02)2368-6211 | 傳真：(02)2368-6213 | E-mail：,0,18
-html body div footer div div div div div div div div div div div div div div a  ,service@huf.org.tw,0,19
-html body div footer div div div div div div div div div div div div div  ,台中分會：403028 台中市西區三民西路61號2樓（,0,17
-html body div footer div div div div div div div div div div div div div a  ,地圖連結,0,18
-html body div footer div div div div div div div div div div div div div  ,）,0,17
-html body div footer div div div div div div div div div div div div div  ,電話：(04)2375-5234 | 傳真：(04)2375-5231 | E-mail：,0,17
-html body div footer div div div div div div div div div div div div div a  ,huaf@huf.org.tw,0,18
-html body div footer div div div div div div div div div div div div div  ,南部辦公室：813318 高雄市左營區至聖路312號7樓之2（,0,17
-html body div footer div div div div div div div div div div div div div a  ,地圖連結,0,18
-html body div footer div div div div div div div div div div div div div  ,）,0,17
-html body div footer div div div div div div div div div div div div div  ,電話：(07)550-7360 | 傳真：(07)550-7360 | E-mail：,0,17
-html body div footer div div div div div div div div div div div div div a  ,south@huf.org.tw,0,18
-html body div footer div div div div div div div div div div div div div  ,ⓒ本站圖文版權屬主婦聯盟環境保護基金會所有，歡迎非營利轉載引用,0,17
-html body div footer div div div div div div div div div div div div div p  ,|,0,18
-html body div footer div div div div div div div div div div div div div p a  ,友站連結,0,19
-html body div footer div div div div div div div div div div div div div p  ,|,0,18
-html body div footer div div div div div div div div div div div div div p a  ,網站地圖,0,19
-html body div footer div div div div div div div div div div div div div p  ,|,0,18
-html body div footer div div div div div div div div div div div div div p a  ,聯絡我們,0,19
-html body div footer div div div div div div div div div div div div div p  ,|,0,18
-html body div footer div div div div div div div div div div div div div p a  ,Facebook,0,19
-html body div footer div div div div div div div div div div div div div p  ,|,0,18
-html body div footer div div div div div div div div div div div div div p  ,| 網站贊助：,0,18
-html body div footer div div div div div div div div div div div div div p a  ,名豐豆腐,0,19
-html body div footer div div div div div div div div div div div div div p a  ,全家公益零錢捐,0,19
-html body div footer div div div div div div div div div div div div div p  ,|,0,18
-html body a  ,回到頁面最上方,0,3
+﻿tag,content,label,depth,domain
+html body nav div div div a  ,首頁,0,7,newdata
+html body nav div div ul li a span  ,Open submenu (關於我們),0,9,newdata
+html body nav div div ul li a  ,關於我們,0,8,newdata
+html body nav div div ul li a span  ,Open submenu (行動議題),0,9,newdata
+html body nav div div ul li a  ,行動議題,0,8,newdata
+html body nav div div ul li a span  ,Open submenu (焦點news),0,9,newdata
+html body nav div div ul li a  ,焦點news,0,8,newdata
+html body nav div div ul li a span  ,Open submenu (出版累積),0,9,newdata
+html body nav div div ul li a  ,出版累積,0,8,newdata
+html body nav div div ul li a span  ,Open submenu (台中分會),0,9,newdata
+html body nav div div ul li a  ,台中分會,0,8,newdata
+html body nav div div ul li a  ,南部辦公室,0,8,newdata
+html body nav div div ul li a span  ,Open submenu (捐款支持),0,9,newdata
+html body nav div div ul li a  ,捐款支持,0,8,newdata
+html body nav div div ul li a span  ,Open submenu (環教申請),0,9,newdata
+html body nav div div ul li a  ,環教申請,0,8,newdata
+html body nav div div div a span  ,Close submenu (關於我們),0,8,newdata
+html body nav div div div a  ,關於我們,0,7,newdata
+html body nav div div ul li a  ,本會簡介,0,8,newdata
+html body nav div div ul li a  ,各會據點,0,8,newdata
+html body nav div div ul li a  ,組織架構,0,8,newdata
+html body nav div div ul li a  ,肯定與榮耀,0,8,newdata
+html body nav div div ul li a  ,30週年活動,0,8,newdata
+html body nav div div div a span  ,Close submenu (行動議題),0,8,newdata
+html body nav div div div a  ,行動議題,0,7,newdata
+html body nav div div ul li a  ,綠食育,0,8,newdata
+html body nav div div ul li a  ,低碳綠能,0,8,newdata
+html body nav div div ul li a  ,綠生活,0,8,newdata
+html body nav div div ul li a  ,空污,0,8,newdata
+html body nav div div div a span  ,Close submenu (焦點news),0,8,newdata
+html body nav div div div a  ,焦點news,0,7,newdata
+html body nav div div ul li a  ,專欄文章,0,8,newdata
+html body nav div div ul li a  ,活動報導,0,8,newdata
+html body nav div div ul li a  ,新聞稿,0,8,newdata
+html body nav div div div a span  ,Close submenu (出版累積),0,8,newdata
+html body nav div div div a  ,出版累積,0,7,newdata
+html body nav div div ul li a  ,會訊,0,8,newdata
+html body nav div div ul li a  ,電子報,0,8,newdata
+html body nav div div ul li a  ,行動議題小冊,0,8,newdata
+html body nav div div div a span  ,Close submenu (台中分會),0,8,newdata
+html body nav div div div a  ,台中分會,0,7,newdata
+html body nav div div ul li a  ,台中分會簡介,0,8,newdata
+html body nav div div ul li a  ,環境教育課程申請,0,8,newdata
+html body nav div div ul li a  ,反空污,0,8,newdata
+html body nav div div ul li a  ,減塑減廢,0,8,newdata
+html body nav div div div a span  ,Close submenu (捐款支持),0,8,newdata
+html body nav div div div a  ,捐款支持,0,7,newdata
+html body nav div div ul li a  ,台北總會,0,8,newdata
+html body nav div div ul li a  ,台中分會,0,8,newdata
+html body nav div div ul li a  ,南部辦公室,0,8,newdata
+html body nav div div ul li a  ,行動議題捐款,0,8,newdata
+html body nav div div ul li a  ,振興券捐贈,0,8,newdata
+html body nav div div ul li a  ,捐贈節稅小撇步,0,8,newdata
+html body nav div div ul li a  ,Line Pay 快速捐,0,8,newdata
+html body nav div div ul li a  ,發票捐贈,0,8,newdata
+html body nav div div ul li a span  ,Open submenu (公開資訊),0,9,newdata
+html body nav div div ul li a  ,公開資訊,0,8,newdata
+html body nav div div div a span  ,Close submenu (公開資訊),0,8,newdata
+html body nav div div div a  ,公開資訊,0,7,newdata
+html body nav div div ul li a  ,財務報表,0,8,newdata
+html body nav div div ul li a  ,年度報告,0,8,newdata
+html body nav div div ul li a  ,捐款名單徵信,0,8,newdata
+html body nav div div div a span  ,Close submenu (環教申請),0,8,newdata
+html body nav div div div a  ,環教申請,0,7,newdata
+html body nav div div ul li a  ,環教課程申請,0,8,newdata
+html body nav div div ul li a  ,能源教育基地,0,8,newdata
+html body nav div div ul li a  ,台中故事屋,0,8,newdata
+html body p a  ,跳至導航,0,4,newdata
+html body p a  ,Jump to Main content,0,4,newdata
+html body div header div div div div div div ul li a  ,聯絡我們,0,13,newdata
+html body div header div div div div div div form div div h2  ,搜尋表單,0,14,newdata
+html body div header div div div div div div form div div div label  ,搜尋,0,15,newdata
+html body div nav div div div div div ul li a  ,關於我們,0,12,newdata
+html body div nav div div div div div ul li ul li a  ,本會簡介,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,各會據點,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,組織架構,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,肯定與榮耀,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,30週年活動,0,14,newdata
+html body div nav div div div div div ul li a  ,行動議題,0,12,newdata
+html body div nav div div div div div ul li ul li a  ,綠食育,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,低碳綠能,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,綠生活,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,空污,0,14,newdata
+html body div nav div div div div div ul li a  ,焦點news,0,12,newdata
+html body div nav div div div div div ul li ul li a  ,專欄文章,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,活動報導,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,新聞稿,0,14,newdata
+html body div nav div div div div div ul li a  ,出版累積,0,12,newdata
+html body div nav div div div div div ul li ul li a  ,會訊,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,電子報,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,行動議題小冊,0,14,newdata
+html body div nav div div div div div ul li a  ,台中分會,0,12,newdata
+html body div nav div div div div div ul li ul li a  ,台中分會簡介,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,環境教育課程申請,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,反空污,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,減塑減廢,0,14,newdata
+html body div nav div div div div div ul li a  ,南部辦公室,0,12,newdata
+html body div nav div div div div div ul li a  ,捐款支持,0,12,newdata
+html body div nav div div div div div ul li ul li a  ,台北總會,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,台中分會,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,南部辦公室,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,行動議題捐款,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,振興券捐贈,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,捐贈節稅小撇步,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,Line Pay 快速捐,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,發票捐贈,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,公開資訊,0,14,newdata
+html body div nav div div div div div ul li ul li ul li a  ,財務報表,0,16,newdata
+html body div nav div div div div div ul li ul li ul li a  ,年度報告,0,16,newdata
+html body div nav div div div div div ul li ul li ul li a  ,捐款名單徵信,0,16,newdata
+html body div nav div div div div div ul li a  ,環教申請,0,12,newdata
+html body div nav div div div div div ul li ul li a  ,環教課程申請,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,能源教育基地,0,14,newdata
+html body div nav div div div div div ul li ul li a  ,台中故事屋,0,14,newdata
+html body div main div div div div div h1  ,【2021種子交換會】邀請您一同參與盛會,1,10,newdata
+html body div main div div div div div div div div span  ,AddThis Sharing Buttons,1,13,newdata
+html body div main div div div div div div div div div a span  ,Share to Facebook,1,15,newdata
+html body div main div div div div div div div div div a span svg title  ,Facebook,1,17,newdata
+html body div main div div div div div div div div div a span  ,Share to LINE,1,15,newdata
+html body div main div div div div div div div div div a span svg title  ,LINE,1,17,newdata
+html body div main div div div div div h2  ,您在這裡,1,10,newdata
+html body div main div div div div div div a  ,首頁,1,11,newdata
+html body div main div div div div div div  ,»,1,10,newdata
+html body div main div div div div div div a  ,活動資訊,1,11,newdata
+html body div main div div div div div div div div div div div div div div  ,時間,1,18,newdata
+html body div main div div div div div div div div div div div div div div div span span  ,2021/12/25 10:00,1,21,newdata
+html body div main div div div div div div div div div div div div div div div span  ,到,1,20,newdata
+html body div main div div div div div div div div div div div div div div div span span  ,2021/12/26 17:00,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div  ,疫情持續壟罩，全球對於健康糧食及糧食自主的需求日漸提升，多國開始使用先民與環境共生的智慧，來重新審視國內的糧食自主問題。加上日漸嚴重的跨國企業壟斷、種子基因改造，更是一場無法預知結果的世紀賭局！,1,20,newdata
+html body div main div div div div div div div div div div div div div div div div  ,⠀⠀⠀,1,20,newdata
+html body div main div div div div div div div div div div div div div div div div  ,保種，就是生產糧食的第一步。,1,20,newdata
+html body div main div div div div div div div div div div div div div div div div  ,今年，因為新冠病毒的影響台灣大學原本的場地無法辦理，因此，我們改在新北市新店區的IKEA戶外廣場辦理種子交換會，我們期待您一起加入保種與種子交換行動。,1,20,newdata
+html body div main div div div div div div div div div div div div div div div div  ,⠀⠀⠀⠀⠀⠀,1,20,newdata
+html body div main div div div div div div div div div div div div div div div div  ,2021年的種子生活節，除了最重要的【保種】意識，今年我們加入了《米嶼：米的一百種可能》主題。邀請大家在此感受台灣這米之寶島、認識劃時代米種，如：台南16、高雄139、桃園3號…等，思考米在我們的環境生態、日常、料理、飲食文化的多元可能。,1,20,newdata
+html body div main div div div div div div div div div div div div div div div div p  ,一米種、一飯糰，做個飯糰好滋味；,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div p  ,一展覽、一觀察，認識好米種的新世界；,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div p  ,還有邀請生活風格者、飲食料理學家、自由農夫夥伴、保種專業達人們來一起參與這場盛會！⠀,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div p  ,⠀⠀⠀⠀⠀,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div  ,在詩人歌手的迷人樂音、原住民採小米的高歌中，大家席階而坐、拿著飯糰野餐籃、聽著音樂、走進農學市集，感受米的一百種滋味，一起走進台灣豐饒的環境氣候與風土滋味中。,1,20,newdata
+html body div main div div div div div div div div div div div div div div div div div  ,時間｜2021年12月25日（六）、12月26日（日）10：00～17：00,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div div  ,地點｜新店IKEA戶外廣場+IKEA CAFÉ前廣場（市集、音樂、展覽）,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div div  ,新店IKEA CAFÉ（料理課、論壇）,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div div  ,地址｜新北市新店區中央路159號4F,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div div  ,活動預告：,1,21,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,活 動,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,內容介紹,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,全國種子交換會,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,這次的種子交換會是,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p a  ,台北、宜蘭、台中和高雄同步進行,1,27,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,報名：,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p a  ,https://forms.gle/KkGnB4gzG83zYuTM9,1,27,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,志工招募：,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p a  ,https://reurl.cc/WX2bLx,1,27,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,米人米展,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,多元米品種展覽，看你吃過哪一些？,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,米上菜,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,跟著主廚，體驗餐桌新創意米食料理,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,米嶼派對,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,提著飯糰野餐籃一起逛市集,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,米米之音,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,邀請音樂創作者定時演出，為這塊土地一同發聲,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,種子農學市集,1,26,newdata
+html body div main div div div div div div div div div div div div div div div div div table tbody tr td p  ,聚集小農與手作職人，採集最自然的生活日用 ⠀⠀⠀⠀,1,26,newdata
+html body div main div div div div div div div div div div div div div div div p  ,主辦單位｜台北市文化探索協會,0,20,newdata
+html body div main div div div div div div div div div div div div div div div p  ,協辦單位｜IKEA 宜家家居 新店店、財團法人主婦聯盟環境保護基金會,0,20,newdata
+html body div main div div div div div div div div div div div div div div div p  ,輔導單位｜行政院農業委員會農糧署,0,20,newdata
+html body div main div div div div div div div div div div div div div div  ,發佈單位,0,18,newdata
+html body div main div div div div div div div div div div div div div div div a  ,台北總會,0,20,newdata
+html body div main div div div div div div div div div p a  ,捐款支持,0,15,newdata
+html body div main div div div div div div div div div p a  ,訂電子報,0,15,newdata
+html body div main div div div div div div div div h2  ,最新訊息,0,13,newdata
+html body div main div div div div div div div div div div div div div a  ,more,0,18,newdata
+html body div main div div div div div div div div div div div div div ul li a  ,2021種子生活節/客座保種沙龍,0,20,newdata
+html body div main div div div div div div div div div div div div div ul li a  ,【2021種子交換會】邀請您一同參與盛會,0,20,newdata
+html body div main div div div div div div div div div div div div div ul li a  ,【採訪通知】1201「四方匯流護水源」記者會,0,20,newdata
+html body div main div div div div div div div div div div div div div ul li a  ,廢油環保皂材料包&購買環保家事皂,0,20,newdata
+html body div main div div div div div div div div div div div div div ul li a  ,屏東場11/25【專業植人】推動植物醫師制度與溝通座談會,0,20,newdata
+html body div main div div div div div div div div div div div div a  ,更多訊息,0,17,newdata
+html body div main div div div div div div div div h2  ,熱門主題,0,13,newdata
+html body div main div div div div div div div div div div div div div ul li a  ,非核家園,0,20,newdata
+html body div main div div div div div div div div div div div div div ul li a  ,水與清潔劑,0,20,newdata
+html body div main div div div div div div div div div div div div div ul li a  ,蔬菜減硝酸鹽運動,0,20,newdata
+html body div footer div div div div div div div div div div div div div  ,財團法人主婦聯盟環境保護基金會,0,17,newdata
+html body div footer div div div div div div div div div div div div div  ,總會：100048 台北市中正區汀州路三段160巷4號5樓之1,0,17,newdata
+html body div footer div div div div div div div div div div div div div span  ,（,0,18,newdata
+html body div footer div div div div div div div div div div div div div span a  ,地圖連結,0,19,newdata
+html body div footer div div div div div div div div div div div div div span  ,）,0,18,newdata
+html body div footer div div div div div div div div div div div div div div  ,電話：(02)2368-6211 | 傳真：(02)2368-6213 | E-mail：,0,18,newdata
+html body div footer div div div div div div div div div div div div div div a  ,service@huf.org.tw,0,19,newdata
+html body div footer div div div div div div div div div div div div div  ,台中分會：403028 台中市西區三民西路61號2樓（,0,17,newdata
+html body div footer div div div div div div div div div div div div div a  ,地圖連結,0,18,newdata
+html body div footer div div div div div div div div div div div div div  ,）,0,17,newdata
+html body div footer div div div div div div div div div div div div div  ,電話：(04)2375-5234 | 傳真：(04)2375-5231 | E-mail：,0,17,newdata
+html body div footer div div div div div div div div div div div div div a  ,huaf@huf.org.tw,0,18,newdata
+html body div footer div div div div div div div div div div div div div  ,南部辦公室：813318 高雄市左營區至聖路312號7樓之2（,0,17,newdata
+html body div footer div div div div div div div div div div div div div a  ,地圖連結,0,18,newdata
+html body div footer div div div div div div div div div div div div div  ,）,0,17,newdata
+html body div footer div div div div div div div div div div div div div  ,電話：(07)550-7360 | 傳真：(07)550-7360 | E-mail：,0,17,newdata
+html body div footer div div div div div div div div div div div div div a  ,south@huf.org.tw,0,18,newdata
+html body div footer div div div div div div div div div div div div div  ,ⓒ本站圖文版權屬主婦聯盟環境保護基金會所有，歡迎非營利轉載引用,0,17,newdata
+html body div footer div div div div div div div div div div div div div p  ,|,0,18,newdata
+html body div footer div div div div div div div div div div div div div p a  ,友站連結,0,19,newdata
+html body div footer div div div div div div div div div div div div div p  ,|,0,18,newdata
+html body div footer div div div div div div div div div div div div div p a  ,網站地圖,0,19,newdata
+html body div footer div div div div div div div div div div div div div p  ,|,0,18,newdata
+html body div footer div div div div div div div div div div div div div p a  ,聯絡我們,0,19,newdata
+html body div footer div div div div div div div div div div div div div p  ,|,0,18,newdata
+html body div footer div div div div div div div div div div div div div p a  ,Facebook,0,19,newdata
+html body div footer div div div div div div div div div div div div div p  ,|,0,18,newdata
+html body div footer div div div div div div div div div div div div div p  ,| 網站贊助：,0,18,newdata
+html body div footer div div div div div div div div div div div div div p a  ,名豐豆腐,0,19,newdata
+html body div footer div div div div div div div div div div div div div p a  ,全家公益零錢捐,0,19,newdata
+html body div footer div div div div div div div div div div div div div p  ,|,0,18,newdata
+html body a  ,回到頁面最上方,0,3,newdata

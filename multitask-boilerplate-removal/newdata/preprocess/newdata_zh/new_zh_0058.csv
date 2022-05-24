@@ -1,0 +1,401 @@
+﻿tag,content,label,depth,domain
+html body div div div div h3  ,NPOst 公益交流站,0,7,newdata
+html body div div div div h3  ,Top Menu,0,7,newdata
+html body div div div div h3  ,Main Menu,0,7,newdata
+html body div div div div div ul li a  ,時事,0,10,newdata
+html body div div div div div ul li ul li a  ,短訊,0,12,newdata
+html body div div div div div ul li ul li a  ,新聞,0,12,newdata
+html body div div div div div ul li ul li a  ,評論,0,12,newdata
+html body div div div div div ul li ul li a  ,國際,0,12,newdata
+html body div div div div div ul li ul li a  ,人物,0,12,newdata
+html body div div div div div ul li ul li ul li a  ,人物專訪,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,公益者聯盟,0,14,newdata
+html body div div div div div ul li a  ,議題,0,10,newdata
+html body div div div div div ul li ul li a  ,捐助討論：我捐的愛心都去哪了？,0,12,newdata
+html body div div div div div ul li ul li a  ,安置機構困境解析,0,12,newdata
+html body div div div div div ul li ul li a  ,社會工作一言難盡,0,12,newdata
+html body div div div div div ul li ul li a  ,NPO 爭勞權,0,12,newdata
+html body div div div div div ul li ul li a  ,公益信託,0,12,newdata
+html body div div div div div ul li ul li a  ,銀髮樂齡,0,12,newdata
+html body div div div div div ul li ul li a  ,教育培力,0,12,newdata
+html body div div div div div ul li ul li a  ,行動無礙,0,12,newdata
+html body div div div div div ul li ul li a  ,健康人生,0,12,newdata
+html body div div div div div ul li ul li a  ,性別平權,0,12,newdata
+html body div div div div div ul li ul li a  ,自然保育,0,12,newdata
+html body div div div div div ul li ul li a  ,社會企業,0,12,newdata
+html body div div div div div ul li ul li a  ,胖卡來了！,0,12,newdata
+html body div div div div div ul li ul li a  ,國際合作與發展,0,12,newdata
+html body div div div div div ul li a  ,特輯,0,10,newdata
+html body div div div div div ul li ul li a  ,永續發展專題：Σ教育=?,0,12,newdata
+html body div div div div div ul li ul li a  ,永續發展專題：永續觀光,0,12,newdata
+html body div div div div div ul li ul li a  ,永續發展專題：海洋永續,0,12,newdata
+html body div div div div div ul li ul li a  ,數位轉型首部曲：挺進公益資安最前線,0,12,newdata
+html body div div div div div ul li ul li a  ,有性別，無差別？,0,12,newdata
+html body div div div div div ul li ul li a  ,新巨輪未完待續,0,12,newdata
+html body div div div div div ul li ul li a  ,《大誌》與社會企業討論,0,12,newdata
+html body div div div div div ul li ul li a  ,復康巴士抗爭,0,12,newdata
+html body div div div div div ul li ul li a  ,養護人生 1-6,0,12,newdata
+html body div div div div div ul li ul li a  ,北市社企品牌特輯,0,12,newdata
+html body div div div div div ul li ul li ul li a  ,2019 社企專訪,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2018 社企專訪,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2017 社企專訪,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2016 社企專訪,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2015 社企專訪,0,14,newdata
+html body div div div div div ul li ul li a  ,社區的力量在哪裡？,0,12,newdata
+html body div div div div div ul li ul li a  ,城與鄉的界限：城鄉差距比你想得更大,0,12,newdata
+html body div div div div div ul li ul li a  ,鄉鎮、原民、NPO／跨文化服務的善與難,0,12,newdata
+html body div div div div div ul li a  ,專欄,0,10,newdata
+html body div div div div div ul li ul li a  ,名家專欄,0,12,newdata
+html body div div div div div ul li ul li a  ,捐款人想什麼？,0,12,newdata
+html body div div div div div ul li ul li a  ,社會創新國會,0,12,newdata
+html body div div div div div ul li ul li a  ,網絡社會學：社會創新 X 資訊工具,0,12,newdata
+html body div div div div div ul li ul li a  ,陳岱嶺專欄【在視界的彼端】,0,12,newdata
+html body div div div div div ul li ul li a  ,CSR@天下,0,12,newdata
+html body div div div div div ul li ul li a  ,NPO 小工具,0,12,newdata
+html body div div div div div ul li a  ,公益策略,0,10,newdata
+html body div div div div div ul li ul li a  ,募款秘訣,0,12,newdata
+html body div div div div div ul li ul li a  ,財務運用,0,12,newdata
+html body div div div div div ul li ul li a  ,管理營運,0,12,newdata
+html body div div div div div ul li ul li a  ,網路社群經營,0,12,newdata
+html body div div div div div ul li ul li a  ,新科技改變社會,0,12,newdata
+html body div div div div div ul li ul li a  ,影音看公益,0,12,newdata
+html body div div div div div ul li a  ,活動,0,10,newdata
+html body div div div div div ul li ul li a  ,年會,0,12,newdata
+html body div div div div div ul li ul li ul li a  ,2020 NPOst 年會：最後，都要變成好事——疫情下，臺灣的公益變遷,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2019 NPOST 年會：撐起一個地球的好事,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2018 NPOst 年會：會長大的好事,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2017 NPOst 年會：信任，讓好事長出力量,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2016 NPOst 年會：超越吧！公益,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2015 NPOst 年會：變身吧！公益,0,14,newdata
+html body div div div div div ul li ul li ul li a  ,2014 NPOst 年會：創新吧！公益,0,14,newdata
+html body div div div div div ul li ul li a  ,NPOst 公益學院,0,12,newdata
+html body div div div div div ul li ul li a  ,百樂餐,0,12,newdata
+html body div div div div div ul li ul li a  ,公益爆米花,0,12,newdata
+html body div div div div div ul li ul li a  ,活動現場,0,12,newdata
+html body div div div div div ul li a  ,NPO 推書,0,10,newdata
+html body div div div div div ul li a  ,聯合國永續發展目標,0,10,newdata
+html body div div div div div ul li a  ,NPO 公益幫推,0,10,newdata
+html body div div div div div ul li ul li a  ,徵才訊息更新,0,12,newdata
+html body div div div div div ul li ul li a  ,近期活動,0,12,newdata
+html body div div div div div ul li a  ,關於我們,0,10,newdata
+html body div div div div div ul li ul li a  ,徵稿,0,12,newdata
+html body div div div div div ul li ul li a  ,訂閱電子報,0,12,newdata
+html body div div div div div ul li a  ,支持 NPOst,0,10,newdata
+html body div div div div div ul li ul li a  ,NPOst 捐款徵信,0,12,newdata
+html body div div div nav div div div ul li a  ,時事,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,短訊,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,新聞,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,評論,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,國際,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,人物,0,16,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,人物專訪,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,公益者聯盟,0,18,newdata
+html body div div div nav div div div ul li a  ,議題,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,捐助討論：我捐的愛心都去哪了？,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,安置機構困境解析,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,社會工作一言難盡,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,NPO 爭勞權,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,公益信託,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,銀髮樂齡,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,教育培力,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,行動無礙,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,健康人生,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,性別平權,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,自然保育,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,社會企業,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,胖卡來了！,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,國際合作與發展,0,16,newdata
+html body div div div nav div div div ul li a  ,特輯,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,永續發展專題：Σ教育=?,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,永續發展專題：永續觀光,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,永續發展專題：海洋永續,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,數位轉型首部曲：挺進公益資安最前線,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,有性別，無差別？,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,新巨輪未完待續,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,《大誌》與社會企業討論,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,復康巴士抗爭,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,養護人生 1-6,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,北市社企品牌特輯,0,16,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2019 社企專訪,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2018 社企專訪,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2017 社企專訪,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2016 社企專訪,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2015 社企專訪,0,18,newdata
+html body div div div nav div div div ul li div div ul li a  ,社區的力量在哪裡？,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,城與鄉的界限：城鄉差距比你想得更大,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,鄉鎮、原民、NPO／跨文化服務的善與難,0,16,newdata
+html body div div div nav div div div ul li a  ,專欄,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,名家專欄,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,捐款人想什麼？,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,社會創新國會,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,網絡社會學：社會創新 X 資訊工具,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,陳岱嶺專欄【在視界的彼端】,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,CSR@天下,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,NPO 小工具,0,16,newdata
+html body div div div nav div div div ul li a  ,公益策略,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,募款秘訣,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,財務運用,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,管理營運,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,網路社群經營,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,新科技改變社會,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,影音看公益,0,16,newdata
+html body div div div nav div div div ul li a  ,活動,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,年會,0,16,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2020 NPOst 年會：最後，都要變成好事——疫情下，臺灣的公益變遷,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2019 NPOST 年會：撐起一個地球的好事,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2018 NPOst 年會：會長大的好事,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2017 NPOst 年會：信任，讓好事長出力量,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2016 NPOst 年會：超越吧！公益,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2015 NPOst 年會：變身吧！公益,0,18,newdata
+html body div div div nav div div div ul li div div ul li ul li a  ,2014 NPOst 年會：創新吧！公益,0,18,newdata
+html body div div div nav div div div ul li div div ul li a  ,NPOst 公益學院,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,百樂餐,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,公益爆米花,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,活動現場,0,16,newdata
+html body div div div nav div div div ul li a  ,NPO 推書,0,12,newdata
+html body div div div nav div div div ul li a  ,聯合國永續發展目標,0,12,newdata
+html body div div div nav div div div ul li a  ,NPO 公益幫推,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,徵才訊息更新,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,近期活動,0,16,newdata
+html body div div div nav div div div ul li a  ,關於我們,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,徵稿,0,16,newdata
+html body div div div nav div div div ul li div div ul li a  ,訂閱電子報,0,16,newdata
+html body div div div nav div div div ul li a  ,支持 NPOst,0,12,newdata
+html body div div div nav div div div ul li div div ul li a  ,NPOst 捐款徵信,0,16,newdata
+html body div div div div div div div div div span  ,share,0,12,newdata
+html body div div div div div div div div div div div a  ,公益爆米花,0,14,newdata
+html body div div div div div div h3  ,公益爆米花 x FuckUp Nights 搞砸之夜,1,9,newdata
+html body div div div div div div div div span  ,Post on:,1,11,newdata
+html body div div div div div div div div  ,"1 月 9, 2017",1,10,newdata
+html body div div div div div div div div span a  ,NPOst 編輯室,1,12,newdata
+html body div div div div div div div div a span  ,0,1,12,newdata
+html body div div div div div div div div div p span  ,─NPOst x Impact Hub Taipei 歲末年終 特別企劃─,1,13,newdata
+html body div div div div div div div div div p  ,政府專案要求太多、核銷太繁瑣！什麼時候才可以結案……,1,12,newdata
+html body div div div div div div div div div p  ,志工難求、募款無法達標！好痛苦好想放棄……,1,12,newdata
+html body div div div div div div div div div p  ,募得款項再多，為什麼薪水還是一成不變！理想與現實的拉鋸……,1,12,newdata
+html body div div div div div div div div div p  ,NPO 人的苦，NPOst 知道！沒關係，你、不、是、一、個、人！,1,12,newdata
+html body div div div div div div div div div p  ,2016 的我們經歷了種種鳥事，就在歲末年終不吐不快，,1,12,newdata
+html body div div div div div div div div div p  ,讓我們在美麗的週末夜晚，吐出各種負能量，再用酒精療癒心中的小惡魔！,1,12,newdata
+html body div div div div div div div div div p  ,為 2016 畫下句點，迎向更美好的 2017 年，,1,12,newdata
+html body div div div div div div div div div p  ,1/20（五）晚上七點三十分，邀請您參加,1,12,newdata
+html body div div div div div div div div div p strong  ,NPOst 公益爆米花 x FuckUp Nights Taipei,1,13,newdata
+html body div div div div div div div div div p  ,，一同釋放負能量！,1,12,newdata
+html body div div div div div div div div div p strong  ,活動支持單位:中華社會福利聯合勸募協會 United Way of Taiwan,1,13,newdata
+html body div div div div div div div div div p span  ,─關於 FuckUp Nights 搞砸之夜─,1,13,newdata
+html body div div div div div div div div div p span  ,「成功實屬偶然，失敗卻為常態」,1,13,newdata
+html body div div div div div div div div div p  ,FuckUp Nights，2012年起源於墨西哥，是個國際串連的講座品牌，是個分享、訴說與慶祝失敗的平台，我們認為「成功實屬偶然，失敗卻為常態」，活動進行中搭配啤酒，透過正面、詼諧的方式，告訴大家勿忘前車之鑑，並從中學習，同時洗刷「失敗」兩字長期以來污名化的現象。,1,12,newdata
+html body div div div div div div div div div p span  ,活動資訊,1,13,newdata
+html body div div div div div div div div div ul li span  ,時間：1月20日（五）19:30 – 21:30（19:00開放入場）,1,14,newdata
+html body div div div div div div div div div ul li span  ,地點：Impact Hub Taipei（台北市大安區和平東路二段265巷3號）,1,14,newdata
+html body div div div div div div div div div ul li span  ,費用：知性票（贈書）：500元；一般票：300元,1,14,newdata
+html body div div div div div div div div div ul li span  ,提供每位參加者一瓶,1,14,newdata
+html body div div div div div div div div div ul li span strong  ,禾餘麥酒,1,15,newdata
+html body div div div div div div div div div ul li span  ,讓大家小酌,1,14,newdata
+html body div div div div div div div div div ul li span  ,主辦單位：,1,14,newdata
+html body div div div div div div div div div ul li span span a  ,NPOst公益交流站,1,16,newdata
+html body div div div div div div div div div ul li span span  ,、,1,15,newdata
+html body div div div div div div div div div ul li span span a  ,Impact Hub Taipei,1,16,newdata
+html body div div div div div div div div div ul li span a  ,facebook活動「公益爆米花 x FuckUp Nights Taipei,1,15,newdata
+html body div div div div div div div div div ul li span  ,」,1,14,newdata
+html body div div div div div div div div div ul li strong span  ,注意：本活動現場報名者無法供應啤酒、活動現場禁止錄音、錄影。主辦單位保有修改、暫停或終止本活動之權利。,1,15,newdata
+html body div div div div div div div div div p span strong  ,分享人介紹,1,14,newdata
+html body div div div div div div div div div p strong span  ,橘冰月,1,14,newdata
+html body div div div div div div div div div p strong span  ,科大社工,1,14,newdata
+html body div div div div div div div div div p span  ,熱愛組裝鋼彈模型，深信機器人只要是紅色，頭上有角，就會有 3 倍的性能。畢業於朝陽科技大學社會工作系，就讀研究所時，因曾親身體現臺、政社工教授對於科大社工的口誅筆伐，因而立志在社會工作專業發展的論述戰場以被壓迫者的姿態寫債寫償。,1,13,newdata
+html body div div div div div div div div div p strong span  ,黃則斌,1,14,newdata
+html body div div div div div div div div div p strong span  ,心展物聯網 董事長,1,14,newdata
+html body div div div div div div div div div p span  ,嗨大家好，我是黃則斌，2015 年成立心展物聯網，希望一年內改變臺灣的小額捐款文化，很明顯，看來還需要一點時間。同時也希望 NGO/NPO 將最有限資源都放在最重要的地方，讓痛苦與消耗過去，智慧與創意留下。＿＿師大附中 → 成功大學工科系 → 清華大學奈微所 → 博士班輟學創業，最後這點與蘋果賈伯思、微軟比爾蓋茲還有臉書馬克祖克柏起碼 87% 像。,1,13,newdata
+html body div div div div div div div div div p strong span  ,陳新皓,1,14,newdata
+html body div div div div div div div div div p strong span  ,桃園市社會工作職業人員工會 理事,1,14,newdata
+html body div div div div div div div div div p span  ,I fuck myself up as a social worker.,1,13,newdata
+html body div div div div div div div div div p span strong span  ,搭配選書,1,15,newdata
+html body div div div div div div div div div p span  ,這次的歲末年終特別活動，NPOst 也特別精選了 2016 年底強勢好書《不在病床上說再見》，,1,13,newdata
+html body div div div div div div div div div p span span  ,購買本講座知性票，即可於入場時獲贈一本,1,14,newdata
+html body div div div div div div div div div p span  ,！,1,13,newdata
+html body div div div div div div div div div p strong span  ,《不在病床上說再見》,1,14,newdata
+html body div div div div div div div div div p  ,在歐美，很少看到長年臥病在床的老人，,1,12,newdata
+html body div div div div div div div div div p  ,在台灣，想擺脫住院、臥床的折磨，卻是奢望。,1,12,newdata
+html body div div div div div div div div div p  ,為什麼醫療越發達，想要圓滿而終卻越來越困難？,1,12,newdata
+html body div div div div div div div div div p  ,如何主張醫療自主，才能沒有遺憾地道別，讓人生結束得更像一個人。,1,12,newdata
+html body div div div div div div div div div p  ,意識不清、不能言語，臥病在床、包著尿布、甚至被綁住手腳，,1,12,newdata
+html body div div div div div div div div div p  ,僅能從口中的塑膠管灌入營養品。用這種模樣來做人生的謝幕，有誰願意？,1,12,newdata
+html body div div div div div div div div div p span span  ,─購買本講座,1,14,newdata
+html body div div div div div div div div div p span span strong  ,知性票,1,15,newdata
+html body div div div div div div div div div p span span  ,，即可於入場時獲贈一本─,1,14,newdata
+html body div div div div div div div div div ul li span  ,"作者：宮本顯二, 宮本禮子",1,14,newdata
+html body div div div div div div div div div ul li span  ,出版社：啟示出版社,1,14,newdata
+html body div div div div div div div div div ul li span  ,發行日期：2016年12月1日,1,14,newdata
+html body div div div div div div div div div ul li span a  ,為什麼歐美少有長年臥床的老人？／《不在病床上說再見》書摘 1,1,15,newdata
+html body div div div div div div div div div ul li span a  ,半世紀前醫療尚未發達，我們反而能有尊嚴的善終？／《不在病床上說再見》書摘 2,1,15,newdata
+html body div div div div div div div div div ul li span a  ,馬上購買,1,15,newdata
+html body div div div div div div div div div p strong span  ,票種說明,1,14,newdata
+html body div div div div div div div div div ul li span  ,知性票：500元（（入場時贈《,1,14,newdata
+html body div div div div div div div div div ul li span strong span  ,不在病床上說再見,1,16,newdata
+html body div div div div div div div div div ul li span  ,》一本，及提供每位參加者一瓶禾餘麥酒讓大家小酌）,1,14,newdata
+html body div div div div div div div div div ul li span  ,一般票：300元（本票種不含贈書。入場時提供每位參加者一瓶禾餘麥酒讓大家小酌）,1,14,newdata
+html body div div div div div div div div div span  ,Tags:,0,12,newdata
+html body div div div div div div div div div a  ,FuckUp Nights,0,12,newdata
+html body div div div div div div div div div a  ,公益爆米花,0,12,newdata
+html body div div div div div div div div div a  ,搞砸之夜,0,12,newdata
+html body div div div div div div div div div a  ,歲末年終特別企劃,0,12,newdata
+html body div div div div div div div div div h3 span  ,作者介紹,0,13,newdata
+html body div div div div div div div div div div h3 a  ,NPOst 編輯室,0,14,newdata
+html body div div div div div div div div div div p  ,NPOst 公益交流站，隸屬社團法人臺灣數位文化協會，為一非營利數位媒體，專責報導臺灣公益社福動態，重視產業交流、公益發展，促進捐款人、政府、社群、企業、弱勢與社福組織之溝通，強化公益組織橫向連結，矢志成為臺灣最大公益交流平臺。另引進國際發展援助與國外組織動向，舉辦每月實體講座與年會，深入探究議題，激發討論與對話。其姐妹站為「泛傳媒」旗下之泛科學、泛科技、娛樂重擊等專業媒體。NPOst 臉書：https://www.facebook.com/npost.tw,0,13,newdata
+html body div div div div div div div div div h3 span  ,延伸閱讀,0,13,newdata
+html body div div div div div div div div div ul li div div h4 a  ,愛滋防疫醫師羅一鈞：「科學歸科學，疾病的世界也存在分配正義的問題。」,0,17,newdata
+html body div div div div div div div div div ul li div div div  ,在台灣，感染愛滋病的年齡逐漸下降，除了愛 ...,0,16,newdata
+html body div div div div div div div div div ul li div div div div a  ,人物,0,18,newdata
+html body div div div div div div div div div ul li div div div div  ,"6 月 8, 2015",0,17,newdata
+html body div div div div div div div div div ul li div div div div a span  ,0,0,19,newdata
+html body div div div div div div div div div ul li div div h4 a  ,公益爆米花#20｜如果出國打工可以少奮鬥十年……？百種跨國勞動，一種鄉愁,0,17,newdata
+html body div div div div div div div div div ul li div div div  ,如果有機會，你願不願意遠渡重洋掏金？如同 ...,0,16,newdata
+html body div div div div div div div div div ul li div div div div a  ,公益爆米花,0,18,newdata
+html body div div div div div div div div div ul li div div div div  ,"8 月 17, 2015",0,17,newdata
+html body div div div div div div div div div ul li div div div div a span  ,0,0,19,newdata
+html body div div div div div div div div div ul li div div h4 a  ,公益爆米花#9｜歲末特別版，「你出點子，我來做」弱勢婦女支持計劃 IDEA 大募集！,0,17,newdata
+html body div div div div div div div div div ul li div div div  ,轉眼間已經進入 12 月，2014 年進 ...,0,16,newdata
+html body div div div div div div div div div ul li div div div div a  ,公益爆米花,0,18,newdata
+html body div div div div div div div div div ul li div div div div  ,"12 月 10, 2014",0,17,newdata
+html body div div div div div div div div div ul li div div div div a span  ,0,0,19,newdata
+html body div div div div div div div aside div div h3  ,歷史文章,0,13,newdata
+html body div div div div div div div aside label  ,歷史文章,0,11,newdata
+html body div div div div div div div aside select option  ,選取月份,0,12,newdata
+html body div div div div div div div aside select option  ,2022 年 2 月 (2),0,12,newdata
+html body div div div div div div div aside select option  ,2022 年 1 月 (21),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 12 月 (20),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 11 月 (11),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 10 月 (19),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 9 月 (18),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 8 月 (18),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 7 月 (17),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 6 月 (18),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 5 月 (9),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 4 月 (9),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 3 月 (12),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 2 月 (8),0,12,newdata
+html body div div div div div div div aside select option  ,2021 年 1 月 (8),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 12 月 (12),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 11 月 (16),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 10 月 (14),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 9 月 (15),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 8 月 (10),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 7 月 (20),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 6 月 (7),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 5 月 (11),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 4 月 (15),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 3 月 (11),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 2 月 (10),0,12,newdata
+html body div div div div div div div aside select option  ,2020 年 1 月 (4),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 12 月 (29),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 11 月 (27),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 10 月 (31),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 9 月 (24),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 8 月 (20),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 7 月 (19),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 6 月 (21),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 5 月 (16),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 4 月 (15),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 3 月 (18),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 2 月 (16),0,12,newdata
+html body div div div div div div div aside select option  ,2019 年 1 月 (29),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 12 月 (27),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 11 月 (59),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 10 月 (43),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 9 月 (38),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 8 月 (36),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 7 月 (28),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 6 月 (28),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 5 月 (49),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 4 月 (33),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 3 月 (37),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 2 月 (28),0,12,newdata
+html body div div div div div div div aside select option  ,2018 年 1 月 (44),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 12 月 (39),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 11 月 (54),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 10 月 (32),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 9 月 (39),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 8 月 (31),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 7 月 (24),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 6 月 (41),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 5 月 (38),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 4 月 (29),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 3 月 (58),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 2 月 (28),0,12,newdata
+html body div div div div div div div aside select option  ,2017 年 1 月 (25),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 12 月 (46),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 11 月 (70),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 10 月 (48),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 9 月 (50),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 8 月 (40),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 7 月 (49),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 6 月 (53),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 5 月 (53),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 4 月 (56),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 3 月 (50),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 2 月 (54),0,12,newdata
+html body div div div div div div div aside select option  ,2016 年 1 月 (30),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 12 月 (17),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 11 月 (23),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 10 月 (17),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 9 月 (27),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 8 月 (31),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 7 月 (21),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 6 月 (27),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 5 月 (44),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 4 月 (51),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 3 月 (33),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 2 月 (35),0,12,newdata
+html body div div div div div div div aside select option  ,2015 年 1 月 (38),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 12 月 (51),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 11 月 (30),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 10 月 (37),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 9 月 (43),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 8 月 (37),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 7 月 (50),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 6 月 (33),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 5 月 (63),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 4 月 (60),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 3 月 (52),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 2 月 (16),0,12,newdata
+html body div div div div div div div aside select option  ,2014 年 1 月 (3),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 12 月 (18),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 11 月 (16),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 10 月 (14),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 9 月 (4),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 8 月 (9),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 7 月 (4),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 6 月 (6),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 5 月 (4),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 4 月 (5),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 3 月 (4),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 2 月 (4),0,12,newdata
+html body div div div div div div div aside select option  ,2013 年 1 月 (7),0,12,newdata
+html body div div div div div div div aside select option  ,2012 年 12 月 (7),0,12,newdata
+html body div div div div div div div aside select option  ,2012 年 11 月 (5),0,12,newdata
+html body div div div div div div div aside select option  ,2012 年 10 月 (9),0,12,newdata
+html body div div div div div div div aside select option  ,2012 年 9 月 (6),0,12,newdata
+html body div div div div div div div aside select option  ,2012 年 4 月 (3),0,12,newdata
+html body div div div div div div div aside select option  ,2012 年 3 月 (3),0,12,newdata
+html body div div div div div div div aside select option  ,2012 年 2 月 (2),0,12,newdata
+html body div div div div div div div aside select option  ,2012 年 1 月 (3),0,12,newdata
+html body div div div div div div div aside select option  ,2011 年 12 月 (4),0,12,newdata
+html body div div div div div div div aside select option  ,2011 年 11 月 (11),0,12,newdata
+html body div div div div div div div aside select option  ,2011 年 10 月 (4),0,12,newdata
+html body div div div div div div div aside select option  ,2011 年 9 月 (2),0,12,newdata
+html body div div div div div div div aside select option  ,2011 年 8 月 (2),0,12,newdata
+html body div div div div div div div aside select option  ,2011 年 7 月 (3),0,12,newdata
+html body div div div div div div div aside select option  ,2011 年 1 月 (1),0,12,newdata
+html body div div div div div div div aside select option  ,1999 年 3 月 (1),0,12,newdata
+html body div div div div div div div aside div div div h3  ,支持 NPOst,0,14,newdata
+html body div div div div div div div aside div div h3  ,關於 NPOst 公益交流站,0,13,newdata
+html body div div div div div div div aside div p  ,由臺灣數位文化協會所推動、全臺最大的公益議題媒體。矢志串聯全臺非營利組織，深入討論社會福利與創新。相信行善的無限可能與多元突破，支持跨領域合作以邁向社會共好。關心所有邊緣弱勢，探究助人的倫理與學問，期許成為全臺服務與倡議團體之最大交流平臺。,0,12,newdata
+html body div div div div div div div aside div p  ,聯絡我們：contact@npost.tw,0,12,newdata
+html body div div div div div div div aside div p  ,法律顧問：安正國際法律事務所 陳以蓓律師,0,12,newdata
+html body div div div div div div div  ,© Copyright,0,9,newdata
+html body div div div div div div div a  ,NPOst.tw,0,10,newdata
+html body div div div div div div div  ,. All rights reserved.,0,9,newdata
+html body div div div div div div div ul li a  ,隱私權政策,0,12,newdata
+html body div div div div div div div ul li a  ,NPO巡禮,0,12,newdata
+html body div div div div div div div ul li a  ,加入NPOst,0,12,newdata
+html body div div div div div div div ul li a  ,關於 NPOst,0,12,newdata
+html body div div div div div div div ul li a  ,作者專區,0,12,newdata

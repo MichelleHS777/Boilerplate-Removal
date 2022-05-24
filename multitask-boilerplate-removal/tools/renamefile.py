@@ -1,8 +1,6 @@
 ## chage the path to the current file you want to change
 import os
 
-# start = 0 
-
 # rename
 for file in os.listdir(os.getcwd()):
     file = file.replace('.csv','')

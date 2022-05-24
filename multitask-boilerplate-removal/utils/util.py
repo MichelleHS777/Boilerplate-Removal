@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 import re
 import os
+from tensorflow.keras.utils import to_categorical
 
 
 def limit_gpu():
@@ -21,6 +22,7 @@ def limit_gpu():
         except RuntimeError as e:
             # Visible devices must be set before GPUs have been initialized
             print(e)
+
 
 def preprocess_df(args, df, dataloader, WORD, aux=False):
     df_tag = [str(t) for t in list(df['tag'])]
@@ -68,15 +70,24 @@ def preprocess_df(args, df, dataloader, WORD, aux=False):
     if "label" not in df.columns:
         df['label'] = [-1 for _ in range(len(df))]
     label = tf.one_hot(np.array(df['label']), 2)
-    # print('label: \n', label)
-    
+
+    # Add domain classifier
+    if "domain" not in df.columns:
+        df['domain'] = [-1 for _ in range(len(df))]
+    category = ['cleaneval', 'newdata'] # Domain source
+    cate2idx = {cate:idx for idx, cate in enumerate(category)} # Create domain dictionary
+    domains = []
+    for i in range(len(df)):
+        domains.append(cate2idx[df.loc[i]['domain']])
+    domain = to_categorical(domains, num_classes=len(cate2idx)) 
+
     if aux:
         if aux == 1:
             if "depth" not in df.columns:
                 df['depth'] = [len(list(filter(None, t.split(" "))))
                             for t in df.tag]
             depth = np.expand_dims(np.array(df['depth']), [-1])
-            return tag_emb, content_emb, label, depth
+            return tag_emb, content_emb, label, depth, domain
         else:
             cols = [
                 "x",
@@ -86,33 +97,20 @@ def preprocess_df(args, df, dataloader, WORD, aux=False):
             ]
             pos = np.array(df[cols])
             pos = dataloader.scaler.fit_transform(pos)
-            return tag_emb, content_emb, label, pos
+            return tag_emb, content_emb, label, pos, domain
     return tag_emb, content_emb, label
 
 def get_data(args, file, dataloader, WORD=False, aux=0):
     df = pd.read_csv(file)
-    
-    # Add domain  classifier
-    if "ce" in file:
-        domain = 0 # cleaneval
-    else:
-        domain = 1 # newdata
-    domain = pd.Series([domain])
-    # print('file: ', file)
-    # print('domain: ', domain)
-    domain_out = tf.one_hot(np.array(domain), 2)
-
+    # Train
     if aux:
-        # train set
-        tag_out, emb_out, label_out, aux_out = preprocess_df(
+        tag_out, emb_out, label_out, aux_out, domain_out = preprocess_df(
             args, df, dataloader, WORD, aux)
-        # print('file: ', file)
-        # print('type: ', type(tag_out), type(emb_out), type(label_out), type(aux_out))
-        # print('label out: ', label_out)
         return tag_out, emb_out, label_out, aux_out, domain_out
-    # val set and test set
-    tag_out, emb_out, label_out = preprocess_df(args, df, dataloader, WORD, aux) 
-    return tag_out, emb_out, label_out 
+    # Validation and Test
+    tag_out, emb_out, label_out = preprocess_df(args, df, dataloader, WORD, aux)
+    return tag_out, emb_out, label_out
+
 
 def concatAxisZero(all_pred, pred):
     if all_pred is None:
