@@ -184,11 +184,11 @@ def train(args, myDataLoader, myModel):
                     count += 1
                     train_out, a_pred, domain_pred = myModel.MC_sampling(    # train_out: predict label, a_pred: predict depth or pos
                         t, e, training=True)
-                    loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out)
-                    # loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out) + \
-                    #     args.alpha*MSE(a, a_pred) + Category_Loss(d, domain_pred)
-                    # print('main loss: ', (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out))
-                    # print('aux loss: ', args.alpha*MSE(a, a_pred))  
+                    # loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out)
+                    loss += (1-args.alpha)*My_Mask_CE(y_true=y, y_pred=train_out) + \
+                        args.alpha*MSE(a, a_pred) + Category_Loss(d, domain_pred)
+                    # print('main loss: ', My_Mask_CE(y_true=y, y_pred=train_out))
+                    # print('aux loss: ', MSE(a, a_pred))  
                     # print('domain loss: ', Category_Loss(d, domain_pred))  
                 if args.tag_rep == 0:
                     trainable_variables = myModel.trainable_variables
