@@ -10,7 +10,7 @@ val_losses=[]
 train_loss = []
 val_loss = []
 
-f = open('../result/220520/AllLoss+alpha025.txt', 'r')
+f = open('../result/220526/addDomain.txt', 'r')
 for line in f.readlines():
     if "train loss" in line:
         # print('train')
@@ -38,4 +38,4 @@ plt.xlabel("Epoch")
 plt.legend(["Train", "Val"], loc='upper left')
 plt.xlim([2, 20])
 # plt.legend(["Train"], loc='upper left')
-plt.savefig('../result/220520/AllLoss+alpha025.png')
+plt.savefig('../result/220526/addDomain.png')
